@@ -1,0 +1,237 @@
+28  ATRIBUNA  VITÓRIA, ES, SÁBADO, 04 DE AGOSTO DE 2018
+
+Ciência e Tecnologia
+Vírus em 200 mil roteadores
+para gerar moedas virtuais
+
+Código malicioso
+infectou equipamentos
+MikroTik em todo
+o mundo, sobretudo
+no Brasil, roubando
+energia dos usuários
+
+SÃO PAULOUm ataque em massa está in-
+
+fectando centenas de mi-
+lhares de roteadores da Mi-
+kroTik em todo o mundo desde o
+início desta semana. A praga já
+afetou mais de 200 mil equipa-
+mentos, boa parte no Brasil, e exe-
+cuta um código em JavaScript no
+navegador do usuário para mine-
+rar a criptomoeda Monero e gerar
+dinheiro aos invasores.
+
+Segundo o Bleeping Computer,
+o ataque estava concentrado no
+Brasil em seus estágios iniciais,
+quando infectou mais de 72 mil ro-
+teadores, mas depois se espalhou
+para o resto do mundo.
+
+O primeiro a notar o problema,
+aliás, foi um pesquisador de segu-
+rança brasileiro, identificado ape-
+nas como MalwareHunterBR. Pa-
+ra fazer o ataque, o invasor se
+aproveita de uma falha zero-day
+no RouterOS, sistema operacional
+dos equipamentos da MikroTik.
+
+Essa brecha foi descoberta em
+abril e corrigida em algumas horas
+— mas, como de costume, muita
+gente não aplicou o patch de segu-
+rança e continuou vulnerável.
+
+Quando o ataque é feito com su-
+
+CRIMINOSOS DA INTERNET usam código malicioso para ganhar dinheiro utilizando o computador alheio
+
+cesso, parte do tráfego que passa
+pelo roteador é interceptado para
+incluir um minerador de cripto-
+moeda — com isso, o código é exe-
+cutado no navegador do usuário,
+não no roteador, que tem capaci-
+dade limitada de processamento.
+Interessante é que o ataque fun-
+ciona em qualquer direção. Como
+os equipamentos da MikroTik
+também são utilizados em am-
+bientes corporativos, um site que
+
+estiver hospedado em um servidor
+cujo tráfego passe por um roteador
+da marca poderá ter o minerador
+injetado em suas páginas, inde-
+pendente do roteador do visitante.
+Para quem tem um roteador da
+MikroTik, a recomendação é ins-
+talar uma atualização do Route-
+rOS o mais rápido possível.
+
+Hackers têm gerado moedas vir-
+tuais com códigos maliciosos que
+passam despercebidos pelo usuá-
+
+rio por mais tempo, usando o com-
+putador alheio em segredo.
+
+A intenção do criminoso é usar
+uma rede de computadores para
+trabalharem por ele. Assim, as
+moedas podem ser geradas sem
+precisar gastar com energia elétri-
+ca ou investir em equipamento.
+
+A consequência para o usuário é
+um sobreaquecimento do compu-
+tador, roubo de energia e um des-
+gaste mais acelerado do aparelho.
+
+Sucesso com pulmão artificial
+
+Os pesquisadores Joan Nichols e
+Joaquim Cortiella, da Faculdade
+de Medicina da Universidade do
+Texas, foram os primeiros a desen-
+volver pulmões humanos em labo-
+ratórios de bioengenharia, em
+2014. A ideia é usar a invenção pa-
+ra tratar pacientes com lesões ou
+câncer nesse órgão, sem precisar
+depender das filas cada vez maio-
+res para receber doações.
+
+Agora, eles conseguiram realizar
+o feito de transplantar esses pul-
+mões em porcos adultos sem efei-
+tos adversos. As informações são
+do site da Superinteressante.
+
+O pulmão artificial foi construí-
+do a partir de um pulmão de ver-
+dade, doado por outro porco. Os
+cientistas retiraram o sangue e as
+células do órgão, deixando apenas
+sua estrutura externa, que foi mer-
+
+gulhada em um tanque de nu-
+trientes. O pulmão foi deixado
+nesse tanque por 30 dias, período
+no qual se (re)construiu totalmen-
+te, e então transplantado.
+
+Os órgãos artificiais foram im-
+plantados em vários porcos, e ne-
+nhum deles apresentou rejeição
+imunológica (o que sempre ocorre
+nos transplantes convencionais).
+“Os pulmões continuaram a se de-
+senvolver sem a necessidade de
+qualquer infusão de fatores (hor-
+mônio) de crescimento”, disse Joa-
+quim Cortiella ao site IFLscience.
+Agora, os cientistas pretendem
+
+observar o funcionamento dos
+pulmões artificiais a longo prazo.
+Eles acreditam que o primeiro
+transplante em humanos possa
+acontecer daqui a cinco ou dez
+anos. E não pretendem parar aí.
+
+A mesma técnica poderá ser
+usada para criar corações e outros
+órgãos em laboratório. Quando is-
+so acontecer, as filas para receber
+doações ficarão cada vez menores
+e talvez, em um futuro distante,
+nem sejam mais necessárias.
+
+PULMÃO artificial: teste em humano
+
+FOTOS: DIVULGAÇÃO
+
+LUZ líquida: substância peculiar
+
+Luz líquida,
+o quinto
+estado da
+m at é r i a
+
+No conto “A luz é como a
+água”, Gabriel García Márquez
+narra as aventuras de Totó e
+Joel, duas crianças que, durante
+as noites, quebram lâmpadas de
+sua casa e navegam entre as cor-
+rentes de luz que surgem delas.
+“Uma corrente de luz doura-
+da e fria como a água começou a
+sair da lâmpada quebrada, e eles
+a deixaram correr até o nível
+atingir quatro palmos. Então,
+eles cortaram a corrente, pega-
+ram o barco e navegaram à von-
+tade entre as ilhas da casa”, es-
+creve o Nobel de Literatura.
+
+A cena, por mais fantástica
+que pareça, não está tão longe
+da realidade quanto parece.
+
+Cientistas que estudam fenô-
+menos quânticos demonstra-
+ram que a luz, sob condições es-
+peciais, pode se comportar co-
+mo um líquido que flui e ondula
+em torno dos obstáculos que
+encontra, como a corrente de
+um rio entre as pedras.
+
+A“luz líquida”é uma substân-
+cia muito peculiar. Não é sólida
+nem plasma e tampouco se
+comporta como um líquido ou
+gás. Os cientistas a chamam de
+Condensado de Bose-Einstein
+(BEC, em inglês) e a consideram
+o “quinto estado da matéria”.
+
+Nesse estado, as partículas se
+sincronizam e se movem em
+harmonia, formando um “s u-
+perflu ido”. “É parecido com
+qualquer outro líquido ou gás,
+mas com propriedades espe-
+ciais, uma das quais é que todas
+as suas partes estão relaciona-
+das”, diz Daniele Sanvitto, pes-
+quisador do Instituto de Nano-
+tecnologia da Itália.
+
+Os superfluidos não criam
+ondas e não experimentam fric-
+ção ou viscosidade. Eles têm um
+“comportamento coletivo”, diz
+Sanvitto. “É como um grupo de
+bailarinos fazendo os mesmos
+movimentos ou uma onda de
+pessoas marchando no mesmo
+compasso”.
+
+Assim, um líquido comum, ao
+esbarrar numa parede, saltaria,
+mas um superfluido, como a luz
+líquida, circularia ao longo da
+parede. “Se você enviar um jato
+desses contra a parede, ele a es-
+calará em qualquer direção e,
+eventualmente, voltará a se co-
+nectar depois do obstáculo”.
+
+

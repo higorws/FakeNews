@@ -1,0 +1,187 @@
+28  ATRIBUNA  VITÓRIA, ES, SEXTA-FEIRA, 29 DE JUNHO DE 2018
+
+Ciência e Tecnologia
+Curativo de abacaxi
+acelera cicatrização
+
+FOTOS: DIVULGAÇÃO
+
+Composto, que vai ser
+testado em animais,
+consiste em proteína
+da fruta e uma celulose
+bacteriana e é usado
+em aplicações médicas
+
+SÃO PAULOA associação de uma proteína
+
+do abacaxi com celulose
+produzida por bactérias re-
+sultou em um curativo eficiente
+como anti-inflamatório cicatrizan-
+te de ferimentos, ulcerações e
+queimaduras, segundo trabalho de
+pesquisadores das universidades
+de Sorocaba (Uniso) e Unicamp,
+com apoio da Fundação de Ampa-
+ro à Pesquisa do Estado de São
+Paulo (Fapesp).
+
+Ele produziram um composto na
+forma de gel ou emplastro que tem
+como base a proteína do abacaxi,
+chamada de bromelina, e a celulose
+bacteriana — dois elementos que já
+vinham sendo estudados há tempos
+
+para aplicações nas áreas médica,
+farmacêutica e cosmética. As infor-
+mações são da BBC Brasil.
+
+A bromelina tem a propriedade
+de quebrar moléculas de outras
+proteínas — o chamado debrida-
+mento celular — e, por isso, é usada
+até para amaciar carne.
+
+“Essa mesma característica faz
+com que ela (a bromelina) remova
+as células mortas na ferida, lim-
+pando-a e acelerando sua cicatri-
+z a ç ão ”, explica Janaína Artem
+Ataide, da Unicamp, autora princi-
+pal do artigo publicado no periódi-
+co Scientific Reports, do grupo
+Nature, que mostra os resultados
+do trabalho conjunto.
+
+“Essa característica
+
+moléculas de proteínas)
+faz com que a bromelina
+remova as células
+
+mortas na ferida”
+
+Janaína Artem Ataide,
+pesquisadora da Unicamp
+
+(de quebrar
+
+A celulose é o biopolímero mais
+abundante da natureza, produzido
+principalmente por plantas. Mas
+há alguns microorganismos, como
+a bactéria Gluconacetobacter xyli-
+nus, capazes de sintetizá-la.
+
+“Essa bactéria é uma biofábri-
+ca”, explica a pesquisadora Angela
+Faustino Jozala, do Laboratório de
+Microbiologia Industrial e Proces-
+sos Fermentativos da Uniso, outra
+autora do artigo.
+
+“Ela produz a celulose como se
+tricotasse polímeros de glicose
+(açúcar). Como o produto é tecido
+em nanoestruturas, o chamamos
+de nanocelulose”.
+
+Jozala diz que o material já vem
+sendo utilizado em diversas apli-
+cações médicas, como, por exem-
+plo, em enxertos e substitutos
+temporários de pele ou curativos
+no tratamento de lesões.
+
+De acordo com ela, o novo curati-
+vo já passou pela primeira fase de
+desenvolvimento de um medica-
+mento, que é feito em laboratório,
+para verificar se tem o efeito deseja-
+do e não é tóxico. Agora, virá a fase
+dois, que são os testes com animais.
+
+ABACAXI t ra z
+a bromelina,
+princípio ativo
+do curativo
+(d e s ta q u e )
+
+Perigo com aplicativo
+para poupar bateria
+
+A empresa de segurança RiskIQ
+analisou um aplicativo de economia
+para Android chamado “Ad va nc e d
+Battery Saver” e descobriu que ele
+usava o aparelho de quem o instala-
+va para realizar fraudes publicitá-
+rias, clicando em anúncios e intera-
+gindo via SMS com provedores de
+conteúdo para fraudar anunciantes
+e fazer com que eles pagassem por
+cliques em publicidade que nunca
+aconteceram de verdade.
+
+Diferente de outros aplicativos
+maliciosos para Android, o “Advan -
+ced Battery Saver” tinha a capaci-
+dade de realizar algumas tarefas de
+economia de bateria, incluindo o
+encerramento de atividades que es-
+tavam consumindo muita bateria.
+
+D I V U LG AÇ ÃO
+
+ANÚNCIO para convencer vítima
+
+O aplicativo era divulgado com
+uma peça publicitária agressiva
+que se adaptava ao idioma e ao ce-
+lular usado pela vítima para afir-
+mar que o aparelho precisava de
+uma limpeza e podia estar lento.
+
+O aplicativo estava cadastrado na
+Play Store, loja oficial de aplicativos
+do sistema Android, onde registrava
+mais de 50 mil downloads.
+
+A Play Store não informa o nú-
+mero exato de downloads, mas a
+RiskIQ identificou o servidor de
+comando e controle onde os celula-
+res contaminados se conectavam e
+determinou que 60 mil aparelhos
+chegaram a baixar o programa.
+
+O servidor de controle enviava
+aos aplicativos os links de anún-
+cios que o aplicativo deveria “cli -
+car ”. Isso ocorria nos bastidores,
+impedindo o utilizador de saber o
+que estava ocorrendo.
+
+O aplicativo conseguiu ser cadas-
+trado na Play Store, do Google, se
+fingindo de oferta do próprio Goo-
+gle. Após o alerta da RiskIQ, o Goo-
+gle removeu o aplicativo da loja.
+
+Embora os maiores prejudica-
+dos com a fraude sejam os anun-
+ciantes que pagavam pelos acessos
+falsos realizados pelo aplicativo, o
+programa transmitia dados do te-
+lefone da vítima, inclusive a opera-
+dora, a localização e o modelo.
+
+Também havia a possibilidade
+de interação com serviços SMS
+premium, o que pode aumentar a
+conta de telefone de quem insta-
+lou o aplicativo.
+
+

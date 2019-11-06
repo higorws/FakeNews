@@ -1,0 +1,239 @@
+32  ATRIBUNA  VITÓRIA, ES, TERÇA-FEIRA, 29 DE MAIO DE 2018
+
+Ciência e Tecnologia
+Novo vírus destrói roteadores
+
+A praga digital
+VPNFilter ataca redes
+domésticas em todo o
+mundo e pelo menos
+500 mil dispositivos já
+foram contaminados
+
+CALIFÓRNIA, EUAUma nova praga digital cha-
+
+mada VPNFilter, descoberta
+pelo Talos, a equipe de segu-
+rança da Cisco, está atacando a “in -
+ternet das coisas”, mais especifica-
+mente roteadores de redes domés-
+ticas. Pelo menos 500 mil dispositi-
+vos pelo mundo já foram contami-
+nados com o código, que pode rece-
+ber comandos de seus criadores.
+
+Um desses comandos é o “k il l”
+(matar em português), que tenta
+apagar a memória flash do disposi-
+tivo, inutilizando o equipamento.
+
+A memória flash de roteadores e
+outros dispositivos da internet das
+coisas é responsável por armazenar
+o sistema embutido (ou “firmwa -
+re ”) do aparelho. Diferente de dis-
+positivos de armazenamento pa-
+drão, como discos rígidos de com-
+putador, não é fácil de extrair a me-
+mória flash para reprogramá-la.
+
+Sem o código armazenado nessa
+memória, o dispositivo também
+não consegue voltar ao estado de
+fábrica. Por isso, o equipamento é
+considerado inutilizado.
+
+REPRODUÇÃO INTERNET
+
+O FBI divulgou
+um alerta
+re c e n t e m e n t e
+re c o m e n d a n d o
+que usuários
+re i n i c i e m
+(d e s l i g u e m
+e religuem)
+seus roteadores
+para inibir a
+ação do vírus
+
+A Cisco disse que sua investiga-
+ção sobre o ataque não está com-
+pleta e que ainda não foi possível
+determinar quais estão sendo as
+brechas utilizadas pelos invasores
+para obter acesso não autorizado
+aos equipamentos e infectá-los.
+
+Segundo a empresa, o país mais
+atacado é a Ucrânia. O VPNFilter
+também guarda algumas seme-
+
+lhanças com o vírus BlackEnergy.
+O BlackEnergy é um vírus sofisti-
+cado que teria sido responsável por
+um apagão na Ucrânia. O governo
+Ucraniano e outras autoridades
+atribuem a autoria do vírus a agên-
+cias de segurança russas. O governo
+russo nega envolvimento no caso.
+
+O alerta da Cisco foi repassado
+pela Cyber Threat Alliance, um gru-
+
+po formado por diversas empresas
+do setor de tecnologia e segurança.
+Segundo a fabricante de antivírus
+Sophos, que repassou o alerta da
+Cyber Threat Alliance, a existência
+de um código capaz de “matar ” o
+roteador é uma espécie de “bomba
+re l ó g i o ” digital. A empresa também
+observa que, em alguns casos, o
+consumidor pode ter problemas
+
+para trocar o equipamento, já que
+os roteadores costumam ser forne-
+cidos pelo provedor de internet.
+
+Na última sexta-feira, o FBI di-
+vulgou um alerta recomendando
+que usuários reiniciem (desliguem
+e religuem) seus roteadores para
+inibir a ação do vírus, já que parte
+do código não contamina o dispo-
+sitivo de modo permanente.
+
+Drones revelam novas imagens
+entalhadas no deserto do Peru
+
+PALPA, PERU
+
+Usando drones, arqueólogos
+descobriram ao menos 25 geogli-
+fos – grandes figuras feita no chão,
+
+geralmente com mais de quatro
+metros de extensão – e n t al h a do s
+em uma área do deserto costeiro
+do sul do Peru perto das Linhas de
+Nazca, disse uma autoridade do
+
+REPRODUÇÃO INTERNTET
+
+A R Q U EÓ LO G O S
+d e s c o b r i ra m
+ao menos 25
+geoglifos, que
+são grandes
+figuras feitas
+no chão em
+uma área do
+deser to
+costeiro do sul
+do Peru
+
+Ministério da Cultura ontem.
+
+A maioria dos geoglifos recém-
+descobertos parecem ter sido fei-
+tos pela cultura paracas mais de
+dois mil anos atrás, portanto sécu-
+los antes do povo de Nazca criar
+desenhos gigantescos semelhan-
+tes nos arredores, explicou Johny
+Isla, arqueólogo que lidera os es-
+forços de conservação do Ministé-
+rio da Cultura na região.
+
+As aeronaves por controle remo-
+to “nos permitiram ampliar nossa
+documentação e descobrir novos
+grupos de figuras”, contou Isla em
+uma turnê pelos geoglifos da pro-
+víncia de Palpa.
+
+Mas ao contrário das Linhas de
+Nazca, a maioria das quais só po-
+de ser observada ao ser sobre-
+voada, muitas das chamadas Li-
+nhas de Palpa foram escavadas
+em encostas de colinas e podem
+ser vistas do solo, disse o Minis-
+tério da Cultura peruano em um
+c o m u n i c a d o.
+
+Os geoglifos criados pelas cultu-
+ras paracas e nazca são lembretes
+notáveis da rica histórica pré-co-
+lombiana do Peru e são considera-
+dos enigmas arqueológicos, já que
+ninguém sabe por que foram dese-
+nhados ou com tais dimensões e
+durante tanto tempo.
+
+Hubble revela incrível
+aglomerado de galáxias
+
+WASHINGTON, EUA
+
+Otelescópio espacial Hubble, da
+Agência Espacial Americana (Na-
+sa) não para de coletar belíssimos
+registros do Universo e registrou
+mais uma imagem impressionante.
+Um aglomerado de galáxias, co-
+nhecido como SDSS J0333 + 0651.
+Há um mês, o Hubble fez ani-
+versário de 28 anos — ele foi lança-
+do em 25 de abril de 1990 pelo ôni-
+bus espacial Discovery e a nova fo-
+tografia foi divulgada na última
+s ex t a -f e i ra .
+
+A observação do aglomerado
+
+DIVULGAÇÃO/ NASA
+
+AGLOMERADO de Galáxias
+
+SDSS J0333 + 0651 faz parte das
+pesquisas que o telescópio está fa-
+zendo sobre a formação de estre-
+las em galáxias distantes. Os cien-
+tistas acreditam que ele poderá
+ajudar a entender o Universo dis-
+tante e primitivo.
+
+Esse aglomerado foi visualizado
+durante um estudo de formação
+de estrelas em galáxias distantes,
+uma tarefa difícil de se resolver
+com telescópios à distância, visto
+que as regiões de formação de es-
+trelas geralmente não são tão
+grandes. Nem mesmo o Hubble,
+dotado de câmeras mais sensíveis
+e de maior resolução, é capaz de
+driblar a situação.
+
+É por isso que astrônomos cria-
+ram um truque cósmico: em vez
+de procurar por regiões de forma-
+ção de estrelas, eles buscam por
+aglomerados de galáxias, que têm
+uma gigantesca influência gravita-
+cional capaz de deformar o espa-
+ço-tempo ao redor.
+
+Essa distorção funciona como
+uma lente que amplia a luz das ga-
+láxias (e de suas regiões de forma-
+ção de estrelas) situadas muito
+atrás dos aglomerados. Além disso,
+o método produz arcos alongados
+que ajudam a observar esses espa-
+ços – tal como esse traço visto no
+topo esquerdo da imagem.
+
+

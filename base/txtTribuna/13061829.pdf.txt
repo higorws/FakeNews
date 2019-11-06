@@ -1,0 +1,181 @@
+Ciência e Tecnologia
+
+VITÓRIA, ES, QUARTA-FEIRA, 13 DE JUNHO DE 2018  ATRIBUNA  29
+
+D I V U LG AÇ ÃO
+
+Vídeo mostra a Lua
+“c a i n d o” sobre a Terra
+
+ILHAS CANÁRIAS
+
+No alto de uma montanha, pes-
+soas circulam calmamente enquan-
+to uma Lua gigante se aproxima.
+
+O vídeo, que mais parece uma
+montagem, foi capturado pelo fo-
+tógrafo Daniel López, nas Ilhas
+Canárias, território espanhol na
+costa noroeste da África, durante a
+última Lua cheia e selecionado pe-
+la Nasa como “Imagem Astronô-
+mica do Dia” em seu site voltado
+para astrofotógrafos.
+
+O vídeo dá a sensação de que a
+Lua está “c ain do” sobre a Terra,
+mas trata-se de uma ilusão de ótica
+criada por dois planos distintos.
+
+A Lua, claro, estava onde deve-
+ria, a centenas de milhares de qui-
+lômetros de distância, enquanto o
+pico do vulcão Monte Teide estava
+a 16 quilômetros.
+
+No vídeo é possível observar que
+as pessoas, em vez de apreciarem a
+Lua, estão viradas na direção das
+lentes de López.
+
+Na verdade, elas estavam no
+ponto mais alto da ilha para ver o
+nascer do Sol, que estava atrás do
+fotógrafo. Durante as luas cheias, o
+Sol está sempre do lado oposto do
+céu da Lua.
+
+A ilustre presença celestial está a
+quase 400 mil km de distância, po-
+rém posicionada de forma a en-
+quadrar perfeitamente o cume do
+v u l c ã o.
+
+Na descrição do vídeo, a Nasa
+destaca que a velocidade da captu-
+ra é normal, não se trata de um ti-
+me-lapse — processo cinemato-
+gráfico em que a freqüência de ca-
+da fotograma ou quadro (frame)
+por segundo de filme é muito me-
+nor do que aquela em que o filme
+será reproduzido.
+
+Explica ainda que, astronomica-
+mente, o movimento se deve mais
+à rotação da Terra que à translação
+da Lua. É o giro do planeta que faz
+a Lua desaparecer por trás do
+Monte Teide.
+
+FOTOS: DANIEL LÓPES/REPRODUÇÃO YOUTUBE
+
+EQ U I PA M E N TO para capturar vídeo
+
+EXEMPLO de captura de imagem do rosto pelo aplicativo que faz a validação de identidade comparando pontos da face
+
+Rosto do cliente é a
+garantia em compras
+
+Aplicativo usa
+reconhecimento facial
+e inteligência artificial
+para validar identidade
+e coibir fraudes em
+bancos e no comércio
+
+SÃO PAULOA cada 16,8 segundos uma
+
+pessoa tenta se passar por
+outra no Brasil em tentati-
+vas de fraude que geram prejuí-
+zos milionários a lojistas, bancos,
+empresas de telefonia e outros se-
+tores da economia, e acabam sen-
+do cobrados da própria popula-
+ção via preços e juros mais altos.
+Mas o avanço da tecnologia está
+tornando cada vez mais difícil a
+
+vida desses criminosos. Lançado
+ontem no Congresso e Exposição
+de Tecnologia da Informação das
+Instituições Financeiras (Ciab
+Febraban), que acontece até ama-
+nhã em São Paulo, o aplicativo Fa-
+ceCheck usa sistemas de reco-
+nhecimento facial e inteligência
+artificial para validar a identidade
+de uma pessoa “no ato”.
+
+Desenvolvido pela Certibio, di-
+visão de biometria da empresa de
+certificação digital Certisign, o
+FaceCheck compara foto do rosto
+do potencial cliente ou correntis-
+ta feita na hora pelo usuário com a
+imagem associada ao seu Cadas-
+tro de Pessoa Física (CPF) no
+banco de dados do cadastro na-
+cional de condutores de veículos
+do Serviço Federal de Processa-
+mento de Dados (Serpro), res-
+pondendo em poucos segundos
+
+se são a mesma pessoa ou não,
+com uma margem de erro de me-
+nos de 1%.
+
+“Com nosso sistema, o frauda-
+dor vai ter uma dificuldade muito
+maior para se passar por outra
+pessoa”, garante Igor Rocha, dire-
+tor da Cartibio.
+
+A FaceCheck funciona usando
+tanto princípios da biometria
+quanto o poder da inteligência ar-
+tificial. No primeiro caso, o siste-
+ma usa mais de mil pontos refe-
+renciais no rosto de uma pessoa
+para calcular medidas únicas co-
+mo a distância entre os olhos ou
+da ponta do nariz à ponta do quei-
+xo para fazer a comparação com a
+foto no banco de dados.
+
+Já as redes neurais do algoritmo
+compensam variações pequenas
+no posicionamento da face nas
+duas imagens, como inclinação.
+
+Foto da CNH será referencial
+
+O aplicativo FaceCheck será usa-
+do sem prejuízo à privacidade dos
+70 milhões de brasileiros portado-
+res de Carteira Nacional de Habili-
+tação (CNH) que têm as fotos de
+seus rostos no banco de dados do
+Serviço Federal de Processamento
+
+de Dados (Serpro), garante o dire-
+tor da Cartibio Igor Rocha. Isso
+porque a imagem tirada no mo-
+mento de abrir a conta ou crediário
+ou realizar qualquer outra transa-
+ção comercial será comparada com
+a foto registrada na CNH.
+
+A única resposta do aplicativo
+será se a imagem capturada na
+hora e enviada confere com a foto
+do CPF armazenada no Serpro
+em forma de percentual, não for-
+necendo mais nenhuma outra in-
+formação sobre ela.
+
+A LUA se põe por trás do Monte Teide, nas Ilhas Canárias, na costa da África
+
+

@@ -1,0 +1,197 @@
+VITÓRIA, ES, QUINTA-FEIRA, 21 DE JUNHO DE 2018  ATRIBUNA  29
+
+Ciência e Tecnologia
+Google cria sistema que
+prevê morte de pacientes
+
+Algoritmo criado pela
+gigante de tecnologia
+consegue analisar mais
+de 175 mil pontos de
+dados médicos e
+indicar diagnósticos
+
+D I V U LG AÇ ÃO
+
+LO N D R ESUma mulher com câncer de
+
+mama em estágio avançado
+chegou ao hospital de uma
+cidade. Fluidos já inundavam seus
+pulmões. Dois médicos a exami-
+naram e ela fez um exame radioló-
+gico. Os computadores do hospital
+analisaram seus sinais vitais e esti-
+maram 9,3% de probabilidade de
+que ela morresse durante sua esta-
+dia. Depois foi a vez do Google.
+
+Um novo tipo de algoritmo cria-
+do pela empresa analisou a mulher
+– 175.639 pontos de dados – e fez
+avaliação do risco de morte: 19,9%.
+Ela morreu em questão de dias.
+
+Este angustiante relato da morte
+de uma mulher não identificada foi
+publicado pelo Google em maio, em
+uma pesquisa que destaca o poten-
+cial para a assistência médica das
+redes neurais, forma de software de
+inteligência artificial eficiente em
+usar dados para aprender e assim
+melhorar automaticamente.
+
+O Google criou uma ferramenta
+que poderia prever uma série de
+resultados para os pacientes, in-
+clusive quanto tempo poderiam fi-
+car hospitalizados, suas probabili-
+dades de readmissão e as chances
+de morrerem em breve.
+
+O que mais impressionou os mé-
+dicos foi a capacidade do Google
+para analisar dados anteriormente
+inacessíveis: anotações gravadas
+em PDFs ou rabiscadas em arqui-
+vos médicos antigos. A rede neural
+processou toda a informação de-
+sorganizada e emitiu previsões. E
+foi muito mais rápida e precisa do
+que as técnicas preexistentes.
+
+Cerca de 80% do tempo gasto
+
+PACIENTE INTERNADO: ferramenta do Google tem a capacidade de analisar dados anteriormente inace ss í ve i s
+
+nos modelos preditivos atuais é
+dedicado ao “trabalho entediante”
+de tornar os dados apresentáveis,
+disse Nigam Shah, professor asso-
+ciado da Universidade de Stanford
+e um dos autores do artigo de pes-
+quisa do Google, publicado na re-
+vista científica “Na t u re ”.
+
+A abordagem do Google evita is-
+so. “Você pode jogar tudo lá e não
+precisa se preocupar com isso”,
+disse Shah. O próximo passo é
+transladar esse sistema preditivo
+às clínicas, disse o chefe de inteli-
+gência artificial, Jeff Dean.
+
+A unidade de pesquisa sobre saú-
+de de Dean – chamada de Medical
+Brain (cérebro médico) – está tra-
+balhando em uma série de ferra-
+mentas de inteligência artificial que
+podem prever sintomas e doenças
+com um nível de precisão que está
+sendo recebido com esperança.
+
+Inovações esbarram em
+dilemas éticos na medicina
+
+Esta não é a primeira vez que a in-
+teligência artificial do Google é apli-
+cada à saúde preventiva. No início
+de 2018, a DeepMind fez uma par-
+ceria com o Department of Vete-
+rans Affairs (Departamento de As-
+suntos de Veteranos, em tradução
+livre) para alimentar seus registros
+médicos com dados de 700 mil ve-
+teranos americanos, a fim de prever
+mudanças que poderiam prevenir o
+óbito do paciente.
+
+Outro projeto do Google na área
+médica que se debruça sobre inteli-
+gência artificial é um problema
+constante entre médicos e pacientes:
+receitas com prescrições ilegíveis.
+
+A companhia trabalha em um sis-
+tema de reconhecimento de voz pa-
+ra anotações clínicas que eliminará
+a necessidade de os profissionais de
+saúde digitá-las ou escrevê-las.
+
+Entretanto, o Google tem que li-
+dar aqui com o acesso aos dados,
+que nem sempre estão disponíveis
+por motivos de segurança.
+
+Em 2016, foi revelado que o Go-
+ogle tinha acesso aos dados de 1,6
+milhão de pessoas (sem consenti-
+mento) de três hospitais em Lon-
+dres, para desenvolver um aplica-
+tivo que avisasse os médicos quan-
+do um paciente estivesse propen-
+so a ter doença renal.
+
+Mundo está
+mais quente
+com uso de
+ar- condicionado
+
+Conforme o clima no mundo
+fica mais quente, sistemas de ar-
+condicionado estão se tornando
+cada vez mais populares.
+
+Mas será que a energia consu-
+mida para deixar nossas casas e
+escritórios mais frescos vai aca-
+bar acelerando a mudança cli-
+mática, ou alterações no design
+dos aparelhos conseguirão evi-
+tar isto?
+
+O mundo está ficando mais
+quente: 16 dos 17 anos mais
+quentes já registrados ocorre-
+ram desde 2001, dizem os cli-
+m a t o l o g i st a s.
+
+Assim, não surpreende que a
+demanda por ar-condicionado
+seja cada vez maior. A energia
+consumida por esses aparelhos
+deve triplicar de hoje até o ano
+de 2050, de acordo com a Agên-
+cia Internacional de Energia
+(IEA, na sigla em inglês).
+
+Isto significa que, até 2050, os
+aparelhos espalhados pelo
+mundo estarão usando toda a
+capacidade elétrica dos EUA,
+Europa e Japão, somados.
+
+Pesquisadores da Universida-
+de de Stanford (EUA) se ampa-
+raram nos princípios de uma
+área da ciência pouco explora-
+da, a nanofotônica, e desenvol-
+veram um material altamente
+reflexivo, que dissipa o calor
+mesmo sob a luz solar direta.
+
+Em testes, os cientistas desco-
+briram que o material pode ser
+usado para resfriar a água que
+circula em canos abaixo dos
+painéis. Uma vez resfriada, a
+água pode ser usada para res-
+friar um prédio. E o processo to-
+do funciona sem eletricidade.
+
+D I V U LG AÇ ÃO
+
+ALTO consumo de ar-condicionado
+
+

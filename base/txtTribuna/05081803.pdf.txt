@@ -1,0 +1,274 @@
+VITÓRIA, ES, DOMINGO, 05 DE AGOSTO DE 2018  ATRIBUNA  3
+
+BETO MORAIS/AT
+
+Reportagem Especial
+
+INOVAÇÃO E BEM-ESTAR
+
+Em dois lugares
+ao mesmo tempo
+Imagine conhecer o Museu do
+
+terreno, foi desenvolvida toda uma
+pesquisa de controle de automação
+baseada no mesmo princípio dos
+segway (aqueles patinetes usados,
+geralmente, por seguranças).
+
+Louvre, na França, ouvir os co-
+mentários sobre as artes, falar
+com as pessoas sem ter de pagar
+passagem ou pegar avião. Ou quem
+sabe, fazer uma visita a uma gran-
+de empresa, sem sair da cama?
+
+Tecnologia que está sendo de-
+senvolvida pelos alunos da UCL
+no campus Serra pretende tornar
+possível estar em dois lugares ao
+mesmo tempo. A ideia é fazer uma
+evolução da tecnologia de telepre-
+sença com um robô.
+
+O projeto está sendo orientado
+pelo professor Jean Carlos de Oli-
+veira e é desenvolvido junto com os
+alunos Jorge Ruan e Roger Gomes.
+“O robô de telepresença permite
+que a pessoa vá a um lugar através
+da máquina, estando apenas co-
+nectada com ele. Hoje temos a te-
+leconferência, mas a grande dife-
+rença é que, além de se mover, a
+outra pessoa não precisa estar co-
+nectada para haver uma comuni-
+cação”, disse o professor.
+
+Jean explicou ainda que, para que
+robô possa andar em todo tipo de
+
+Outra pesquisa que pode facilitar
+o futuro em breve, principalmente
+no mercado de entregas, é a orien-
+tada pelo professor Mário Sarci-
+nelli com os drones autônomos pa-
+ra entrega de cargas.
+
+O estudo está em desenvolvi-
+mento no Grupo de Robótica e Au-
+tomação Industrial do Departa-
+mento de Engenharia Elétrica da
+Universidade Federal do Espírito
+Santo (Ufes).
+
+A ideia é buscar formas e tecno-
+logias para fazer com que os dro-
+nes realizem movimentos mais
+complexos com intuito de que eles
+sejam usados na logística futura-
+m e n t e.
+
+“Nesse caso, é preciso que o dro-
+ne faça movimentos complexos de
+subida, freios, curvas, desvio de
+obstáculos, além do peso e da esta-
+bilidade da carga. É isso que esta-
+mos estudando no momento”.
+
+OS ESTUDOS
+
+KADIDJA FERNANDES/AT
+
+9 Pomada cicatrizante natural
+> O ALUNO DE DOUTORADO em Ciên-
+cias Farmacêuticas da UVV Márcio
+Guidoni, junto com o orientador
+Marcio Fronza, desenvolveu uma
+pomada para cicatrização de feri-
+das feita de óleos 100% natural, sem
+
+nenhum aditivo químico. Em ani-
+mais, ela mostrou ser muito efi-
+ciente e em breve poderá ajudar a
+muitos pacientes. A fórmula já foi
+patenteada e envolve uma tecno-
+logia que transformou óleos em
+textura pastosa.
+
+10 N e u ro f e e d b a c k
+
+Um grupo interdisciplinar dos cur-
+sos de Medicina, Engenharia Elétrica e
+Psicologia está estudando o neurofe-
+edback, que, segundo a coordenadora
+da pesquisa, a médica Ester Nakamu-
+ra, tem a intenção de proporcionar ao
+paciente um treinamento cognitivo pa-
+ra que ele consiga manter as respostas
+adquiridas no tratamento de doenças.
+A ideia é criar um sistema que vai es-
+tudar o mecanismo de estímulo e de
+resposta do cérebro.
+11 Robô ONO
+
+O Robô ONO é um programa aberto
+usado para ajudar psicólogos no diag-
+nóstico e tratamento do autismo. No
+entanto, alunos do Núcleo de Tecnolo-
+gia Assistiva (NTA), sob a coordenação
+do professor Anselmo Frizera, estão
+trabalhando formas para que o robô in-
+
+teraja com as crianças, pois elas têm fa-
+cilidade de lidar com máquinas, para
+que o diagnóstico e o tratamento sejam
+ainda mais eficazes.
+12 Inter faces
+C é re b ro - C o m p u ta d o r
+
+Há Várias pesquisas sendo desen-
+volvidos na área de Interfaces Cére-
+bro-Computador Núcleo de Estudos
+em Robótica e Automação (Nera) do
+Ifes da Serra, orientados pelo profes-
+sor doutor Richard Godinez Tello. Uma
+delas é o processamento de sinais ce-
+rebrais a partir de estímulos visuais,
+que permitem o controle de dispositi-
+vos como a cadeira de rodas contro-
+lada por sinais cerebrais.
+
+Os alunos também estão desenvol-
+vendo um soletrador digital mental
+que possibilitaria a comunicação com
+pessoas que sofrem de Esclerose La-
+
+O PROFESSOR
+Jean Carlos
+de Oliveira
+(ao centro)
+e os alunos
+Jorge Ruan
+e Roger
+Gomes estão
+d e s e n vo l ve n d o
+tecnologia
+para tornar
+possível estar
+em dois lugares
+ao mesmo
+tempo, com
+a ajuda de
+um robô
+
+HELBER LOPES
+
+teral Amiotrófica, a chamada ALS ou
+ELA. O professor explicou que a partir
+da movimentação dos olhos e as ativi-
+dades cerebrais, cria-se um sistema
+híbrido capaz de decodificar a eleição
+de dígitos do paciente numa tela.
+13 Robô Maria (Ufes)
+
+Em busca de técnicas menos invasi-
+vas para o tratamento de crianças com
+autismo, o doutorando em Engenharia
+Elétrica Carlos Valadão e mestranda em
+Biotecnologia Christiane Goulart,
+orientados pelo professor Teodiano
+Freire Bastos Filho, criaram o robô Ma-
+ria para estudar e melhorar a interação
+das crianças com a doença. O robô ago-
+ra ganhou sensores a laser na cintura
+para medir a proximidade da criança
+com ele para estudar a interação.
+14 Técnica para retirada
+da veia safena
+
+O cardiologista Melchior Luiz Lima
+está coordenando um estudo no La-
+boratório de Eletromecânica Cardíaca
+e Reatividade Vascular da Ufes da me-
+lhor técnica para a retirada da veia sa-
+fena. De acordo com ele, estão sendo
+avaliados três tipos de técnicas mais
+usadas hoje pelos médicos para saber
+qual oferece menor trauma à veia.
+
+KADIDJA FERNANDES/AT
+
+15 Aplicativo para surdo
+acionar o Samu
+
+Os alunos do curso de Sistemas
+de Informação Aline Bassani Pa-
+checo e Thiago Martins de Oliveira
+estão desenvolvendo, com a orien-
+tação da professora Renata La-
+ranja, um aplicativo que vai permi-
+tir que surdos possam fazer cha-
+
+16 Melhor técnica para
+transporte de coração
+
+Um estudo desenvolvido pe l a
+equipe do cardiologista Melchior
+Luiz Lima está observando as me-
+lhores formas de proteger o músculo
+do coração captado à distância para
+t ra n s p l a n t e .
+
+A ideia do estudo é descobrir a me-
+
+17 E xo e s q u e l e t o
+
+Sob a coordenação do professor
+Anselmo Frizera os alunos do Núcleo
+de Tecnologia Assistiva (NTA) da
+Ufes estão desenvolvendo um
+exoesqueleto para ajudar na reabili-
+tação de pacientes com problemas
+de locomoção. Segundo ele, são ro-
+bôs vestíveis que contêm sensores
+de fibras óticas que futuramente po-
+derão ser integradas às roupas.
+
+madas de emergências para o SA-
+MU sem ajuda de outras pessoas.
+A ideia é que pela câmera do ce-
+lular e com ajuda de algumas per-
+guntas, os atendentes do sistema
+de emergência possam entender a
+necessidade e ajudá-los.
+
+O aplicativo ainda está sendo
+
+d e s e n vo l v i d o .
+
+lhor técnica para que o órgão sofra o
+menos possível no transporte.
+18 Sinais de doenças cardíacas
+O coordenador da cardiologia do
+Hospital Evangélico de Vila Velha,
+Diogo Barreto, está coordenando
+uma pesquisa sobre sinais no rosto
+de pacientes que podem estar rela-
+cionados com doenças cardíacas.
+
+A ideia do estudo é mostrar que a in-
+cidência de sinais como xantelasma,
+que são bolsinhas de gordura nos
+olhos, podem ser sinais de alteração
+no colesterol.
+19 Bariátrica e a diabetes
+
+Alunos da Multivix em parceria com
+médicos do Hospital Evangélico de Vi-
+la Velha estão estudando e comparan-
+do os benefícios e ações da cirurgia
+bariátrica em pacientes com perfil bio-
+químico de diabéticos tipo 2.
+
+

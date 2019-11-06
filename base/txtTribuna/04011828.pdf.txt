@@ -1,0 +1,260 @@
+28  ATRIBUNA  VITÓRIA, ES, QUINTA-FEIRA, 04 DE JANEIRO DE 2018
+
+Ciência e Tecnologia
+Risco para computadores
+com processador da Intel
+
+D I V U LG AÇ ÃO
+
+P R O C ESSA D O R pode expor informações confidenciais do usuário, como senhas e outros tipos de dados sensíveis
+
+Uma falha permite que
+hackers usem brecha
+para visualizar blocos
+de memória protegidos,
+acessando dados do
+usuário, como senhas
+
+SÃO PAULONuma notícia alarmante para
+
+milhões de pessoas em todo
+o mundo, uma falha de se-
+gurança grave foi encontrada em
+todos os processadores da Intel fa-
+bricados nos últimos 10 anos, e a
+correção do problema afetará di-
+retamente a performance dos
+c o m p u t a d o re s.
+
+Segundo o site The Register, a
+vulnerabilidade é caracterizada
+por um erro de design que permiti-
+ria a um hacker utilizar a brecha
+das CPUs para visualizar blocos de
+memória protegidos pelo sistema
+operacional. Sendo assim, informa-
+ções confidenciais do usuário po-
+deriam ficar expostas, como senhas
+e outros tipos de dados sensíveis.
+
+Para piorar, as soluções do pro-
+blema tendem a comprometer a
+performance dos chips, com perda
+de até 30% do desempenho.
+
+A falha incide diretamente na
+relação do processador com o ker-
+nel, o núcleo do sistema. Por isso,
+pode atingir os principais sistemas
+operacionais, como Linux, Win-
+dows 10 e macOS, já que todos têm
+seus modelos próprios de kernel.
+Segundo o portal, desenvolve-
+
+dores do mundo todo já trabalham
+em correções para o problema no
+Linux. Enquanto isso, espera-se
+que atualizações eliminem a bre-
+cha no Windows 10 e no macOS.
+
+A falha incide sobre os processa-
+dores da última década da Intel,
+independentemente da geração.
+As informações relacionadas à for-
+ma exata como a vulnerabilidade
+se manifesta e pode ser explorada
+não foram divulgadas.
+
+Até agora, sabe-se apenas que
+
+Solução deixa sistema lento
+
+Segundo o The Register, além da
+comunidade de programadores
+responsáveis pelo Linux, já há
+atualizações em fase de imple-
+mentação para Windows e ma-
+cOS. Entretanto, testes mostram
+que a solução poderá custar caro
+para os usuários.
+
+Alguns processadores da Intel
+podem sofrer perdas de perfor-
+mance consideráveis quando pas-
+sam a trabalhar com os sistemas
+operacionais corrigidos.
+
+Embora não exista uma medida
+oficial referente a esse impacto,
+
+benchmarks iniciais indicam que
+as quedas podem girar entre 7% e
+30%, dependendo do modelo de
+processador e do tipo de atividade
+realizada durante a medição.
+
+A tendência é de que processa-
+dores mais antigos demonstrem
+maior dificuldade com a atualiza-
+ção e apresentem perdas maiores.
+Embora máquinas com CPU da
+AMD não tenham sido afetadas,
+há informações de que processa-
+dores ARM, usados em smartpho-
+nes e tablets, são passíveis de falha
+s i m i l a r.
+
+D I V U LG AÇ ÃO
+
+IPHONE: aparelho fica mais lento
+
+Apple vai dar
+descontos
+para quem
+trocar bateria
+
+Após confirmar que aparelhos
+iPhone têm funcionalidade que
+diminui sua velocidade confor-
+me a bateria envelhece, a Apple
+dará descontos para quem quer
+trocá-las. A companhia vai re-
+duzir em R$ 300 o preço de
+substituição de bateria para o
+iPhone, de R$ 449 para R$ 149.
+Descontos do tipo estão sen-
+do oferecidos em todo o mundo
+para iPhones 6 ou modelos mais
+recentes. A Apple também pro-
+mete lançar, no início deste ano,
+uma atualização do iOS (siste-
+ma operacional dos smartpho-
+nes da empresa) com novos re-
+cursos que oferecem aos usuá-
+rios mais informações sobre o
+estado da bateria do iPhone.
+
+Com isso, os próprios donos
+dos smartphones poderão saber
+se a condição dela está afetando
+o desempenho dos aparelhos.
+
+Em nota, a Apple afirma que
+sua intenção sempre foi que
+seus clientes pudessem usar
+seus aparelhos iPhone pelo má-
+ximo de tempo possível.
+
+“Os produtos Apple são co-
+nhecidos pela durabilidade e
+por manter seu valor por mais
+tempo que os concorrentes, e
+temos muito orgulho disso.”
+
+A Apple diz que a ação reco-
+nhece a lealdade de clientes
+com sua marca e busca recupe-
+rar a credibilidade junto a todos
+que duvidaram das intenções
+da empresa. Em dezembro, a
+Apple confirmou torna o smart-
+phone mais lento conforme o
+modelo envelhece. Alguns
+usuários acusavam a fabricante
+de fazer isso para levar as pes-
+soas a trocarem de celular.
+
+A revelação levou à abertura
+de ações Estados Unidos, Israel
+e França buscando ressarci-
+mento a danos causados a con-
+s u m i d o re s.
+
+Proposta de carro
+elétrico em Vitória
+Duas propostas de carros
+elétricos para o transporte de
+processos entre as secreta-
+rias, Ministério Público, Tri-
+bunal de Contas em Vitória fo-
+ram protocolados pela prefei-
+tura, na última sexta-feira, na
+EDP. O objetivo é economizar
+R$ 80 mil anuais.
+
+CPUs da Intel permitem que
+softwares maliciosos enxerguem
+dados mantidos em caráter prote-
+gido pelo kernel em alguns pontos
+da memória do computador.
+
+Um exemplo de uma aplicação
+dessa brecha poderia ocorrer com
+a execução de um malware qual-
+quer no PC. O vírus usaria a bre-
+cha presente na CPU da Intel para
+requisitar a leitura de blocos de
+memória em que o kernel está ati-
+vo naquele instante.
+
+Isso poderia permitir que a pra-
+ga virtual interceptasse uma se-
+nha, lesse o conteúdo de uma
+mensagem ou visualizasse arqui-
+vos que você mantém abertos em
+determinado instante.
+
+Por conta disso, a correção só
+pode ser obtida por meio de um
+redesenho da forma como siste-
+mas operacionais trabalham com
+as áreas protegidas da memória
+em que o kernel reside durante a
+operação de processos.
+
+E N T E N DA
+
+D I V U LG AÇ ÃO
+
+Falha afeta “c é re b ro” da máquina
+O problema
+Os processadores da Intel lançados
+na última década têm uma falha de se-
+gurança grave: eles permitem que um
+aplicativo comum acesse áreas prote-
+gidas da memória do kernel, potencial-
+mente expondo informações sensí-
+veis, como senhas. E a correção não é
+simples: ela deve reduzir a performan-
+ce dos chips em algo entre 5% e 30%.
+O que é kernel?
+O nome vem do inglês, e significa
+“n ú c l e o”. Em linhas gerais, o kernel é o
+“c é r e b r o” do computador.
+O que fazer?
+Por enquanto, o melhor a fazer é es-
+perar as próximas atualizações de seus
+respectivos sistemas operacionais —
+além de tentar ficar longe de quaisquer
+sites ou programas suspeitos.
+
+DADOS de usuário em risco
+Como saber
+Se está em dúvida sobre que tipo de
+processador está instalado no seu PC,
+basta acessar o menu de Propriedades
+do Sistema (ou equivalente), que mos-
+tra não só este como outros dados bá-
+sicos. Um jeito fácil de achar essa in-
+formação, é usar a ferramenta de bus-
+ca e procurar por “sistema” e “sobre”.
+
+É importante notar que esta falha só
+afeta CPUs da marca Intel. Quem tiver
+um processador AMD na sua máquina
+não está correndo risco de segurança
+relacionado ao kernel.
+
+Fonte: Pesquisa AT.
+
+

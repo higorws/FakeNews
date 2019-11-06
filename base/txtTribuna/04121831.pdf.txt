@@ -1,0 +1,269 @@
+VITÓRIA, ES, TERÇA-FEIRA, 04 DE DEZEMBRO DE 2018  ATRIBUNA  31
+
+Ciência e Tecnologia
+Microchips sob a pele para
+pagar contas sem dinheiro
+
+Do tamanho de um grão
+de arroz, ele fica entre
+o polegar e o indicador
+e funciona como um
+circuito eletrônico
+com tecnologia sem fio
+
+D I V U LG AÇ ÃO
+
+SÃO PAULOA pequena protuberância no
+
+dorso da mão de Dave Wil-
+liams tem o tamanho de um
+grão de arroz e fica entre o polegar
+e o indicador. É quase imperceptí-
+vel, mas quando ele a usa para
+abrir a porta de sua casa, vira o
+centro das atenções.
+
+Esse engenheiro de software
+britânico tem um microchip im-
+plantado na mão, um circuito ele-
+trônico que funciona com tecnolo-
+gia sem fio. “Tenho péssima me-
+mória”, diz ele à BBC Brasil, que é
+a fonte das informações.
+
+Por isso decidiu implantar esse
+pequeno dispositivo que permite
+que ele não entre em pânico se es-
+quecer as chaves de casa. É o mes-
+mo tipo de chip que está virando
+tendência na Suécia e em outros
+países ocidentais como Alemanha,
+Austrália e Nova Zelândia, onde há
+várias iniciativas para promover
+essa tecnologia futurista.
+
+Mas o caso da Suécia chama ain-
+da mais atenção. Milhares de pes-
+soas na nação nórdica, cerca de 3
+mil, segundo um relatório da AFP
+de maio deste ano, já implantaram
+o chip. É possível que o número se-
+ja ainda maior.
+
+“Cada vez mais pessoas na Sué-
+
+IMPLANTE DE MICROCHIP possibilita que usuários abram portas e até façam pagamentos sem chaves e car tões
+
+cia implantam o chip RFID na
+mão e o usam para abrir portas e
+até fazer pagamentos”, diz Ben
+Libberton, doutor em microbiolo-
+gia que trabalha no laboratório
+MAX IV de Lund, na Suécia.
+
+Um RFID, ao contrário de um
+código de barras, permite acesso
+remoto à informação que contém.
+Usa-se em dispositivos antirroubo,
+em estações de esqui e também
+nos chips de identificação para
+animais domésticos.
+
+Também estão presentes na
+maioria dos smartphones e passa-
+portes eletrônicos. Mas nos últi-
+mos anos, seu uso em humanos
+ganhou ainda mais relevância.
+
+O assunto começou a render
+manchetes em 2015, quando a Epi-
+centes, uma empresa de tecnolo-
+gia baseada em Estocolmo, causou
+certa polêmica ao anunciar que
+implantaria os chips nos seus fun-
+cionários. Com um giro da mão,
+eles poderiam entrar no prédio,
+
+usar a copiadora e pagar café.
+
+“O maior benefício é a conve-
+ni ênci a”, disse o cofundador e di-
+retor da companhia, Patrick Mes-
+terton, em 2017. “Permite substi-
+tuir muitas coisas, como o cartão
+de crédito ou as chaves”.
+
+O chip permite realizar paga-
+mentos contactless (sem contato),
+uma prática especialmente co-
+mum na Suécia, onde apenas 1%
+do valor de todas as transações fo-
+ram feitas com dinheiro.
+
+Hacker invade 50 mil impressoras
+
+Um hacker que se identificou
+como “Hacker Girafa” ( Ha cke r
+Giraffe) descreveu em detalhes os
+passos que usou para encontrar
+800 mil impressoras potencial-
+mente expostas na internet e en-
+viar um comando de impressão
+para 50 mil delas.
+
+A mensagem, que deve ter sido
+automaticamente impressa nos
+equipamentos atacados, pede que
+as pessoas se inscrevam no canal
+do youtuber PewDiePie, que é o
+nome artístico do sueco Felix
+Kjellberg, que detém o canal com o
+maior número de inscritos no
+
+D I V U LG AÇ ÃO
+
+YOUTUBER Feliz Kjellberg, ou “Pew D i e P i e ”, não está envolvido no caso
+
+YouTube: 73,1 milhões.
+
+Ele está prestes a perder o posto
+para o canal da T-Series, uma dis-
+tribuidora de filmes e músicas in-
+diana. A T-Series já conta com 73
+milhões de inscritos. Kjellberg não
+teve envolvimento nas ações do
+hacker. A informação é do bloguei-
+ro Altieres Rohr, do Portal G1.
+
+“O PewDiePie está em apuros e
+ele precisa da sua ajuda para der-
+rotar a T-Series”, diz a mensagem
+enviada para impressão.
+
+No dia 27 de novembro, um
+usuário tuitou para a conta de
+PewDiePie que o recado havia sido
+
+OS NÚMEROS
+
+impressoras foram procuradas
+
+800 mil
+73 milhões
+
+de inscritos em seu canal tem o DJ
+
+impresso em uma máquina de uma
+delegacia de polícia. Foi quando o
+hacker também soube que seu ata-
+que havia dado resultado. O texto
+impresso tem o cumprimento do
+“so co”, que é característico do
+youtuber. Após a impressão, o ha-
+cker também enviou um comando
+para que o equipamento exibisse a
+mensagem “h a c ke d ” ( hackeado).
+
+O envio dos comandos foi possí-
+vel porque as impressoras ficaram
+expostas na internet. Muitas im-
+pressoras possuem funções de
+compartilhamento em rede, que
+permitem que qualquer computa-
+dor conectado à rede local envie
+documentos para impressão. Em
+certos casos, se a rede não for con-
+figurada adequadamente, a im-
+pressora pode ficar exposta.
+
+O hacker conta que utilizou o si-
+te Shodan, uma espécie de “Goo -
+gle para encontrar máquinas”.
+
+O site retornou 800 mil resulta-
+dos, mas o “G i ra f a ” se limitou a en-
+viar os comandos aos primeiros 50
+mil.
+
+Chinês que
+diz ter editado
+gene de bebês
+d e s a p a re c e
+
+O cientista chinês que diz ter
+editado genes de bebês, He Jian-
+kui, está desaparecido, segundo
+jornais locais. O paradeiro ocor-
+re desde a quarta (28), quando
+ele se pronunciou em evento
+científico em Hong Kong, e le-
+vanta suspeitas de que possa es-
+tar em prisão domiciliar.
+
+A Universidade de Ciência e
+Tecnologia do Sul negou, no en-
+tanto, as alegações de que seu
+ex-pesquisador esteja preso.
+Um porta-voz da instituição
+disse ao “South China Morning
+Post ” que "nenhuma informa-
+ção está confirmada.
+
+“Nós não podemos responder
+a mais perguntas sobre o assun-
+to agora, mas, se tivermos algu-
+ma informação, vamos atualizá-
+los”, completou o porta-voz.
+
+A universidade anunciou que
+irá investigar o acadêmico e
+também disse que não tinha co-
+nhecimento do projeto.
+
+O governo chinês disse que
+irá punir os envolvidos no pro-
+jeto de edição genética, mas
+ainda não anunciou oficialmen-
+te como isso será feito. Em al-
+guns sites e nas redes sociais,
+He é chamado de “Fran kens-
+tein da China”.
+
+A pesquisa de He foi anuncia-
+da na segunda-feira (26) e cau-
+sou uma resposta negativa por
+parte da comunidade científica
+internacional.
+
+O pesquisador chinês disse
+que editou os genes de gêmeos,
+que nasceram com resistência à
+infecção por HIV. O estudo não
+foi publicado em revistas cientí-
+ficas. Os nomes dos envolvidos
+– mãe, bebês, pesquisadores
+que participaram – não foram
+d i v u l g a d o s.
+
+He diz que modificou os ge-
+nes dos bebês com a ajuda do
+Crispr, técnica de edição genéti-
+ca que é alvo de fortes debates
+éticos pelo mundo.
+
+O Crispr surgiu há seis anos e,
+desde então, revistas científicas
+e órgãos internacionais deba-
+tem até onde podemos mexer
+no código genético humano.
+
+A técnica de edição é simples
+e barata, e o que pode fazer, se-
+gundo a “Science”, uma revolu-
+ç ã o.
+
+PHOTO BY VCG/VCG VIA GETTY IMAGES — 18/11/2018
+
+HE Jiankui: suspeita de prisão
+
+

@@ -1,0 +1,242 @@
+30  ATRIBUNA  VITÓRIA, ES, TERÇA-FEIRA, 14 DE AGOSTO DE 2018
+
+Ciência e Tecnologia
+Formigas e baratas são risco
+à saúde humana, diz estudo
+
+Pesquisa aponta que
+insetos têm milhões
+de micro-organismos
+e podem causar
+doenças mesmo em
+pessoas saudáveis
+
+D I V U LG AÇ ÃO
+
+CAMPINAS, SPQ ue tipo de contaminação
+
+baratas, moscas e formigas
+carregam nas patas, corpo,
+antenas e asas? Pesquisadoras da
+Faculdade de Biomedicina da Uni-
+versidade Metrocamp/Wyden,
+em Campinas (SP), capturaram es-
+ses insetos e encontraram fungos e
+bactérias na casas dos milhões.
+
+Uma única barata chegou a apre-
+sentar 250 milhões de micro-orga-
+nismos. Moscas e formigas tam-
+bém devem ser levadas a sério. A
+contaminação apresenta risco de
+doenças até para pessoas saudá-
+veis. E o contato não é só por ali-
+mentos infectados, mas também
+objetos que ficam expostos, como
+copos, talheres e escovas de dente.
+As informações são do Portal G1.
+
+Segundo a doutora em Ciências
+de Alimentos, bióloga, professora
+e orientadora do estudo, Rosana
+Siqueira, entre as complicações
+estão febre, diarreia, otite, mico-
+ses, vômito, dor de garganta e in-
+fecções urinária e alimentar.
+
+“Essa quantidade é suficiente
+para contaminar um alimento,
+uma fruta, um legume, uma carne.
+Você acaba ingerindo sem perce-
+ber e fica doente devido à exposi-
+ção a esses insetos”, explicou.
+
+Capturados vivos em ambiente
+
+FORMIGAS em biscoito: 13 milhões de micro-organismos foram encontrados no inseto, incluindo bactérias
+
+doméstico, 40 bichos — 11 baratas,
+14 moscas (as que sobrevoam ali-
+mentos e as menores que ficam em
+locais úmidos) e 15 formigas —
+passaram por um banho em solu-
+ção salina e o líquido foi analisado
+em diferentes meios de cultura.
+
+“Pegamos dentro de casa e no
+quintal. Banheiro, cozinha, em fe-
+zes de cachorro, quarto. Sem es-
+magar os bichos e sem inseticida,
+porque interferia no resultado”,
+
+afirma Rayanne Koeler, aluna da
+graduação que fez a análise. “De
+todos os micro-organismos, todos
+podem ser considerados poten-
+cialmente perigosos”, diz Rosana.
+Nas baratas, foram encontrados
+Salmonella, Escherichia coli, Kleb-
+siella, Shigella, Psedomonas aeru-
+ginosa, Acinetobacter, Enterobac-
+ter aerogenes, além dos fungos
+Candida albicans e Rhodotorula.
+
+Nas moscas, a contaminação
+
+chegou a 72 milhões, com Escheri-
+chia coli, Staphylococcus aureus,
+Klebsiella, Acinetobacter e Kleb-
+siella e fungos como Aspergillus,
+Candida e Rhodotorula.
+
+No grupo formigas, a contagem
+de micro-organismos chegou a 13
+milhões. Foram identificadas
+Pseudomonas aeruginosa, Strep-
+tococcus, Staphylococcus aureus,
+Klebsiella, além de leveduras co-
+mo Cândida e Rhodotorula.
+
+Jogo ajuda diagnosticar Alzheimer
+
+D I V U LG AÇ ÃO
+
+Es p e c i a l i s ta s
+driblam
+sistema que
+reconhece fala
+
+Dois especialistas em segu-
+rança da Salesforce apresenta-
+ram resultados de uma pesquisa
+que expôs a fragilidade de siste-
+mas de “re c o n he c i m e n to ” ou
+“autenticação” por voz.
+
+A dupla, formada por John
+Seymour e Azeem Aqil, desco-
+briu que é possível “treinar ” um
+software para criar falas de ou-
+tra pessoa com apenas dez mi-
+nutos de gravações da voz da ví-
+tima. Gerando sons semelhan-
+tes à fala da vítima, um hacker
+poderia criar uma voz imposto-
+ra para dar qualquer comando a
+um sistema controlado por voz.
+A pesquisa foi apresentada na
+conferência de segurança Black
+Hat em Las Vegas, nos EUA, na
+quinta. A conclusão dos espe-
+cialistas é que sistemas contro-
+lados por voz são inseguros. As
+informações são do Portal G1.
+
+Muitas empresas já estão tra-
+balhando em sistemas capazes
+de “criar ” sons e frases na voz de
+outras pessoas — uma espécie
+de “Photoshop da fala”. Mas es-
+ses sistemas em geral dependem
+de um extenso “t re i n a m e n t o ”
+para o software — até 24 horas
+de gravações da fala da pessoa —
+para conseguirem resultados sa-
+tisfatórios ao ouvido humano.
+
+Mas os pesquisadores da Sa-
+lesforce descobriram que os sis-
+temas mais comuns — como o
+reconhecimento de voz dos ce-
+lulares — não são muito exigen-
+tes e podem ser burlados com
+apenas 10 minutos de gravação.
+Funciona da seguinte forma: a
+gravação da fala é processada
+por um software junto da trans-
+crição (texto) da mesma fala. As-
+sim, o software associa os sons
+ao áudio. Repetindo esse “trei -
+namento”, o software passa a ser
+capaz de criar novos sons (falas)
+a partir de qualquer texto.
+
+Mas nem mesmo os softwa-
+res existentes conseguem fazer
+algo útil com apenas dez minu-
+tos de gravações. Por isso, os
+pesquisadores tiveram de
+“alongar ” as gravações de forma
+artificial. Para isso, eles pega-
+ram a mesma gravação e fize-
+ram alterações no tom e na ve-
+locidade do áudio (deixando a
+voz mais grave ou aguda).
+
+Um joguinho de celular capaz
+de mostrar como anda o senso de
+direção de seus usuários e ainda
+revelar o risco de cada um deles
+desenvolver Alzheimer, Parkinson
+e outras demências: essa é a pro-
+posta do Sea Hero Quest, idealiza-
+do por estudiosos do University
+College de Londres, na Inglaterra,
+e da Universidade de East Anglia,
+no Reino Unido.
+
+A tecnologia foi desenvolvida
+em parceria com a empresa alemã
+de telecomunicações Deutsche
+Telekom e já coletou dados de
+mais de 2,5 milhões de pessoas,
+com idades entre 18 e 99 anos, de
+195 países. O objetivo dos jogado-
+res é caçar criaturas marinhas a
+bordo de um barco e fotografá-las
+quando são encontradas.
+
+O desafio é identificar as rotas
+certas a serem traçadas — o que
+exige habilidades como interpre-
+tar mapas e lembrar-se de deta-
+lhes. As informações são do site da
+Su p e r i n t e re s s a n t e.
+
+Para a pesquisa, os cientistas bri-
+tânicos usaram informações de
+558 mil indivíduos de 57 nações e
+focaram no senso de direção dos
+participantes — um dos principais
+indicadores da saúde cognitiva.
+
+Além de identificar potenciais
+fatores de risco para as demências,
+também foi possível apontar dife-
+renças conforme a origem geográ-
+fica dos voluntários. Habitantes de
+Finlândia, Dinamarca, Noruega,
+Nova Zelândia, Canadá, EUA e
+Austrália foram os que se saíram
+melhor em relação à navegação.
+
+Outra constatação curiosa do es-
+tudo é que, em geral, homens têm
+melhor senso de direção do que as
+mulheres. Mas isso não quer dizer
+muito. “Nossos resultados de-
+monstram que as diferenças cog-
+nitivas não são fixas, mas influen-
+ciadas pelo ambiente cultural e o
+papel da mulher em cada socieda-
+de”, disse Antoide Coutrot, um dos
+autores do estudo, ao site da
+Deutsche Telekom.
+
+D I V U LG AÇ ÃO
+
+CENÁRIO de Sea Hero Quest, o jogo que testa habilidade cognitiva e direção
+
+ONDAS sonoras: manipulação
+
+

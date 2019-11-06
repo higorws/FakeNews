@@ -1,0 +1,173 @@
+30  ATRIBUNA  VITÓRIA, ES, TERÇA-FEIRA, 03 DE ABRIL DE 2018
+
+Ciência e Tecnologia
+GOOGLE E FACEBOOKDicas para não ser espionado
+
+REUTERS/DADO RUVIC
+
+Especialistas mostram
+algumas formas de
+evitar que internauta
+tenha sua atividade
+na internet monitorada
+por redes sociais
+
+SÃO PAULOQ uer saber como proteger
+
+seus dados, reduzindo seus
+rastros na internet? O es-
+cândalo do Facebook e a consulto-
+ria Cambridge Analytica levou a
+uma reflexão sobre dados pessoais
+na rede. Usuários estão verifican-
+do como eles estão sendo armaze-
+nados e se estão sendo usados sem
+c o n s e n t i m e n t o.
+
+A empresa de análise de dados
+usou informações pessoais de
+mais de 50 milhões de perfis no
+Facebook, sem permissão, para
+construir um sistema que miraria
+eleitores americanos com anún-
+cios políticos personalizados, ba-
+seados em seu perfil psicológico.
+Talvez você soubesse que o Fa-
+cebook e o Google guardam seus
+dados. Mas você sabe quantas in-
+formações têm sobre você?
+
+Membros do coletivo Tactical
+Tech, um grupo sem fins lucrati-
+vos especialista em segurança di-
+gital, explicam como encontrar
+que informações sobre você estão
+armazenadas e como protegê-las.
+As informações acima são da
+BBC, publicadas no portal G1, e da
+revista Superinteressante.
+
+UTILIZAÇÃO DO FACEBOOK: é possível alterar a configuração para garantir aumento na privacidade, e especialistas explicam como é esse processo
+
+AS DICAS
+1 Limpe seu Facebook
+> O FACEBOOK dá a opção de fazer o
+download de todas as suas informa-
+ções, como compartilhamentos, fo-
+tos e todas as mensagens.
+
+> PARA RECEBER uma cópia, vá para
+“configurações ”, opção no canto es-
+querdo superior da página do Face-
+book. A última opção diz “baixar uma
+cópia dos seus dados no Facebook”.
+Você vai precisar digitar a senha e o
+resultado é enviado por e-mail.
+
+> DE VOLTA às configurações, na colu-
+na da esquerda, uma das últimas op-
+ções é “aplicativos ”. Nessa opção,
+você pode remover todos os aplica-
+tivos que estão armazenando dados
+sobre você. Clique, então, em “apli -
+cativos ”. Lá, você pode ver quais têm
+acesso a certos dados seus.
+
+> NA OPÇÃO “APLICATIVOS, sites e
+plug-ins ”, é possível “editar ”. Clique
+nessa opção e em seguida em “desa -
+tivar plataforma” - essa opção ex-
+
+cluirá todas as conexões entre o Fa-
+cebook e aplicativos de fora, como
+jogos, de música, paquera, entre ou-
+tros. Você também pode deletar os
+aplicativos que não deseja manter
+conectados ao Facebook.
+
+I N FO R M AÇ Õ ES
+> DEPOIS, em “aplicativos que outras
+pessoas usam”, é possível retirar a
+seleção de informações disponíveis
+para aplicativos usados por amigos.
+Sua biografia, data de nascimento,
+por exemplo, são alguns dos dados
+acessados por esses aplicativos. Pa-
+ra evitar que sigam compartilhadas,
+desmarque-as e clique em “salvar ”.
+2 Google sabe tudo!
+> É BEM PROVÁVEL que você use al-
+gum produto do Google todos os
+dias. Entre no Google e faça o login
+na sua conta, no canto direito supe-
+rior. Depois, clique na sua foto ou no
+logo do Google, no canto direito su-
+
+perior, e selecione "Minha conta".
+
+> ACESSE a coluna central, “informa -
+
+ções pessoais e privacidade”.
+
+> EM "MINHA ATIVIDADE" - ou direta-
+mente no link https://myactivity.go-
+ogle.com/myactivity - você poderá
+ver tudo o que o Google armazena
+sobre você. São informações como:
+todos os sites que você acessou, ca-
+so use o navegador Chrome, as pes-
+quisas que fez no Google, anúncios e
+buscas no Google Maps.
+
+> AGORA, CLIQUE em “excluir atividade
+por ”. Nessa opção, você poderá de-
+letar o histórico das suas atividades
+que foi armazenado pelo Google.
+
+> MAS AINDA é preciso impedir que a
+empresa siga coletando seus dados.
+Por isso, clique em “controles de ati-
+vida de” - https://myaccount.goo-
+gle.com/activitycontrols. Nessa pá-
+gina, você pode “pausar ” todos os
+dados que são salvos diariamente.
+
+> ASSIM COMO no Facebook, você po-
+de fazer o download de todas as in-
+
+formações que o Google tem sobre
+você, no google.com/takeout.
+3 Histórico de localização
+> O GOOGLE monitora a localização do
+seu celular – e registra todos os lu-
+gares onde você esteve. Para desa-
+bilitar, basta acessar o Google Loca-
+tion History. Na tela que será exibida,
+clique em Gerenciar Histórico de Lo-
+calização. Aí é só virar a chavinha pa-
+ra desligar o recurso.
+
+> SE VOCÊ QUISER, também pode de-
+letar a lista de lugares que o Google já
+registrou (é só clicar em Gerenciar
+Histórico, Configurações e Excluir
+todo o histórico de localização).
+4 Use navegador anônimo
+> RASTREADORES colocados nos si-
+tes. coletam dados por trás dos pa-
+nos, incluindo buscas, sites que você
+visita e seu endereço IP. A má notícia
+é que nenhuma configuração de na-
+vegar é naturalmente privada.
+
+> MAS O CHROME, do Google, Firefox e
+o Safari oferecem um modo de nave-
+gação “an ô ni mo” que automatica-
+mente deleta seu histórico de nave-
+gação, cookies e arquivos temporá-
+rios toda vez que se fecha a página.
+> ABRA SEU NAVEGADOR e vá para o
+menu. Depois, escolha “nova janela
+de navegação anônima”.
+
+

@@ -1,0 +1,281 @@
+22  ATRIBUNA  VITÓRIA, ES, SEGUNDA-FEIRA, 05 DE FEVEREIRO DE 2018
+
+Ciência e Tecnologia
+Hackers roubam dados de
+196 mil clientes do Uber
+
+USO DO UBER:
+aplicativo pediu
+um prazo de
+15 dias para
+apresentar as
+ex p l i c a ç õ e s
+“diante da
+c o m p l ex i d a d e
+de obter dados”
+
+D I V U LG AÇ ÃO
+
+São informações de
+usuários do Brasil que
+teriam vazado na rede.
+Ministério Público do
+Distrito Federal pediu
+esclarecimentos
+
+B R AS Í L I AO Ministério Público do Dis-
+
+trito Federal pediu esclare-
+cimentos ao Uber sobre o
+vazamento de dados pessoais de
+usuários brasileiros, após a empre-
+sa de transporte ter revelado que
+as informações de 57 milhões de
+clientes e motoristas de todo o
+mundo tinham sido roubadas.
+
+Ao órgão, o aplicativo pediu um
+prazo de 15 dias para apresentar as
+explicações “diante da comple-
+
+xidade de obter os dados”.
+
+No site do Uber, consta a in-
+formação de que a violação de
+dados teria afetado 196 mil
+usuários do Brasil. A empresa,
+porém, diz que o número ainda
+“não é exato e nem definitivo”.
+
+Questionado sobre o pedido do
+MP, o Uber afirmou que “já rece-
+beu o ofício solicitando esclareci-
+mentos e responderá fornecendo
+todas as informações necessárias”.
+O documento do Ministério Pú-
+blico foi redigido pela Comissão
+de Proteção dos Dados Pessoais e
+divulgado na sexta.
+
+Para o coordenador da comissão,
+Frederico Meinberg, a atuação foi
+necessária “diante da gravidade
+dos fatos”: “Nos Estados Unidos e
+
+em países da Europa foram aber-
+tas investigações contra ao Uber,
+mas na América Latina, não”.
+
+Meinberg disse também que, ca-
+so a empresa confirme a exposição
+de informações de motoristas e de
+clientes do Brasil, “deverá descre-
+ver em detalhes o caso, o total de
+pessoas afetadas, as localidades e
+os tipos de dados pessoais”.
+
+O promotor de Justiça quer saber
+se alguma investigação interna foi
+realizada e se existem conclusões.
+A comissão liderada por Mein-
+berg é a primeira iniciativa brasi-
+leira que trata exclusivamente da
+proteção dos dados pessoais. Cria-
+da em novembro de 2017, tem co-
+mo atribuições promover o conhe-
+cimento das normas e das políticas
+públicas sobre proteção de dados
+pessoais e medidas de segurança.
+Quando o caso veio à tona, o
+Uber informou que, no fim de
+2016, pagou US$ 100 mil (R$ 321
+mil) para hackers destruírem da-
+dos roubados de mais de 57 mi-
+lhões de clientes e motoristas.
+
+As informações roubadas in-
+cluíam nomes, endereços de e-
+mail e números de telefone, além
+de nomes e números de licenças
+de 600 mil motoristas dos EUA.
+
+O executivo-chefe da compa-
+nhia, Dara Khosrowshahi, reco-
+nheceu que a empresa cometeu
+erro na forma de lidar com a viola-
+ção durante a gestão do antigo
+CEO, Travis Kalanick.
+
+Em janeiro, a mesma comissão
+do Ministério Público recomen-
+dou que o site Netshoes tomasse
+providências após vazamento de
+dados de 2 milhões de usuários.
+
+Mais aparelhos controlados pela mente
+
+Imagine conseguir que uma má-
+quina siga os seus comandos ape-
+nas com seu pensamento — s em
+apertar botões, digitar ou mexer
+em controles remotos. Esse cená-
+rio de ficção científica pode estar
+mais perto da realidade.
+
+A vida de Bill Kochevar mudou
+para sempre depois de sofrer um
+acidente de bicicleta, há oito anos.
+Pedalando em alta velocidade, ele
+se chocou com um caminhão. Fi-
+cou paralisado do pescoço para
+baixo, passando a depender de ter-
+ceiros para beber água ou se virar.
+Mas um experimento, iniciado
+no ano passado, tem lhe dado mais
+autonomia: ele recebeu uma inter-
+face cérebro-computador, ou BCI,
+na sigla em inglês, que permitiu-
+lhe mover o braço e a mão pela pri-
+meira vez desde o acidente.
+
+Primeiro, sensores foram im-
+plantados em seu cérebro. Em se-
+guida, por quatro meses, Kochevar
+deu um “t re i n a m e n t o ” ao sistema,
+pensando em movimentos especí-
+ficos, como girar o pulso ou agar-
+
+rar um objeto. Os sensores apren-
+deram quais pedaços do cérebro se
+“acendiam” — e em qual sequência
+— para cada movimento desses.
+
+Depois, quando 36 eletrodos de
+estímulo muscular foram implan-
+tados em seu braço e sua mão, Ko-
+chevar conseguiu controlar movi-
+mentos simplesmente pensando
+no que ele queria fazer. “Essa pes-
+quisa aumentou minha habilidade
+para fazer muitas coisas”, ele con-
+tou à BBC no ano passado.
+
+Essa mesma tecnologia está sen-
+do usada no desenvolvimento de
+cadeiras de roda controladas pela
+mente e sensores que permitam a
+pessoas completamente paralisa-
+das dar respostas “sim” ou “não”
+pelo poder do pensamento.
+
+Mais além das aplicações em
+bem-estar de pessoas com defi-
+ciência, há empresas testando o
+controle da mente como interface.
+Um exemplo vem da montadora
+Nissan, que recentemente anun-
+ciou um headset “cérebro -para-
+ve í c u l o ” que monitora o que o mo-
+
+D I V U LG AÇ ÃO
+
+HEADSET é um dos aparelhos que monitoram o que se está prestes a fazer
+
+torista está prestes a fazer — antes
+que ele o faça.
+
+O objetivo é fazer com que o veí-
+culo responda centésimos de se-
+gundo mais rápido do que o moto-
+rista responde naturalmente.
+
+Em uma estrada de curvas peri-
+
+gosas, por exemplo, essa tecnolo-
+gia pode facilitar o controle do car-
+ro, diz a Nissan. Em testes, até
+mesmo motoristas experientes se
+saíram melhor usando o sistema
+“cérebro -para-veículo”, segundo a
+e m p re s a .
+
+DAVID PAUL MORRIS
+
+ALYSSON MUOTRI: testes
+
+Me d i c a m e n t o
+contra a
+hepatite C na
+cura da Zika
+
+Enquanto cientistas e empre-
+sas farmacêuticas corriam con-
+tra o tempo para criar, do zero,
+uma vacina contra o Zika vírus,
+o biólogo Alysson Muotri estava
+olhando para o outro lado.
+
+A hipótese dele era de que re-
+médios que já estão no mercado
+e são usados contra outras
+doenças poderiam também ser
+efetivos contra o Zika vírus, que
+causou alterações neurológicas
+em mais de 3 mil crianças no
+Brasil entre 2015 e 2017.
+
+As evidências científicas
+apontam para a possibilidade
+de Muotri ter acertado em sua
+aposta. Em estudo publicado
+em janeiro na revista Scientific
+Reports, do prestigioso grupo
+Nature, a equipe de Muotri diz
+que o remédio Sofosbuvir, usa-
+do no tratamento de hepatite C,
+pode curar a infecção por Zika e
+impedir também a transmissão
+do vírus da mãe para o bebê du-
+rante a gravidez.
+
+A pesquisa se dividiu entre a
+Faculdade de Medicina da Uni-
+versidade da Califórnia, onde
+Muotri coordena o Programa
+de Células-tronco, e o Instituto
+de Ciências Biomédicas da
+US P.
+
+Em ambos os laboratórios, os
+pesquisadores testaram o medi-
+camento primeiro em minicé-
+rebros — estruturas obtidas a
+partir de células-tronco que
+emulam o funcionamento do
+cérebro — e, em seguida, em ca-
+mundongos. Em ambos os ca-
+sos, a taxa de sucesso foi de
+100%, segundo o biólogo.
+
+“Os minicérebros infectados
+com Zika responderam imedia-
+tamente ao Sofosbuvir. Nas pri-
+meiras 24 horas, as células pa-
+raram de morrer e voltaram a
+crescer novamente”, disse
+Muotri à BBC Brasil.
+
+“Nos camundongos, a doença
+mata. Mas conseguimos que
+eles se recuperassem do estado
+terminal. E nas fêmeas, impedi-
+mos que o vírus chegasse até os
+fetos. Agora, estamos preparan-
+do os testes em humanos”.
+
+Nos próximos três meses, a
+equipe deve testar o medica-
+mento em pacientes de Zika no
+Equador, que enfrenta um surto.
+
+

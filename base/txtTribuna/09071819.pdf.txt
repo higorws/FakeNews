@@ -1,0 +1,814 @@
+Ec o n o m i a
+
+I n d i ca d o re s
+
+CDB (06/07)
+PRAZO/DIAS ÚTEIS M O DA L I DA D E
+31/21 dias
+180/122 dias
+FO N T E : U n i l e t ra .
+
+CDBPRE 30
+CDBPRE 180
+
+TAXA A.M.
+0, 4 95 %
+0, 5 2 6 %
+
+TAXA A.A.
+6,11%
+6,50%
+
+CDI
+PERÍODO
+CDI acumulado mensal
+CDI acumulado 12 meses
+
+TAXA S
+PERÍODO
+de 24/06 a 24/07
+de 25/06 a 25/07
+de 26/06 a 26/07
+de 27/06 a 27/07
+de 28/06 a 28/07
+de 29/06 a 29/07
+
+P O U PA N ÇA
+DATA * * DEPÓSITO ATÉ
+
+3/5/2012* (%)
+0, 5 0 0 0
+0, 5 0 0 0
+0, 5 0 0 0
+0, 5 0 0 0
+0, 5 0 0 0
+
+29/06
+30/06
+01/07
+02/07
+03 / 0 7
+
+PERCENTUAL
+1 ,0 0 0 9 85 1 6 3 74 6 3 4 %
+7, 3 0 %
+
+TR (%)
+0
+0
+0
+0
+0
+0
+
+TBF (%)
+0, 4 8 93
+0, 5 1 2 8
+0, 5 1 0 6
+0, 5 1 05
+0, 5 0 9 2
+0, 4 8 4 4
+
+A PARTIR DE
+4/5/2012* (%)
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+
+DATA * * DEPÓSITO ATÉ
+
+3/5/2012* (%)
+0, 5 0 0 0
+0, 5 0 0 0
+0, 5 0 0 0
+0, 5 0 0 0
+0, 5 0 0 0
+
+04/07
+05 / 0 7
+06/07
+07/07
+08/07
+
+A PARTIR DE
+4/5/2012* (%)
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+
+(*) RENDIMENTO DA APLICAÇÃO FEITA HÁ 30 DIAS.
+(**) OS RENDIMENTOS OCORREM DO DIA 1º AO DIA 28, EM TODOS OS MESES.
+OBS: DEPÓSITOS A PARTIR DE 04/05/2013 RENDEM 70% DA SELIC MAIS TAXA REFERENCIAL (TR), SE A
+TAXA DE JUROS FOR IGUAL OU INFERIOR A 8,5% AO ANO. EM APLICAÇÕES ANTES DISSO E QUANDO A
+SELIC FOR ACIMA DE 8,5%, O RENDIMENTO É DE 6% AO ANO MAIS A TR.
+
+IMPOSTO DE RENDA ( J U L H O)
+R E N D I M E N TO
+Até R$ 1.903,98
+De R$ 1.903,99 até R$ 2.826,65
+De R$ 2.826,66 até R$ 3.751,05
+De R$ 3.751,06 até R$ 4.664,68
+Acima de R$ 4.664,68
+
+A L Í Q U OTA
+isento
+7, 5 %
+15%
+22,5%
+2 7, 5 %
+
+D E D U ÇÃO
+–
+R$ 142,80
+R$ 354,80
+R$ 636,13
+R$ 869,36
+
+D E D U Ç Õ ES : R$ 189,59 POR DEPENDENTE; PENSÃO ALIMENTÍCIA JUDICIAL; VALOR DA CONTRIBUIÇ ÃO
+PAGA, NO MÊS, À PREVIDÊNCIA OFICIAL E A ENTIDADES DE PREVIDÊNCIA PRIVADA NO BRASIL .
+
+INSS ( J U L H O)
+E M P R EG A D O S
+SALÁRIO DE CONTRIBUIÇÃO
+Até R$ 1.693,72
+De R$ 1.693,73 a R$ 2.822,90
+De R$ 2.822,91 a R$ 5.645,80
+
+ALÍQUOTA (INSS)
+8%
+9%
+11%
+
+O DESCONTO DOS EMPREGADOS RELATIVO À PREVIDÊNCIA RESPEITA O TETO MÁXIMO DE R$ 5.645,80
+— QUEM RECEBE SALÁRIOS SUPERIORES A ESSE VALOR SÓ CONTRIBUI ATÉ ESSE LIMITE MÁX I M O,
+CORRESPONDENDO A 11% (R$ 621,03).
+CONTRIBUINTE INDIVIDUAL E FACULTATIVO
+SALÁRIO-BASE DE CONTRIBUIÇÃO
+Valor mínimo
+Valor máximo
+
+R$
+95 4
+5.645,80
+
+R$
+104,94
+1 . 1 2 9, 1 6
+
+%
+11
+20
+
+COTAÇÕES DO CAFÉ (06/07)
+Arábica tipo 6, Bebida Dura, com até 12% de umidade
+Arábica tipo 7, Bebida Rio, com até 12% de umidade
+Conilon 7 com até 13% de umidade e até 10% de broca
+
+BOLSA DE MERCADORIAS (06/07)
+P R O D U TO
+
+U N I DA D E
+
+R$ 407
+R$ 382
+R$ 324
+
+P R EÇ O
+M ÁX I M O
+R$ 138
+R$ 136
+R$ 138
+
+–
+–
+R$ 90
+R$ 100
+R$ 3,11
+R$ 3,03
+R$ 3,61
+R$ 1
+R$ 2
+R$ 1,47
+R$ 2,87
+R$ 1,40
+R$ 2
+R$ 1,79
+R$ 3
+R$ 8,33
+R$ 1,33
+R$ 1,06
+R$ 1,33
+R$ 11
+R$ 1
+R$ 1,44
+R$ 3,33
+R$ 1,58
+R$ 2
+R$ 1,64
+R$ 1,25
+R$ 0,90
+R$ 1,88
+R$ 1,58
+R$ 0,83
+R$ 1,44
+R$ 2,79
+R$ 0,52
+R$ 1,25
+
+P R EÇ O
+MÉDIO
+R$ 134,46
+R$ 134,04
+R$ 134,17
+R$ 5,39
+R$ 6,43
+R$ 89
+R$ 99
+R$ 2,96
+R$ 2,88
+R$ 3,40
+R$ 0,91
+R$ 1,94
+R$ 1,40
+R$ 2,78
+R$ 1,38
+R$ 2
+R$ 1,75
+R$ 2,90
+R$ 8,17
+R$ 1,29
+R$ 1,03
+R$ 1,33
+R$ 10,61
+R$ 0,98
+R$ 1,40
+R$ 3,25
+R$ 1,50
+R$ 2
+R$ 1,58
+R$ 1,19
+R$ 0,86
+R$ 1,88
+R$ 1,52
+R$ 0,79
+R$ 1,27
+R$ 2,67
+R$ 0,46
+R$ 1,13
+
+P R EÇ O
+MÍNIMO
+R$ 133
+R$ 133
+R$ 125
+
+–
+–
+R$ 87
+R$ 98
+R$ 2,82
+R$ 2,74
+R$ 3,19
+R$ 0,80
+R$ 1,90
+R$ 1,33
+R$ 2,69
+R$ 1,35
+R$ 2
+R$ 1,71
+R$ 2,80
+R$ 8
+R$ 1,24
+R$ 0,99
+R$ 1,33
+R$ 10,17
+R$ 0,96
+R$ 1,37
+R$ 3,17
+R$ 1,42
+R$ 2
+R$ 1,52
+R$ 1,15
+R$ 0,81
+R$ 1,88
+R$ 1,43
+R$ 0,73
+R$ 1,11
+R$ 2,56
+R$ 0,40
+R$ 1
+
+Boi gordo castrado
+Boi gordo inteiro
+Vaca gorda
+Frango abat. int. resfriado
+Suíno abat. carca. com.
+Ovos brancos extra
+Ovos vermelhos extra
+Feijão - carioquinha
+Feijão -preto
+Feijão -vermelho
+Banana-prata clim. 1ª
+Banana-terra clim. extra
+Coco-verde grande
+Goiaba vermelha extra
+Laranja-pera tipo 113/140
+Limão Taiti
+Mamão Havaí tipo 15/18
+Maracujá extra
+Morango extra
+Milho verde
+A b ó b o ra - j a c a r é
+Alface lisa grande
+Alho imp. branco chinês
+Aipim extra
+Batata inglesa comum
+Batata-baroa amarela
+Batata- doce
+Beterraba extra
+Cebola amarela
+Cenoura extra
+Chuchu extra
+Couve-flor extra
+Jiló extra
+Pepino extra
+Pimentão extra
+Quiabo extra
+Repolho branco extra
+Tomate longa vida ext. AA
+
+FO N T E : I n c a p e r / Ce a s a - E S / Ave s / A s e s .
+
+Arroba
+Arroba
+Arroba
+kg
+kg
+Caixa 30 dz
+Caixa 30 dz
+kg
+kg
+kg
+kg
+kg
+Unidade
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+
+VITÓRIA, ES, SEGUNDA-FEIRA, 09 DE JULHO DE 2018  ATRIBUNA  19
+
+D I V U LG AÇ ÃO
+
+Preço de serviço
+bancário sobe até 25%
+
+Os valores cobrados pelos bancos pelos principais
+serviços ficaram mais salgados para o consumidor no
+último ano.
+
+Segundo levantamento realizado pelo Procon-SP,
+as instituições financeiras reajustaram em até 25% o
+preço cobrado pelos serviços atrelados às contas-
+correntes, como saques, extratos e transferências
+entre contas do mesmo banco.
+
+A alta é pelo menos cinco vezes superior à inflação
+oficial do período, que ficou em 4,39%. O levantamen-
+to contou com dados de seis instituições: Banco do
+Brasil, Bradesco, Caixa, Itaú, Safra e Santander.
+
+SELIC
+PERÍODO
+Taxa selic acumulada no ano
+Taxa selic de um dia
+
+CÂMBIO (06/07)
+M O E DA S
+Dólar comercial
+Dólar turismo (espécie)
+Euro (espécie)
+Dólar canadense
+Franco suíço
+Ie n e
+Libra esterlina
+
+COMPRA
+R$ 3,8677
+R$ 3,90
+R$ 4,57
+R$ 2,9984
+R$ 3,9635
+R$ 0,03553
+R$ 5,2056
+
+FONTE: Banestes, Banco Central e CMA.
+
+PERCENTUAL
+6,40%
+1 ,0 0 0 24 6 2 0 %
+
+V E N DA
+R$ 3,8687
+R$ 4,08
+R$ 4,77
+R$ 2,9998
+R$ 3,9657
+R$ 0,06554
+R$ 5,2072
+
+BOLSA NO BRASIL (06/07)
+I B OV ES PA
+AÇ ÃO
+Banestes ON (BEES3)
+Petrobras ON (PETR3)
+Petrobras PN (PETR4)
+Vale ON (VALE3)
+Vale PNA (VALE5)*
+Fibria ON (FIBR3)
+Oi ON (OIBR3)
+Usiminas PNA (USIM5)
+B. do Brasil ON (BBAS3)
+Eletrobras PNB (ELET6)
+
+75 .0 1 0
+C OTAÇÃO
+R$ 3,41
+R$ 20,22
+R$ 17,94
+R$ 50,34
+-
+R$ 72,95
+R$ 3,39
+R$ 8,04
+R$ 29,46
+R$ 16,84
+
+M
+L
+L
+L
+
++ 0, 6 1 % L
+VA R I AÇÃO
+-1,16%
++ 0, 6 5 %
++ 0, 4 5 %
++1,29%
+-
++ 0, 2 7 %
+- 0,88%
+- 0,62%
+-1,11%
++ 0, 24 %
+
+L
+M
+M
+M
+L
+
+OBS.: *Não houve registros para essa ação.
+
+BOLSAS NO MUNDO (06/07)
+M E R CA D O
+Na s d a q - 1 0 0
+Dow Jones (EUA)
+Londres (Inglaterra)
+Paris (França)
+Tóquio (Japão)
+Merval (Argentina)
+Frankfurt (Alemanha)
+Bolsa de Xangai (China)
+
+P O N TO S
+7. 2 0 7, 3 3
+24 . 4 5 6 , 4 8
+7. 6 1 7,7 0
+5.375,7 7
+2 1 .7 8 8 , 1 4
+2 7. 6 1 1 ,0 4
+12.496,17
+2.74 7,23
+FONTE: CMA, UOL, Estadão e sites das Bolsas.
+
+VA R I AÇÃO
++1,50%
+zero
++ 0, 1 9 %
++ 0, 1 8 %
++1,12%
+- 0,73%
++ 0, 2 6 %
++ 0, 4 9 %
+
+L
+
+L
+L
+L
+M
+L
+L
+
+INFLAÇÃO (%)
+
+0,24
+
+0,19 0,16 0,42
+
+0,28
+
+0
+
+IPCA
+0,44
+
+0,29
+
+12 meses: 2,86%
+
+0,32 0,09 0,22 0,40
+
+Jul   Ago   Set   Out   Nov  Dez  Jan   Fev   Mar   Abr   Mai
+
+ÍNDICE
+
+MAR .
+
+ABR .
+
+MAIO
+
+0, 2 5
+IPC-DI (FGV)
+0, 6 4
+IGP-M (FGV)
+zero
+IPC-SP (Fipe)
+0, 5 6
+IGP-DI (FGV)
+INPC (IBGE)
+0,0 7
+INCC IGP (FGV) 0, 1 2
+ICV-SP (Dieese) 0, 03
+
+0, 3 7
+0, 5 7
+- 0,03
+0, 93
+0, 2 1
+0, 2 9
+0,0 4
+
+0, 1 9
+1,38
+0, 1 9
+1,64
+0, 4 3
+0, 2 3
+0,0 7
+
+AC U M .
+ANO
+1,49
+3,45
+0, 2 2
+3,91
+1,12
+1,20
+1,15
+
+ACUM. 12
+M ES ES
+3 ,0 8
+4,26
+1,54
+5,20
+1 ,76
+3,60
+2,50
+
+REAJUSTES DE ALUGUEL
+Í N D I C ES ACUMULADO % ATÉ MARÇO (*)
+
+ACUMULADO % ATÉ ABRIL (*)
+
+TRIM. QUADR . SEM.
+0, 0 5 0, 6 0
+1,21
+Fi p e
+2,97
+2 ,05
+IGP -DI
+1,30
+3,11
+2,37
+IGP -M 1,4 7
+INPC
+0, 4 8 0 ,74
+1,30
+(*) ACUMULADO ATÉ MARÇO REAJUSTA ALUGUÉIS E CONTRATOS A PARTIR
+DE ABRIL, PARA PAGAMENTO EM MAIO; ACUMULADO ATÉ ABRIL REAJUSTA A PARTIR
+DE MAIO, PARA PAGAMENTO EM JUNHO.
+
+ANUAL TRIM. QUADR . SEM.
+1 , 93
+0, 8 6
+3,82
+0,7 6
+3,49
+0, 2 0
+1,56
+1,14
+
+- 0,44 0,0 2
+2 , 24
+1,65
+2 ,05
+1,28
+0, 4 6
+0, 6 9
+
+ANUAL
+1,29
+2,97
+1,89
+1,69
+
+OUTROS ÍNDICES
+SALÁRIO MÍNIMO
+Valor de Referência do Tesouro Estadual (VRTE)
+Ouro (grama — 06/07 — M— -3,7 7%)
+Unidade Fiscal de Referência (Ufir)
+Taxa de Juros de Longo Prazo (TJLP) (% a.a.)
+
+FO N T E : U n i l e t ra / Co m a r.
+
+R$ 954
+R$ 3,27 26
+R$ 153
+R$ 1,0641
+0, 5 6 2 5 %
+
+CUSTO DA CONSTRUÇÃO (C U B)
+M ÊS
+Junho
+Ma i o
+Abril
+
+VALOR (M2) VARIAÇÃO MENSAL VARIAÇÃO ANUAL
+R$ 1.578,50
+R$ 1.574,56
+R$ 1.560,99
+
++1,82%
++1,56%
++ 0, 6 9 %
+
++ 0, 2 5 %
++ 0, 8 7 %
++ 0, 1 3 %
+
+OPERADORA de telemarketing: chances em Vila Velha e Vitória
+
+E M P R EG OE m p re s a s
+abrem hoje
+1.702 vagas
+
+As oportunidades são
+para várias profissões,
+como costureira,
+motorista, professor,
+entre outras, e o salário
+pode chegar a R$ 5 mil
+
+Thiago SobrinhoA semana começa com 1.702
+
+chances para quem está em
+busca de um emprego no
+Estado. Os salários podem chegar
+a R$ 5 mil. As ofertas são para to-
+dos os níveis de escolaridade.
+
+Na capital, por exemplo, a Agên-
+cia do Trabalhador conta com 132
+vagas. Os cargos são para atenden-
+te de telemarketing, costureira,
+motorista de caminhão, professor
+de Inglês, entre outras. O cadastro
+pode ser feito no www.trabalha-
+v i x .v i t o r i a .e s. g ov. b r.
+
+Em Vila Velha, o Sistema Nacio-
+nal de Emprego (Sine) está ofer-
+tando 56 vagas para seis profissões:
+telemarketing, manicure, auxiliar
+de pessoal, operador de vendas em
+lojas, professor de Inglês e repre-
+sentante comercial autônomo.
+
+O Sine fica na Rua 7 de Setembro,
+
+Centro. O atendimento é feito de
+segunda a sexta-feira, das 8 às 17h.
+No Sine da Serra, existem 113 va-
+gas para os cargos de mecânico de
+carretas, auxiliar de linha de pro-
+dução, técnico em nutrição, auxi-
+liar de limpeza, pedreiro, entre ou-
+tros. O Sine fica no Pró-Cidadão,
+avenida Talma Rodrigues Ribeiro,
+no bairro Portal de Jacaraípe.
+
+Já na Agência do Trabalhador de
+Cariacica há 153 novas vagas. Des-
+se total, 88 são destinadas a pes-
+soas com deficiência. A Agência
+está localizada na avenida Kleber
+Andrade, no bairro Rio Branco.
+
+Em Viana, são três vagas: aju-
+dante de produção, serralheiro e
+analista de seguro.
+
+O portal Catho oferece 1.199 va-
+gas. Os cargos são para coordena-
+dor de qualidade, programador de
+sistema, analista de manutenção,
+vendedor de loja e outros.
+
+O cadastro para concorrer às va-
+gas deve ser realizado no site
+www.catho.com.br. O cadastro é
+gratuito apenas por sete dias.
+
+No Heach RH existem 13 vagas
+Uma delas é de coordenador de
+controle de qualidade, cujo salário
+pode chegar a R$ 5 mil. Já no Psico
+Store, existem 16 chances, enquan-
+to no Center RH são 17 vagas.
+
+SAIBA MAIS
+
+Algumas oportunidades
+
+AGÊNCIA DO TRABALHADOR
+DE CARIACICA – 153 VAGAS
+> CA DASTR O : avenida Kleber Andra-
+
+de, nº 05, Rio Branco, Cariacica.
+
+SINE DE VILA VELHA – 56 VAGAS
+> CA DAST R O : rua 7 de Setembro, nº
+95, Centro, próximo ao Centro Esta-
+dual de Educação Vasco Coutinho.
+
+AGÊNCIA DO TRABALHADOR
+DE VITÓRIA – 132 VAGAS
+> CADASTR O e mais detalhes no site
+
+www.trabalhavix .vitoria.es.gov.br.
+
+SINE DA SERRA – 113 VAGAS
+> CADASTRO: avenida Talma Rodri-
+
+gues Ribeiro, Portal de Jacaraípe.
+
+CATHO – 1.199 VAGAS
+> CA DAST R O : em www.catho.com.br.
+CENTER RH – 17 VAGAS
+> C A  D A S T  R  O  : e m  w w w . c e n-
+
+t e r r h . c o m . b r.
+
+Fo n t e : Instituições e órgãos citados.
+
+

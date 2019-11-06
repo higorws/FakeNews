@@ -1,0 +1,275 @@
+Ec o n o m i a
+
+SAIBA MAIS
+R ansomware
+> É UMA espécie de
+programa chamado
+malware (software
+malicioso que se instala em um
+sistema de computador com a
+finalidade de “sequestrar ” ar -
+quivos para que seus criadores
+possam cobrar resgate de-
+pois).
+
+> ESSENCIALMENTE, ele blo-
+queia o acesso por parte das
+vítimas ao computador e aos
+arquivos que ele infecta. Para
+isso, os criminosos virtuais
+criptografam os arquivos de
+forma que é necessário uma
+chave (código) para desblo-
+queá-los.
+
+VITÓRIA, ES, SÁBADO, 14 DE JULHO DE 2018  ATRIBUNA  17
+
+FALE COM O EDITOR  RAFAEL GUZZO  E-MAIL: economia@redetribuna.com.br
+
+BETO MORAIS/AT
+
+O DELEGADO
+BRENNO
+ANDRADE
+disse que
+e m p re s a s
+são os alvos
+preferidos, mas
+que pessoas
+físicas também
+são vítimas
+de ataques
+
+Como
+i n f e c ta m
+as máquinas
+> UMA DAS FORMAS dos softwa-
+res maliciosos terem acesso às
+máquinas é por e-mails não
+confiáveis, downloads de fon-
+tes duvidosas e links comparti-
+lhados em redes sociais.
+
+> C I BE R C R I MI N O S O S d i s t r ib u e m
+e-mails falsos que aparentam
+ser notificação da polícia, do
+Judiciário, de lojas on-line ou
+bancos. O usuário é induzido a
+clicar em um link malicioso que
+distribui o malware.
+
+> AO CLICAR em um desses links,
+a máquina é infectada. A partir
+daí, criminosos, geralmente de
+fora do País, “seq ues tram” os
+dados mediante o carregamen-
+to de um programa que cripto-
+grafa automaticamente os ar-
+quivos do computador.
+R esgate
+> PARA LIBERAR os
+dados, eles cobram
+resgate em bitcoin
+(moeda virtual). A média exigi-
+da é de 1,5 bitcoin, cerca de R$
+36 mil.
+
+> ESSA MOEDA, que é de difícil
+rastreamento, permite a trans-
+ferência de recursos para outra
+pessoa em qualquer parte do
+mundo sem que dados pes-
+soais sejam compartilhados.
+Desbloqueio
+> A PROMESSA dos
+criminosos é de
+que ao receber o
+valor, será enviada uma chave
+(código) para o desbloqueio.
+Porém, não existe garantia de
+que o acordo seja cumprido.
+Há, inclusive, casos no Estado
+em que eles só liberaram parte
+do banco de dados das víti-
+mas.
+Como se
+p ro t e g e r
+> FAÇA BACKUPS diá -
+rios. Há dois tipos
+de backups: um em nuvem, em
+que os dados da empresa são
+carregados pelo menos uma
+vez e um externo, fora da rede e
+fisicamente, que pode ser um
+computador que não esteja
+conectado ou um HD fora da
+rede.
+
+PIRATAS DA INTERNET
+
+Quadrilhas cobram resgate
+após invadir computadores
+
+Bandidos utilizam
+programas maliciosos
+para bloquear dados
+e, depois, exigem dos
+usuários pagamento
+em moeda virtual
+
+Eliane Proscholdt
+
+Em escala crescente, quadri-
+
+lhas estão invadindo compu-
+tadores de pessoas físicas e
+jurídicas no Estado e, para liberar
+os dados, pedem resgate de R$ 36
+mil. Para não deixar rastros, eles
+exigem que o pagamento seja em
+bitcoins (moeda virtual).
+
+O titular da Delegacia Especiali-
+zada em Repressão aos Crimes Ci-
+bernéticos, delegado Brenno An-
+drade de Souza Silva, disse que em
+um ano cerca de 30 vítimas da
+Grande Vitória procuraram a polí-
+cia para denunciar os ataques.
+
+O delegado explicou que nor-
+malmente os criminosos pedem
+uma média de 1,5 bitcoin (cerca de
+R$ 36 mil), mas nas negociações o
+valor pode ser reduzido, especial-
+mente se a empresa é pequena.
+
+“Eles escolhem a empresa alea-
+toriamente, enviam e-mails, prin-
+cipalmente e a partir do momento
+que a pessoa clica no link, um pro-
+
+grama criptografa automatica-
+mente os arquivos do computador
+da vítima, que não consegue mais
+acessar o seu conteúdo”.
+
+Como um toque de mágica, sur-
+ge uma mensagem na tela do com-
+putador, geralmente em inglês, in-
+formando que os arquivos foram
+c r i p t o g ra f a d o s.
+
+“Integrantes dessas quadrilhas, a
+maioria de fora do País, pedem que
+a pessoa acesse um link e, ao aces-
+sá-lo, vem o pedido de resgate. As
+vezes esses cibercrimosos mandam
+um e-mail solicitando resgate”.
+
+Brenno Andrade ressaltou que
+os ataques começaram mais com
+pessoas físicas. Mas as empresas
+são os alvos preferidos porque os
+bandidos acham que são mais van-
+tajosas, já que têm mais dados.
+Tanto é que, apenas no mês passa-
+do, das cinco denúncias, todas fo-
+ram de empresários.
+
+Ele contou que, infelizmente,
+algumas pessoas pagam para ter
+os dados de volta. “O r ie n t am o s
+que o resgate não seja pago. Ao
+pagar, a pessoa comprova que o
+golpe funciona e financia a orga-
+nização”.
+
+E o pior: o fato de pagar não é ga-
+rantia de nada. “Há casos ocorridos
+na Grande Vitória de vítimas que
+pagaram o valor integral, mas não
+tiveram todos os dados liberados”.
+O delegado disse que a tendência
+
+Utilização de
+antivírus
+> MANTENHA o software
+atualizado sempre.
+
+> NÃO CLIQUE em links duvidosos, mes-
+mo se forem de pessoas conhecidas,
+pois os criminosos podem ter hackea-
+do esses dados e usado um e-mail pa-
+
+ra enviar um link duvidoso.
+
+> NÃO CLICAR em arquivos com a ex-
+tensões .exe, .vbs, .scr, uma vez que
+os criminosos usam essas exten-
+sões como disfarce. Com eles simu-
+lam um vídeo, uma foto ou ainda um
+documento.
+
+> SE DESCOBRIR um processo desco-
+
+REGISTRO NA POLÍCIA
+
+RODRIGO GAVINI/AT
+
+“Tivemos um prejuízo enorme”
+
+A reportagem conversou com
+três vítimas. Uma delas pagou R$
+25 mil para recuperar seus dados.
+Mas nem todos pagam, a exem-
+plo de uma empresária que tem
+uma loja de móveis e eletrodomés-
+ticos. Ela foi surpreendida com uma
+mensagem em inglês de que os da-
+
+dos da sua empresa tinham sido
+criptografados. Na quinta-feira, re-
+gistrou ocorrência na polícia.
+
+“Essa invasão nos causou um
+prejuízo enorme. Tivemos que con-
+tar estoque, fazer tudo de novo.
+Agora, redobramos os cuidados”,
+contou a empresária.
+
+é de aumentar ainda mais o núme-
+ro de vítimas, considerando que os
+acessos a internet seguem o mes-
+mo ritmo. “Para eles, esse tipo de
+ataque é vantajoso e eles não se ex-
+
+põem. O pagamento em bitcoin
+também é uma estratégia para não
+deixarem rastro, já que essa moeda
+é de dificil rastreamento”.
+
+nhecido no computador, a primeira
+coisa a ser feita é desligar imedia-
+tamente da internet ou da rede. Is-
+so previne que a infecção se espa-
+lhe.
+
+> MAIS INFORMAÇÕES podem ser obti-
+das no site www.nomoreransom.org.
+
+Fonte: Delegado Brenno Andrade.
+
+ONDE DENUNCIAR
+
+No caso da Grande Vitória, as
+denúncias devem ser feitas na
+Delegacia Especializada em Re-
+pressão aos Crimes Cibernéti-
+cos, na avenida Marechal Cam-
+pos, 1.246, Bairro Bonfim, Vitó-
+ria, de 2ª a 6ª, das 9 às 16 horas.
+Nos demais municípios, nas de-
+legacias mais próximas.
+
+

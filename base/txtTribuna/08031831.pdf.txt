@@ -1,0 +1,251 @@
+VITÓRIA, ES, QUINTA-FEIRA, 08 DE MARÇO DE 2018  ATRIBUNA  31
+
+Ciência e Tecnologia
+Empresa diz que celulares
+já saem de fábrica com vírus
+
+A companhia russa
+Dr. Web apontou 40
+modelos que teriam
+código criado para
+executar comandos
+não autorizados
+
+D I V U LG AÇ ÃO
+
+RIOA empresa de segurança russa
+
+Dr. Web alertou que mais de
+40 modelos de celulares
+com o sistema operacional An-
+droid estão saindo de fábrica com
+um código criado para executar
+comandos não autorizados no dis-
+positivo. Na prática, o código é ca-
+paz de baixar e executar aplicati-
+vos sem a autorização do usuário.
+A praga digital é chamada de
+Triada e é incluída com uma alte-
+ração em um código do sistema do
+Android. Logo, o vírus não aparece
+como um aplicativo avulso no apa-
+relho — ele está embutido nos
+“b a st i d o re s ” do sistema.
+
+Não é possível remover o vírus
+sem fazer o chamado “acesso ro-
+ot ” ou reinstalar todo o sistema
+operacional, o que exige um pro-
+cesso conhecido como “flashing ”.
+O Triada foi detectado pela Dr.
+Web pela primeira vez em meados
+de 2017. Na ocasião, a empresa in-
+formou o nome de apenas quatro
+modelos de celular de dois fabri-
+cantes que traziam o código mali-
+c i o s o.
+
+A Dr. Web disse que, em ao me-
+nos um caso, uma parceira de
+software de Shangai teria solicita-
+do a inclusão do código malicioso
+em um dos aparelhos na consti-
+tuição da “imagem de sistema”.
+
+Essa “i ma g em ” é o conjunto
+
+VÍRUS em celular: aparelhos com o problema não são homologados pela Anatel e estão mais presentes no Oriente
+
+formado pelo sistema operacional
+e demais aplicativos que serão
+pré-instalados nos aparelhos. O
+caso ocorreu com a Leagoo. A Dr.
+Web diz acreditar que essa desen-
+volvedora esteja “i m pl i ci t am e nt e
+ou explicitamente” envolvida na
+distribuição do Triada, mas não
+informou o nome da companhia.
+As informações são coluna Se-
+gurança Digital, do G1, que não
+conseguiu localizar nenhum dos
+aparelhos listados pela Dr. Web
+
+no catálogo de aparelhos homolo-
+gados da Anatel.
+
+Quase todos os aparelhos são
+voltados para os mercados da Ásia
+e do Leste Europeu, mas alguns
+distribuidores vendem esses dis-
+positivos em outros países, inclu-
+sive no Brasil, conforme apurou o
+blog Segurança Digital.
+
+Ao menos sete fabricantes apa-
+recem na lista de parceiros oficiais
+do Google. O Google foi procurado
+pelo blog, mas não respondeu até a
+
+publicação desta reportagem.
+
+Já as fabricantes que não são
+parceiras oficiais do Google (como
+Leagoo e Doogee, as duas marcas
+com mais modelos na lista) não
+têm autorização para usar oficial-
+mente os serviços do Google Play.
+Embora esses aparelhos execu-
+tem uma versão do sistema An-
+droid e sejam em geral compatí-
+veis com aplicativos para o siste-
+ma do Google, não há garantia
+quanto à integridade do sistema.
+
+> Cherry Mobile Flare P1
+> NOA H6
+> Pelitt T1 PLUS
+> Prestigio Grace M5 LTE
+> BQ 5510
+
+OBS.: A Dr. Web alerta que outros
+modelos de aparelhos também po-
+dem ter o código adulterado e que
+esta lista não pode ser considerada
+c o m p l e ta .
+
+Fonte: Dr. Web e Blog Segurança Digital, G1.
+
+SAIBA MAIS
+Aparelhos que conteriam o vírus
+Triada, segundo a Dr. Web
+> Leagoo M5
+> Leagoo M5 Plus
+> Leagoo M5 Edge
+> Leagoo M8
+> Leagoo M8 Pro
+> Leagoo Z5C
+> Leagoo T1 Plus
+> Leagoo Z3C
+> Leagoo Z1C
+> Leagoo M9
+> ARK Benefit M8
+
+MENAHEM KAHANA/AFP
+
+> Zopo Speed 7 Plus
+> UHANS A101
+> Doogee X5 Max
+> Doogee X5 Max Pro
+> Doogee Shoot 1
+> Doogee Shoot 2
+> Tecno W2
+> Homtom HT16
+> Umi London
+> Kiano Elegance 5.1
+> iLife Fivo Lite
+> Mito A39
+> Vertex Impress InTouch 4G
+
+> Vertex Impress Genius
+> myPhone Hammer Energy
+> Advan S5E NXT
+> Advan S4Z
+> Advan i5E
+> STF AERIAL PLUS
+> STF JOY PRO
+> Tesla SP6.2
+> Cubot Rainbow
+> EXTREME 7
+> Haier T51
+> Cherry Mobile Flare S5
+> Cherry Mobile Flare J2S
+
+Carta de Einstein vale R$ 332 mil
+
+Uma carta escrita pelo físico Al-
+bert Einstein foi arrematada ontem
+por US$ 103,7 mil (cerca de R$ 332
+mil) em um leilão em Jerusalém.
+
+O documento manuscrito falava
+sobre a teoria da evolução, escrita
+em alemão, e foi enviado por Albert
+
+Einstein em 1928 de Berlim a um co-
+lega matemático.
+
+Seu comprador pediu para ter a
+identidade preservada. Outros lotes,
+entre eles cartas, autógrafos e fotos
+do prêmio Nobel de Física de 1921, fo-
+ram arrematados.
+
+Governo avalia
+novo imposto
+para Netflix
+e Spotify
+
+Serviços de streaming de ví-
+deo, como a Netflix e o Ama-
+zon Prime Video, podem ter
+que pagar mais um imposto
+além do ISS (Imposto sobre
+Serviços), que teve a alteração
+de suas regras sancionada pelo
+presidente Michel Temer em
+dezembro do ano passado.
+
+O governo Federal, através
+do Ministério da Cultura, quer
+definir até junho como será
+feita a cobrança do Condecine
+(Contribuição para o Desen-
+volvimento da Indústria Cine-
+m a t o g rá f i c a ) .
+
+O Ministro da Cultura Sérgio
+Sá Leitão afirmou que está dia-
+logando com as plataformas.
+
+De acordo com ele, algumas
+empresas estão apenas espe-
+rando a definição sobre o im-
+posto para começar a operar
+no Brasil. O plano inicial é que
+tudo seja decidido na próxima
+reunião do Conselho Superior
+de Cinema, que acontece dia 11
+de abril. Caso isso não seja pos-
+sível, o prazo será estendido
+até junho.
+
+Existem dois modelos em
+discussão no órgão: o primeiro,
+que sofre oposição das grandes
+companhias, seria baseado no
+faturamento dos serviços; a
+outra opção seria semelhante
+ao ISS, que é cobrado levando
+em consideração o número de
+assinantes ou de vendas.
+
+A Bravi (Associação dos Pro-
+dutores Independentes de
+TV), defende que o País siga o
+modelo europeu de arrecada-
+ção, que é por receita. Uma al-
+ternativa seria fazer o cálculo
+pelo número de obras disponí-
+veis no catálogo, embora o pre-
+sidente da associação afirme
+que isso seria uma barreira pa-
+ra serviços menores, que cos-
+tumam ter muitos filmes dis-
+poníveis e uma receita peque-
+na.
+
+D I V U LG AÇ ÃO
+
+NETFLIX: valor mais alto
+
+

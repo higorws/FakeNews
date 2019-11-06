@@ -1,0 +1,279 @@
+22  ATRIBUNA  VITÓRIA, ES, SEGUNDA-FEIRA, 14 DE MAIO DE 2018
+
+Ciência e Tecnologia
+Pepper, o robô que aprende
+e se emociona com humanos
+
+Assistente em lojas, ele
+interage com pessoas
+por meio da voz e com
+os braços. Descrito
+como simpático, ele
+pode dançar e brincar
+
+D I V U LG AÇ ÃO
+
+SÃO PAULOO robô Pepper é uma daque-
+
+las novidades tecnológicas
+que inspiram otimismo.
+Sorridente, ele é um assistente diá-
+rio criado pela SoftBank Robotics
+que tem como principal atrativo o
+reconhecimento de emoções hu-
+m a n a s.
+
+O robô é autônomo e consegue
+se movimentar sozinho com suas
+rodas, interagindo com pessoas
+por meio de voz e com os braços.
+A empresa descreve Pepper co-
+mo agradável e simpático, "criado
+para se comunicar da forma mais
+natural e intuitiva" com humanos.
+Graças à aparência humanoide
+do robô, é possível ensiná-lo a ati-
+vidades como dançar e brincar,
+basta fazer o download de aplica-
+ções que permitem sua evolução.
+E não é só na base dos arquivos
+baixados que Pepper se desenvol-
+ve, pois ele memoriza traços de
+personalidade e se adapta para in-
+teragir melhor com humanos.
+
+Expressivo, ele é capaz de identi-
+ficar como pessoas estão se sentin-
+do. Para se comunicar, ele modifica
+a voz, a cor dos olhos, mexe os bra-
+ços e exibe imagens distintas no ta-
+blet que fica acoplado na altura do
+
+PEPPER, CRIADO EM 2014, não está capacitado para substituir humanos no trabalho, segundo seu fabricante
+
+peito, reagindo de acordo com as
+emoções de quem o acompanha,
+segundo informações do UOL.
+
+Pepper é usado como assistente
+em lojas desde seu lançamento,
+em 2014, mas não está capacitado
+para substituir humanos.
+
+De acordo com uma experiência
+da "Wired" em abril deste ano, o ro-
+bô tem limitações de compreensão
+e ação. Encontrado na recepção de
+um hotel, Pepper era o encarrega-
+do de funções básicas e perguntava
+
+a questões simples, como "qual é o
+seu número de confirmação".
+
+A compreensão de reclamações
+e frases mais complexas ainda fu-
+giam da capacidade de entendi-
+mento do robô, que ainda assim se
+destacou por se comunicar de uma
+forma mais engajada do que a Siri
+ou Google Assistente.
+
+Só que ao contrário dos assisten-
+tes de voz do celular, o Pepper não
+sabe direito como reagir em seus
+primeiros encontros com pessoas.
+
+"A primeira interação que você
+tem com um robô será o pior, por-
+que ele deve aprender com você",
+declarou Steve Carlin, chefe de es-
+tratégia da Softbank Robotics.
+
+O executivo, no entanto, apostou
+que robôs como o Pepper se espa-
+lharão em um futuro próximo,
+mas não para tirar empregos. Se-
+gundo Carlin, as máquinas serão
+implementadas para realizar tare-
+fas automatizadas, não trabalhos
+com diversas responsabilidades.
+
+Cinco mil roteadores sem senha
+
+Cinco mil roteadores da marca
+Datacom, possivelmente em uso
+por clientes da operadora Oi, estão
+vulneráveis a acesso remoto por
+meio do protocolo Telnet, pois es-
+ses equipamentos, de fábrica, apa-
+rentemente não têm uma senha
+configurada nesse tipo de acesso,
+segundo um pesquisador de segu-
+ra n ç a .
+
+Os equipamentos são fornecidos
+a clientes para permitir o acesso à
+internet.
+
+Com acesso à configuração do
+roteador, um hacker poderia fazer
+alterações para redirecionar os
+clientes a páginas falsas, entre ou-
+tros ataques. As informações são
+do Blog Segurança Digital, do edi-
+tor Altieres Rohr, no Portal G1.
+
+Conforme o pesquisador Ankit
+Anubhav, que enviou os dados da
+sua pesquisa ao site de segurança
+"Bleeping Computer", os equipa-
+mentos vulneráveis eram três mo-
+delos da Datacom: DM991CR,
+DM706CR e DM991CS.
+
+Para resolver o problema, é pre-
+ciso filtrar ou modificar a configu-
+
+D I V U LG AÇ ÃO
+
+cialidade e não pode se posicionar
+sobre as redes de clientes". Quan-
+do foi explicado que a dúvida não
+era sobre as redes de clientes e sim
+sobre a configuração de fábrica do
+produto, a representante da com-
+panhia reafirmou que "esse é o po-
+sicionamento da empresa".
+
+CABO DE REDE: uso é considerado obsoleto na maioria das aplicações
+
+ração do Telnet nesses roteadores.
+Procurada, a Oi informou que
+está analisando o fato para tomar
+as medidas cabíveis.
+
+O manual do DM991CR, consul-
+tado pelo blog Segurança Digital,
+confirma que o aparelho possui
+acesso Telnet e que ele não tem se-
+nha por padrão.
+
+Não está claro se o Telnet vem
+habilitado de fábrica, mas uma li-
+
+nha no manual afirma que o acesso
+é possível "se não for a primeira vez
+que o equipamento estiver sendo
+ligado e o endereço IP de uma das
+interfaces Ethernet já estiver con-
+figurado corretamente", ou seja,
+não parece ser necessário habilitar
+o Telnet antes de utilizá-lo.
+
+A Datacom, fabricante dos equi-
+pamentos, afirmou, por telefone,
+que "possui contratos de confiden-
+
+TELNET
+
+O Telnet é um antigo protocolo
+de comunicação, amplamente uti-
+lizado em terminais e conhecido
+para seu uso em administração re-
+mota de equipamentos de rede e
+até computadores.
+
+Seu uso na maioria das aplica-
+ções é considerado obsoleto, pois é
+preferível que seja utilizado o mui-
+to mais seguro Secure Shell (SSH).
+Diferentemente do Telnet, o
+SSH prevê a criptografia do tráfe-
+go, o que aumenta a confiabilidade
+e a confidencialidade da conexão.
+Os equipamentos da Datacom
+também são compatíveis com
+SSH, mas muitos equipamentos
+da "internet das coisas" possuem
+apenas Telnet.
+
+Melanoma tem
+90% de chance
+de cura se
+tratado rápido
+
+Um grupo de médicos apostou
+num círculo virtuoso ao criar,
+em agosto de 2017, o programa
+Juntos Contra o Melanoma.
+Trata-se do câncer de pele mais
+agressivo e perigoso: somente no
+Brasil, há mais de 5 mil novos ca-
+sos e 1.500 óbitos todo ano.
+
+A t r av é s  d e  c a r t i l h a s  e
+workshops, o objetivo do Grupo
+Brasileiro de Melanoma, que
+reúne 2 mil médicos, é cons-
+cientizar a população e promo-
+ver ações para nichos profissio-
+nais que podem exercer um pa-
+pel importante na detecção pre-
+coce da doença.
+
+Cabeleireiros, podólogos e ta-
+tuadores observam áreas de di-
+fícil visualização da pele dos
+clientes e, devidamente treina-
+dos, podem sugerir uma visita
+ao especialista – é bom lembrar
+que o melanoma tem mais de
+90% de chances de cura quando
+descoberto e tratado em suas
+fases iniciais.
+
+O melanoma é um tumor que
+tem origem dos melanócitos, as
+células que produzem melani-
+na. Representa apenas 5% dos
+casos de câncer de pele, mas
+tem uma grande capacidade de
+produzir metástases e se espa-
+lhar para outros órgãos, como
+fígado, pulmões e o cérebro.
+
+Quase sempre surge como
+uma lesão cutânea enegrecida,
+ou com uma parte enegrecida e
+outra de várias cores. A maior
+parte ocorre nas costas, cabeça,
+pescoço e couro cabeludo.
+
+Os no couro cabeludo são os
+que costumam ter pior prog-
+nóstico, mas há também os que
+surgem nas unhas, pés e palma
+das mãos e nem sempre são
+percebidos. .
+
+Ainda sobre o melanoma no
+couro cabeludo: ele representa
+apenas 6% do total de diagnósti-
+cos, mas responde por 10% das
+mortes. Pode acometer qualquer
+pessoa, mas é mais frequente em
+homens idosos, calvos e com a
+pele danificada pelo sol.
+
+Os cabelos, apesar de dificul-
+tarem o diagnóstico, oferecem
+uma importante barreira física
+contra os raios ultravioleta, ao
+passo que a calvície facilita sua
+o c o r rê n c i a .
+
+D I V U LG AÇ ÃO
+
+MELANOMA: grupo faz prevenção
+
+

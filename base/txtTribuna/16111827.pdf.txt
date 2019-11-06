@@ -1,0 +1,260 @@
+VITÓRIA, ES, SEXTA-FEIRA, 16 DE NOVEMBRO DE 2018  ATRIBUNA  27
+
+Ciência e Tecnologia
+Brasileiro cria exame de
+sangue contra o câncer
+
+Daniel de Carvalho, que
+atua na Universidade
+do Canadá, em Toronto,
+desenvolveu técnica
+que identifica sinais
+precoces da doença
+
+D I V U LG AÇ ÃO
+
+B R AS Í L I AO diagnóstico precoce do
+
+câncer pode aumentar con-
+sideravelmente as chances
+de cura, mas muitos tumores são
+detectados em estágio avançado.
+Para otimizar a identificação de
+tumores, um ex-aluno da Univer-
+sidade de Brasília (UnB) trabalha
+na criação de uma técnica de aná-
+lise mais refinada do que as utili-
+zadas atualmente.
+
+Para isso, combinou princípios da
+biópsia líquida, um exame de iden-
+tificação de sinais de cancros em
+amostras de sangue, com modelos
+de inteligência artificial. Os resulta-
+dos foram publicados na última
+edição da revista britânica Nature.
+Daniel de Carvalho, pesquisador
+no Centro de Pesquisa do Câncer
+Princess Margaret e professor-as-
+sociado da Universidade do Cana-
+dá, em Toronto, ilustra alguns ti-
+pos da doença que poderão ser
+contemplados pelo método.
+
+“Temos vários tipos de tumores,
+como o de pulmão, que, quando
+detectados cedo, as chances de cu-
+ra são de 100%. Mas a maioria de-
+les é descoberta quando está em
+estágio avançado. O mesmo ocorre
+no tumor de intestino”, diz o líder
+do estudo.
+
+O pesquisador brasileiro e a
+equipe usaram uma estratégia di-
+ferente da utilizada em exames de
+biópsia líquida, que buscam muta-
+
+EXAME DE SANGUE: pesquisa é feita pelo cientista Daniel de Carvalho
+
+ções genéticas consideradas indi-
+cadores de cânceres.
+
+“Como muitos tumores têm as
+mesmas mutações, isso dificulta na
+definição da origem do cancro, ou
+seja, onde ele está. É como procurar
+uma agulha no palheiro”, ilustra.
+
+A equipe focou em alterações
+epigenéticas, chamadas DNA de-
+rivado, que ligam e desligam o ge-
+ne. “Elas são a impressão digital de
+cada célula, o que ajuda a diferen-
+ciá-las. São as alterações epigené-
+ticas que permitem determinar se
+a célula vai ser ligada ao fígado ou
+a pele, por exemplo”, explicou.
+
+Com o mapeamento das altera-
+
+ções epigenéticas, os cientistas
+conseguiram identificar milhares
+de modificações específicas para
+cada tipo de câncer. Ou seja, em
+qual parte do corpo está a célula
+com risco de ser comprometida
+pela doença.
+
+Usando sistemas de inteligência
+artificial, eles criaram marcadores
+que apontam para a presença de
+DNA derivado de tumores cance-
+rígenos no sangue.
+
+Depois, usando amostras de san-
+gue, a equipe rastreou a origem e o
+tipo do câncer comparando mate-
+rial colhido de 300 pacientes em
+tratamento contra o câncer.
+
+Plano é fazer testes em mil pacientes
+
+O cientista no Centro de Pesqui-
+sa do Câncer Princess Margaret e
+professor-associado da Universi-
+dade do Canadá, em Toronto, Da-
+niel de Carvalho, adianta que a
+próxima etapa do desenvolvimen-
+to da técnica será a análise de da-
+
+dos em uma população de pacien-
+tes mais ampla.
+
+Essa fase será coordenada com
+pesquisas, em andamento em di-
+versos países, de estudo de bancos
+de dados de amostras sanguíneas
+coletadas meses e até anos antes
+
+D I V U LG AÇ ÃO
+
+U N I V E R S I DA D E
+DO CANADÁ, em
+Toronto: pesquisa
+
+de um diagnóstico de câncer.
+
+A técnica também precisará pas-
+sar por uma validação final para
+que a detecção precoce da doença
+seja reforçada. “Agora que temos
+mais confiança, após mostrar que é
+possível identificar os tumores pre-
+cocemente com esse modelo, que-
+remos aumentar a nossa amostra.
+Chegar a mil pacientes analisados é
+um dos nossos objetivos”, diz.
+
+Segundo José Eduardo Levi,
+biólogo molecular do Laboratório
+Exame, em Brasília, uma análise
+mais ampla é necessária para o de-
+senvolvimento do método de diag-
+nóstico. “É importante observá-lo
+em um número maior de pessoas,
+e acompanhá-las de perto”, frisa.
+
+“Acredito que esse tipo de tecno-
+logia pode ser uma opção concreta
+no futuro, mesmo que demore um
+pouco devido à necessidade de tes-
+
+tes e à metodologia envolvida. Creio
+que entre cinco e 10 anos, isso possa
+se tornar realidade”, aposta.
+
+R ATO S
+
+Antes, o método que combina o
+medicamento epigenético com a
+imunoterapia foi testado em ratos
+de laboratório que haviam recebi-
+do injeções de amostras de tumo-
+res humanos.
+
+Os animais doentes receberam a
+droga que ativa a resposta antiviral
+combinada com doses dos medi-
+camentos tradicionalmente usa-
+dos no combate aos carcinomas.
+
+Se comparados com as cobaias
+que receberam apenas a imunotera-
+pia, os tumores dos roedores que
+contaram com o estímulo extra fo-
+ram muito mais afetados pelo trata-
+mento e reduziram significativa-
+m e n t e.
+
+M i n i s t ro
+admite nunca
+ter usado um
+c o m p u ta d o r
+
+Recém-nomeado ministro da
+cibersegurança e dos Jogos
+Olímpicos do Japão, Yoshitaka
+Sakurada disse ao parlamento
+que nunca usou um computa-
+dor em sua vida, apesar de ser
+responsável por supervisionar
+os preparativos para a seguran-
+ça cibernética dos Jogos Olím-
+picos de Tóquio em 2020.
+
+Sakurada, que tem 68 anos,
+foi nomeado para os dois cargos
+no mês passado pelo primeiro-
+ministro Shinzo Abe.
+
+Ele nunca havia ocupado um
+cargo de gabinete antes durante
+seus 18 anos no parlamento.
+
+A declaração de Sakurada so-
+bre o uso de computadores foi
+feita em uma reunião do comitê
+parlamentar, quando foi per-
+guntado por um parlamentar da
+oposição se ele era “alfabetiza -
+do em computador”.
+
+“Sou independente desde os
+25 anos e sempre direcionei mi-
+nha equipe e minhas secretárias
+para esse tipo de coisa”, respon-
+deu Sakurada, que acrescentou:
+“Eu nunca usei um computa-
+dor!”.
+
+Sakurada afirmou ainda que
+“realizar com segurança a segu-
+rança cibernética do ponto de
+vista de um cidadão” fazia parte
+de seu trabalho.
+
+Quando perguntado como al-
+guém sem conhecimentos de
+informática poderia estar en-
+carregado da segurança ciber-
+nética, Sakurada disse que a po-
+lítica foi decidida amplamente
+por um número de pessoas em
+seu escritório e no governo na-
+cional, e que ele estava confian-
+te de que não haveria proble-
+mas. Declarações anteriores de
+Sakurada no parlamento e em
+conferências já haviam atraído
+c r í t i c a s.
+
+Um repórter da ABC na Aus-
+trália perguntou no Twitter se
+Sakurada sabia como usar um
+aparelho de fax, o que pode até
+parecer uma indagação sarcás-
+tica.
+
+Mas os faxes ainda são popu-
+lares na nação insular de 127
+milhões. A partir de 2011, cerca
+de 45% das residências priva-
+das no Japão tinham uma má-
+quina de fax.
+
+D I V U LG AÇ ÃO
+
+SAKURADA : ministro japonês
+
+

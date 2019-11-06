@@ -1,0 +1,225 @@
+Ciência e Tecnologia
+
+VITÓRIA, ES, SÁBADO, 13 DE OUTUBRO DE 2018  ATRIBUNA  27
+
+FOTOS: REUTERS
+
+Vem aí o
+celular
+dobrável da
+Sa m s u n g
+
+SÃO PAULO
+
+A Samsung voltou a falar so-
+bre seu já famoso celular dobrá-
+vel, dispositivo que a empresa
+vem desenvolvendo há anos e
+que ainda não tem data para ser
+lançado. Desta vez, a empresa
+coreana indicou que o aparelho
+deverá funcionar como um ta-
+blet de bolso.
+
+A descrição é de DJ Koh, pre-
+sidente e CEO da Divisão de
+Tecnologia da Informação e
+Comunicações Móveis da Sam-
+sung. O executivo disse que o
+dispositivo será um tablet com
+funções multitarefa e que,
+quando dobrado, poderá ser
+usado como um celular, nor-
+m a l m e n t e.
+
+FACEBOOK INFORMOU QUE enviará e-mails para os quase 30 milhões de usuários atingidos no mundo para explicar o ocorrido e providências tomadas
+
+Hackers roubaram dados
+de 29 milhões de usuários
+
+Facebook confirmou
+que os hackers
+conseguiram acessar
+detalhes de contatos,
+incluindo nome, e-mail
+e número de telefone
+
+SÃO PAULOO Facebook confirmou on-
+
+tem que dados pessoais de
+29 milhões de usuários fo-
+ram roubados por hackers. Os pi-
+ratas da internet conseguiram
+acessar detalhes de contato, in-
+cluindo nome, número de telefone
+e e-mail, de 15 milhões de pessoas.
+Outras 14 milhões tiveram ainda
+mais dados acessados, como nome
+de usuário, gênero, localidade, idio-
+ma, status de relacionamento, reli-
+gião, cidade natal, data de nascimen-
+to, dispositivos usados para acessar o
+Facebook, educação, trabalho e os
+últimos dez locais onde estiveram
+ou em que foram marcados.
+
+“Estamos cooperando com o
+FBI, que está investigando ativa-
+mente para descobrir quem pode
+estar por trás desse ataque”, disse
+o Facebook, em seu comunicado.
+A companhia afirmou que usuá-
+rios podem encontrar mais infor-
+mações sobre segurança da conta
+na página, e que enviará e-mails
+para os quase 30 milhões de usuá-
+rios atingidos para explicar o ocor-
+r i d o.
+
+O Facebook ainda disse que o
+
+ataque não inclui outros aplicati-
+vos controlados pelo mesmo gru-
+po econômico, como Messenger,
+Messenger Kids, Instagram,
+WhatsApp, Oculus, Workplace,
+Pages, entre outros.
+
+O ataque já havia sido anunciado
+pela empresa no fim de setembro,
+quando levantou-se a suspeita de
+que 50 milhões de perfis haviam
+sido invadidos.
+
+O acesso aos usuários ocorreu
+por meio de uma vulnerabilidade
+no código do Facebook ligada ao
+recurso de “Ver como”, no qual
+usuários conseguem ver como ou-
+tras pessoas, que não são suas ami-
+gas na rede, enxergam seu perfil.
+
+Os hackers conseguiram, por
+meio desse código, roubar tokens
+de acesso às contas. Os tokens de
+acesso são como chaves digitais
+que mantêm as pessoas logadas à
+rede para que não tenham que
+preencher seu usuário e senha
+sempre que acessem suas contas.
+Por isso, no dia do anúncio dos
+ataques, milhões de usuários en-
+contraram suas contas deslogadas,
+medida tomada pelo Facebook,
+juntamente de outras ações para
+corrigir a falha de segurança.
+
+“Co o p e ra m o s
+
+com o FBI, que
+está investigando para
+descobrir quem está
+
+por trás dos ataques”
+
+Comunicado do Facebook
+
+FACEBOOK está investigando os ataques com a ajuda do FBI
+
+Como piratas da internet
+agiram no ataque às contas
+
+A falha abriu uma brecha no có-
+digo relacionada ao recurso “Ve r
+como”, que mostra ao usuário co-
+mo o perfil dele é exibido para ou-
+tras pessoas.
+
+Primeiro, os invasores já contro-
+lavam um número de contas, que
+estavam conectadas com as contas
+existentes de amigos no Facebo-
+ok.
+
+A partir daí, eles usaram uma
+técnica de automação para se mo-
+ver de uma conta para outra, para
+que pudessem roubar os tokens de
+acesso desses amigos, e então de
+amigos de amigos e assim por
+diante, totalizando cerca de 400
+mil pessoas.
+
+Durante esse processo, essa téc-
+nica automaticamente carregou o
+perfil de 400 mil contas do Face-
+book. Isso incluiu posts na timeli-
+ne, suas listas de amigos, grupos
+dos quais eram membros e os no-
+mes de pessoas com as quais ti-
+nham conversado recentemente
+no Messenger.
+
+Apenas o conteúdo das mensa-
+gens não ficou disponível aos inva-
+sores. Porém, se alguém neste gru-
+po era administrador de uma pági-
+na no Facebook e recebeu uma
+mensagem de alguém na rede so-
+cial, então, sim, o conteúdo da
+mensagem ficou disponível aos
+h a c ke r s.
+
+INÍCIO
+
+A Samsung falou pela primei-
+ra vez de um celular dobrável
+em 2013, quando divulgou o ví-
+deo-conceito, mostrando, justa-
+mente, o que parece ser um ta-
+blet com uma grande tela inter-
+na e uma segunda tela externa
+que funciona como a de um
+s m a r t p h o n e.
+
+Julgar pelas palavras de Koh,
+a ideia não mudou muito desde
+2013. Em setembro, a Samsung
+disse que o seu primeiro celular
+dobrável pode ser lançado ain-
+da este ano, talvez até na confe-
+rência para desenvolvedores
+que a empresa organiza em no-
+ve m b ro.
+
+Mas Koh não quis confirmar a
+previsão. “Se a experiência do
+usuário não estiver à altura do
+meu padrão, não quero entregar
+esse tipo de produto”, disse o
+exe c u t i vo.
+
+“Quando lançarmos um celu-
+lar dobrável, ele tem de ser real-
+mente significativo para o nosso
+cliente”, completou.
+
+O celular dobrável virou um
+“Santo Graal” da indústria de
+c e l u l a re s.
+
+Além da Samsung, outras em-
+presas, como a Huawei, estão
+apressadas em lançar no merca-
+do o primeiro smartphone com
+uma tela dobrável e que permita
+boa experiência para o usuário.
+Alguns protótipos de tecnolo-
+
+gias já foram apresentados.
+
+D I V U LG AÇ ÃO
+
+CELULAR dobrável é promessa
+
+

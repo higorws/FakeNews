@@ -1,0 +1,275 @@
+VITÓRIA, ES, QUARTA-FEIRA, 10 DE JANEIRO DE 2018  ATRIBUNA  27
+
+Ciência e Tecnologia
+CES 2018Internet 5G chega aos EUA
+em 2019, afirma empresa
+
+Setor de eletrônicos
+decidiu antecipar o
+lançamento de 2020
+para ano que vem.
+Rede experimental será
+lançada ainda este ano
+
+RICK WILKING/REUTERS
+
+LAS VEGAS, EUAEm alguns países desenvolvi-
+
+dos, a tecnologia 5G deve
+chegar na primeira metade
+do ano que vem, diz o diretor de
+Marketing de Produtos da Qual-
+comm, Sherif Hanna.
+
+“O prazo costumava ser 2020,
+mas o setor de eletrônicos decidiu
+se adiantar”, diz Hanna. “Sem dis-
+positivos com 5G no mercado, não
+conseguiríamos lançar as redes.”
+
+Ele, durante a feira CES 2018,
+em Las Vegas, cita a Coreia do Sul,
+Japão, Austrália, EUA e Alemanha
+como locais em que as redes serão
+testadas antes do resto do mundo.
+A empresa norte-americana pro-
+duz os chips Snapdragon, empre-
+gados em celulares Android, como
+o Google Pixel e o Galaxy S8.
+
+“Falamos sobre dispositivos co-
+nectados e internet das coisas, mas
+o verdadeiro atrativo do 5G para os
+consumidores é o custo dos dados,
+que vai cair drasticamente”, diz
+Ha n n a .
+
+“Provavelmente, quando essa
+tecnologia vier, muitas operadoras
+vão liberar pacotes de dados ilimi-
+tados. Será muito barato.” A AT&T,
+operadora norte-americana,
+anunciou neste mês que deve lan-
+çar uma rede experimental de 5G
+até o fim de 2018.
+
+No início, os celulares vão se co-
+nectar às redes 4G e 5G simulta-
+neamente, já que a “coluna verte-
+b ra l” da conexão, que identifica o
+IP dos celulares, continuará no es-
+pectro antigo.
+
+Ó C U LO S de realidade
+virtual, como o Samsung
+VR, poderão ter o uso
+cada vez mais dinâmico
+com a rede de dados
+mais rápida
+
+V E LO C I DA D E
+
+A União Internacional de Tele-
+comunicações determinou que as
+especificações técnicas da banda
+larga móvel 5G devem ser de até
+20 Gbps, o que garantirá o down-
+load de um filme em alta definição
+em apenas 10 segundos.
+
+Para se ter uma noção do salto
+tecnológico que a próxima gera-
+ção de dados móveis promete,
+uma única célula do atual 4G LTE
+tem a capacidade de 1 Gbps.
+
+Com a velocidade mais rápida
+da internet móvel em pacotes de
+dados, especialistas creem que
+óculos de realidade virtual, como o
+Samsung VR, da sul-coreana Sam-
+sung, poderão ter o uso cada vez
+mais dinâmico e com melhor qua-
+lidade das imagens de serviços de
+streaming, como o Netflix e o
+Amazon Prime.
+
+Ford com frota conectada
+
+Na sua apresentação da feira de
+eletrônicos Consumer Electronics
+Show (CES 2018), ontem, a Ford
+anunciou que deve se unir ao setor
+de serviços com uma “pl at af or ma
+em nuvem” para carros autônomos.
+Os seus parceiros serão o app de
+mobilidade Lyft, Domino's Pizza, e
+o serviço de entrega Postmates, ri-
+valizando diretamente com o pro-
+jeto de carros da Toyota, que en-
+volve Uber e Pizza Hut.
+
+A estratégia das duas empresas
+foi usar a CES não para propagan-
+dear os aspectos técnicos de seus
+carros autônomos, como já fize-
+ram em anos anteriores, e sim para
+mostrar como eles podem ser usa-
+dos para ganhar dinheiro.
+
+O serviço de entrega da Ford já
+
+deve funcionar nos próximos me-
+ses, e, até 2019, todos os carros pro-
+duzidos pela montadora terão in-
+teligência artificial com chips da
+Qualcomm, sejam ou não autôno-
+mos. A empresa chama seu projeto
+de “Transportation Mobility
+Cloud” (“nuvem de mobilidade no
+t ra n s p o r t e ”).
+
+É uma forma de dizer que, além
+de fabricar os carros, a empresa irá
+desenvolver uma plataforma para
+controlar a frota com base em inte-
+ligência artificial, interligada com
+semáforos inteligentes, por exem-
+plo. O presidente da empresa, Jim
+Hackett, afirmou que a cidade que
+deve servir de laboratório para os
+carros autônomos da Ford será
+anunciada ainda neste ano.
+
+NOVIDADES DA FEIRA CES 2018
+
+NOKIA
+
+STEVE MARCUS/REUTERS
+
+RICK WILKING/REUTERS
+
+STEVE MARCUS/REUTERS
+
+Windows mais
+antigos vão
+ficar lentos
+após falha
+
+A Microsoft afirmou ontem
+que usuários de Windows anti-
+gos devem sentir uma perfor-
+mance mais devagar com as cor-
+reções das falhas Spectre e Melt-
+down, que afetam praticamente
+todos os chips no mercado.
+
+A falha de segurança, desco-
+berta por pesquisadores na se-
+mana passada, se deve a um sis-
+tema chamado “execução espe-
+c u l a t i va ”, que permite que os
+processadores executem tare-
+fas mais rapidamente.
+
+Com a correção, os usuários
+de Windows 10 com processa-
+dores recentes (chips da gera-
+ção de 2016) terão uma perda de
+performance de “até um dígito”
+(ou seja, até 9%).
+
+Em termos de demora, po-
+rém, isso representa apenas al-
+guns milisegundos, segundo
+uma nota assinada por Terry
+Myerson, vice-presidente do
+Wi n d ow s.
+
+Nesse caso, a diferença será
+pouco perceptível para usuários
+do Windows recente. Já quem
+usa o Windows 10 com chips de
+2015 (ou mais antigos) deve
+sentir seu computador desace-
+lerar “signific ativamente”, diz
+Myerson, mesma situação de
+quem usa Windows 8, 7 ou ver-
+sões mais antigas.
+
+INTEL
+
+Além da Microsoft, a Intel
+voltou atrás e disse que o im-
+pacto das falhas Spectre e Melt-
+down “depende da carga de tra-
+b a l ho ”. A afirmação é do presi-
+dente da companhia, Brian Kr-
+zanich, em apresentação na fei-
+ra CES 2018, em Las Vegas.
+
+“O impacto das atualizações
+na performance depende muito
+da carga de trabalho. Espera-
+mos que alguns (dispositivos)
+tenham um impacto bem maior
+que outros”, afirmou.
+
+Ele promete, também, que to-
+dos os chips que a Intel produ-
+ziu nos últimos cinco anos terão
+correções até o fim de janeiro,
+mas não deu uma estimativa pa-
+ra os mais antigos. As falhas
+possibilitam que um hacker co-
+lete dados, como senhas e ar-
+quivos privados, se conseguir
+instalar um software em uma
+máquina vulnerável.
+
+RICK WILKING/REUTERS
+
+Travesseiro inteligente
+A Nokia exibiu na CES 2018 um novo
+sistema com “sensor avançado” que é
+colocado debaixo do travesseiro do
+usuário para ajudá-los a obter um sono
+de melhor qualidade. Ele será conecta-
+do via wi-fi e será capaz de gravar os
+padrões de sono, e em seguida sincro-
+nizará os dados com um aplicativo.
+
+Cachorro da Sony
+A nova versão do Aibo, famoso cão
+robô da Sony, está prestes a ser lança-
+da. O novo cãozinho terá 22 pontos de
+articulação e vários sensores de movi-
+mento. Dentro do nariz dele há uma câ-
+mera que permite que ele enxergue e
+identifique as pessoas. Ele deverá cus-
+tar US$ 2 mil (R$ 6,48 mil).
+
+Inteligência artificial
+Apresentado pelo CEO da Huawei,
+Richard Yu, o celular Mate 10 Pro vai
+custar US$ 799 (R$ 2.588). O produ-
+to se destaca pela tela OLED (mais
+clara), de seis polegadas. As lentes da
+câmera do celular funcionam com in-
+teligência artificial que, em tempo real,
+reconhece cenários.
+
+Telão de 146 polegadas
+A Samsung apresentou a The Wall,
+primeira TV modular do mundo, um
+conceito que pode permitir telas de até
+146 polegadas dentro de casa.
+
+Além disso, a fabricante revelou
+uma inteligência artificial capaz de
+converter conteúdos para telas 8K e
+uma lousa inteligente.
+
+KRZANICH admitiu problemas
+
+

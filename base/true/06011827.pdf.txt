@@ -1,0 +1,250 @@
+VITÓRIA, ES, SÁBADO, 06 DE JANEIRO DE 2018  ATRIBUNA  27
+
+AMEAÇAS VIRTUAIS
+
+Ciência e Tecnologia
+iPhone é afetado por falha
+de processador do celular
+
+Apple admitiu que
+seus aparelhos podem
+estar vulneráveis.
+Pacotes de atualização
+já estão disponíveis
+para melhorar proteção
+
+THIAGO COUTINHO — 22/04/2017
+
+WAS H I N G TO NA Apple admitiu que seus
+
+produtos, como o telefone
+celular iPhone e suas linhas
+de computadores, são vulneráveis
+às falhas Meltdown e Spectre, des-
+cobertas no começo da semana
+por pesquisadores da área de se-
+gurança. Os problemas afetam
+processadores dos eletrônicos da
+empresa fundada por Steve Jobs.
+No entanto, as atualizações de
+software liberadas em dezembro
+de 2017 já trazem parte da prote-
+ção contra eventuais ataques de
+hackers, que possam se aproveitar
+dessas brechas.
+
+Um novo pacote de segurança
+será disponibilizado em breve pa-
+ra o navegador Safari no macOS e
+no iOS. Segundo a fabricante, o
+Apple Watch é imune às vulnera-
+b i l i d a d e s.
+
+As falhas de segurança Melt-
+down e Spectre requerem que um
+aplicativo malicioso seja instalado
+pelo usuário no celular ou no com-
+p u t a d o r.
+
+Isso significa que não é possível
+ter o dispositivo invadido por um
+ataque à distância pela rede. Esse
+tipo de perigo esteve presente em
+problemas como o WannaCry, que
+
+MULHER SEGURA iPhone, um dos aparelhos da Apple que tem sido ameaçado pelas falhas Meltdown e Spectre
+
+atacou o Windows, em 2017, mas
+não vale para as novas brechas de
+segurança de processadores.
+
+Segundo a Apple, ainda não há
+relatos de que hackers já tenham
+explorado as vulnerabilidades,
+mas é preciso ter cuidado com o
+download de aplicativos. A reco-
+mendação é instalar programas
+somente da loja oficial.
+
+Embora o iPhone só permita o
+acesso à App Store, é comum que
+
+usuários de Mac recorram a sites
+de terceiros para baixar software.
+Nesse caso, a dica é abandonar a
+prática e usar estritamente a Mac
+App Store.
+
+Os sistemas operacionais iOS
+11.2 e macOS 10.13.2, liberados em
+dezembro, possuem uma primeira
+camada de segurança contra os
+bugs Meltdown e Spectre.
+
+Isso significa que os usuários
+que já baixaram as últimas atuali-
+
+zações não passam por grande pe-
+rigo. A proteção deverá ser com-
+plementada em breve com uma
+atualização para o Safari.
+
+Segundo a Apple, além do app
+malicioso instalado, o aparelho da
+vítima deve permitir a execução
+de um código no navegador — por
+isso, há a necessidade de corrigi-lo
+também. A empresa garante que
+as correções não geram impacto
+de performance nos dispositivos.
+
+Intel diz
+que correção
+não afeta
+ve l o c i d a d e
+
+A Intel afirmou em nota divul-
+gada ontem que as atualizações
+para a correção das vulnerabilida-
+des Meltdown e Spectre não afe-
+tam sensivelmente a velocidade
+dos processadores.
+
+A empresa cita testes feitos por
+Apple, Google, Microsoft e Ama-
+zon, que não revelaram queda na
+capacidade de processamento dos
+s e r v i d o re s.
+
+Segundo a Intel, possíveis que-
+das no desempenho serão mitiga-
+das ao longo do tempo, ao passo
+que os servidores atualizam seus
+patches, pacotes de instalação com
+correções do sistema, e que usuá-
+rios de computadores domésticos
+não devem sentir os efeitos.
+
+Especialistas que descobriram
+as duas falhas em processadores
+da Intel, AMD e ARM alertaram
+que as correções tornariam os ser-
+vidores até 30% mais lentos.
+
+Na última quarta-feira, um gru-
+po de especialistas em segurança
+da computação revelou duas falhas
+que afetam quase todos os micro-
+processadores, os cérebros digitais
+dos computadores do planeta.
+
+As falhas, chamadas de Melt-
+down e Spectre, podem permitir
+que hackers roubem senhas, fotos,
+documentos e outros dados de
+smartphones, computadores pes-
+soais e dos serviços de computa-
+ção em nuvem de que muitas em-
+presas dependem.
+
+D I V U LG AÇ ÃO
+
+PROCESSADOR : p ro b l e m a s
+
+Álcool danifica o DNA e pode
+provocar tumores e câncer
+
+Empresa quer parar
+de vender cigarros
+
+LO N D R ES
+
+Uma pesquisa da Universidade
+de Cambrigde, no Reino Unido,
+comprovou a relação entre o con-
+sumo excessivo de álcool e o surgi-
+mento de tumores.
+
+A partir de testes com cobaias,
+os cientistas mostraram que a in-
+gestão de álcool danifica o DNA
+das células-tronco, o que eleva o
+risco de câncer. O estudo foi publi-
+cado no periódico científico Natu-
+re nesta semana e teve apoio fi-
+nanceiro do instituto Cancer Re-
+search, da Inglaterra.
+
+Os cientistas conseguiram anali-
+sar como um derivado do álcool, o
+etanal ou acetaldeído (que dá a
+sensação da ressaca), interfere per-
+manentemente no DNA de células-
+tronco no metabolismo de ratos ao
+dar altas doses de álcool a cobaias.
+Os pesquisadores perceberam
+
+D I V U LG AÇ ÃO
+
+LO N D R ES
+
+A Philip Morris afirmou que
+quer parar de vender cigarros tra-
+dicionais no Reino Unido. A fabri-
+cante do Marlboro publicou um
+anúncio em jornais dizendo que
+essa é a “resolução de Ano Novo”
+da empresa, segundo a BBC.
+
+“A Philip Morris é conhecida
+por seus cigarros. Todo ano, mui-
+tos fumantes desistem dele. Agora
+é a nossa vez”, afirma o anúncio.
+
+A empresa diz que pretende
+substituir os produtos tradicionais
+por cigarros eletrônicos e por ta-
+baco aquecido — uma nova versão
+eletrônica que não libera fumaça,
+mas sim vapor — para atender
+àqueles que decidirem continuar
+fumando. Hoje, são 7,6 milhões os
+tabagistas no Reino Unido.
+
+Até hoje, a companhia diz ter in-
+vestido 2,5 bilhões de libras (o
+equivalente a cerca de R$ 11 bi-
+
+UÍSQUE é servido em copo: álcool modifica os cromossomos, diz pesquisa
+
+que essa quebra estimula os cro-
+mossomos a se emparelharem
+aleatoriamente, mudando para
+sempre as sequências de DNA nas
+c é l u l a s.
+
+O grande perigo de ter células-
+
+tronco “de fe it uos as ” é que elas
+conseguem se multiplicar e se
+alastrar para diversos tecidos do
+corpo com mais facilidade — um
+prato cheio para o surgimento de
+tumores e, então, cânceres.
+
+lhões, na cotação atual) na pesqui-
+sa e desenvolvimento desses no-
+vos produtos.
+
+No anúncio divulgado, a Philip
+Morris se compromete a apoiar
+serviços de atendimento para
+quem quer parar de fumar em zo-
+nas onde as taxas de fumantes são
+mais altas.
+
+D I V U LG AÇ ÃO
+
+CIGARROS: mudança sobre vendas
+
+

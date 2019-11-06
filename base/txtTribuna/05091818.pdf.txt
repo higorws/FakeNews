@@ -1,0 +1,303 @@
+18  ATRIBUNA  VITÓRIA, ES, QUARTA-FEIRA, 05 DE SETEMBRO DE 2018
+
+Ec o n o m i a
+Empresas acusadas de vazar
+dados de 1 milhão de clientes
+
+DAYANA SOUZA — 06/10/2017
+
+FALE COM O EDITOR  RAFAEL GUZZO  E-MAIL: economia@redetribuna.com.br
+
+Entre elas estão uma
+gigante dos cartões
+de crédito e uma rede
+internacional de varejo.
+Número é relativo a
+consumidores do Estado
+
+Francine Spinassé
+
+Seja para fazer uma compra
+
+pela internet, um cadastro
+em lojas físicas, contratar
+TV por assinatura ou até mesmo
+abrir uma conta, os dados pessoais
+dos consumidores são armazena-
+dos a todo momento. Mas, nos úl-
+timos dias, a informação de vaza-
+mentos de dados por grandes em-
+presas acenderam um alerta.
+
+A estimativa é que tenham vaza-
+do dados de cerca de 1 milhão de
+consumidores no Espírito Santo.
+
+Um dos vazamentos foi de uma
+grande operadora de cartão de
+crédito com atuação em todo o
+planeta, com 2 bilhões de clientes,
+que, segundo a agência de notícias
+Bloomberg, teria feito acordo com
+outra gigante da tecnologia para
+ceder informações e monitorar
+compras de clientes.
+
+De acordo com a publicação, a
+ferramenta criada tem o objetivo
+de monitorar se anúncios que pu-
+blicam on-line resultaram em com-
+pra em loja física. Isso, porém, tem
+criado preocupação com a privaci-
+dade de dados dos consumidores.
+Outro caso que veio a público
+nesta semana foi da abertura de in-
+quérito pelo Ministério Público do
+Distrito Federal para apurar o pos-
+
+SCAMPINI disse que, com CPF e dados de cartões, consumidor pode ser alvo de crimes como clonagem do cartão
+
+sível vazamento de dados de 2 mi-
+lhões de clientes de uma grande
+cadeia de lojas de varejo, de atua-
+ção internacional, no Brasil. As in-
+formações seriam de compras com
+vale-presente e, entre os dados va-
+zados, estariam número de cartão,
+CPF, e-mail e valor da aquisição.
+
+Em nota, a rede de lojas alegou
+que sofreu um ciberataque no seu
+sistema de vale-presente na última
+semana e acionou seu plano de
+contingência.
+
+Uma terceira empresa que teve
+informações vazadas foi de prote-
+ção de crédito, que detém mais de
+350 milhões de dados pessoais de
+brasileiros. Nesse caso, a própria
+empresa investiga uma possível
+invasão hacker ao seu banco de
+dados no último domingo.
+
+Os hackers teriam tido acesso a
+dados como nome, endereço,
+identidade, data de nascimento e
+nome da mãe. Para especialistas,
+os riscos com os vazamentos são
+
+muitos. O mais básico é o recebi-
+mento indesejado de propaganda
+por e-mail e telefone.
+
+O professor de tecnologia da fa-
+culdade Estácio, André Luiz Car-
+valho Scampini, ressaltou que os
+perigos vão além. “As empresas
+precisam levar a sério as políticas
+de segurança da informação. Com
+nome, CPF, dados de cartões é
+possível que o consumidor seja al-
+vo de crimes como clonagem do
+cartão e outras fraudes.”
+
+Alerta ao consumidor é obrigatório
+
+A preocupação com os dados
+pessoais armazenados por qual-
+quer empresa tem sido tão grande,
+que uma lei de proteção dessas in-
+formações foi sancionada pelo go-
+verno federal no mês passado.
+
+Entre as novas regras, que pas-
+sam a valer em 2020, no caso de
+vazamento de informações, as em-
+presas serão obrigadas a avisar a
+cada cliente sobre o incidente, e
+quais os dados que ficaram dispo-
+níveis, por exemplo.
+
+O advogado da área de Direito
+
+Digital, Pedro Vilhena, explicou
+que um dos eixos da nova legisla-
+ção é garantir que as empresas te-
+nham um maior cuidado ao arma-
+zenar esses dados. “É difícil garan-
+tir que uma base seja 100% imper-
+meável, mas as empresas devem se
+cercar de maiores cuidados, como
+criptografia, antivírus e restrição
+de pessoas a essas bases.”
+
+O advogado especialista em Di-
+reito Civil e Empresarial, Gothardo
+Augusto Guimarães Nacarati, re-
+forçou que as empresas que tratam
+
+LEONE IGLESIAS — 02/08/2016
+
+M A R C E LO
+PIMENTEL
+disse que
+c o n s u m i d o re s
+que sofreram
+golpes podem
+entrar na
+Justiça pedindo
+danos materiais
+e até morais
+
+dados pessoais deverão investir em
+segurança eletrônica, para que evi-
+tar invasões que possam coletar in-
+formações para práticas ilícitas.
+
+“A legislação traz explicitamen-
+te a responsabilidade das empre-
+sas no tratamento de dados e prevê
+a obrigação de ressarcir danos
+causados ao titular em decorrên-
+cia do vazamento de seus dados.”
+
+J U ST I ÇA
+
+No caso de consumidores que
+tenham sido alvo de golpes, como
+cartões de crédito clonados e com-
+pras não reconhecidas, o titular da
+10ª Vara Cível de Vitória, juiz Mar-
+celo Pimentel, explicou que o con-
+sumidor deve informar à institui-
+ção financeira para que não seja
+reconhecida a compra, compro-
+vando que não a realizou.
+
+“Caso isso não aconteça ou exis-
+ta dificuldade gerada pela bandei-
+ra do cartão de crédito, o consumi-
+dor pode entrar na Justiça em face
+do banco/cartão pedindo danos
+materiais e até morais pelos trans-
+t o r n o s.”
+
+O QUE DIZ A NOVA LEI
+
+Lei de Proteção de Dados
+
+Publicada em agosto e entra em vi-
+
+gor em fevereiro de 2020.
+> ART. 48. O controlador deverá comu-
+nicar à autoridade nacional e ao titu-
+lar a ocorrência de incidente de se-
+gurança que possa acarretar risco
+ou dano relevante aos titulares.
+
+> § 1º A comunicação será feita em pra-
+zo razoável, e deverá mencionar, no
+mínimo:
+
+> I -a descrição da natureza dos dados
+
+pessoais afetados;
+
+> II - as informações sobre os titulares
+
+e n vo l v i d o s ;
+
+> III - a indicação das medidas técni-
+cas e de segurança utilizadas para a
+proteção dos dados, observados os
+segredos comercial e industrial;
+
+> IV - riscos relacionados ao incidente;
+> V - motivos da demora, no caso de a
+comunicação não ter sido imediata;
+> VI - as medidas que foram ou que se-
+rão adotadas para reverter ou miti-
+gar os efeitos do prejuízo.
+
+SAIBA MAIS
+Risco de vazamento
+> DIFICILMENTE o consumidor vai con-
+seguir identificar de onde um dado
+pessoal seu vazou e se foi isso que o
+levou a ser alvo de algum tipo de gol-
+pe, mas eles podem ser inúmeros.
+
+> ENTRE OS RISCOS há o de crimes co-
+mo assaltos, já que algumas bases
+de dados, de uma joalheria, por
+exemplo, pode conter endereços de
+clientes e valores comprados.
+
+> HÁ BASES QUE TAMBÉM têm dados
+de cartões de crédito, nome, CPF, po-
+dendo ser usado para clonagem de
+cartões e realizações de compras
+pela internet.
+
+> OUTRO RISCO é que algumas bases
+armazenam até senhas e logins.
+Quem costuma usar a mesma senha
+para vários serviços corre risco de
+golpistas acessarem outros siste-
+mas, como e-mails e até contas.
+Como se proteger
+> ESP EC I A LI STAS alertam para aten-
+ção ao preenchimento de cadastros
+e realização de compras em sites não
+c o n f i áve i s .
+
+> É PRECISO DESCONFIAR de cadas-
+tros on-line para concorrer a prê-
+mios ou ganhar vantagens que não
+sejam conhecidas ou que tenham
+promessas muito tentadoras.
+
+D I V U LG AÇ ÃO
+
+CARTÃO: cuidado com senhas
+
+ANÁLISE
+
+Eduardo Pinheiro
+Monteiro, e s p e c i a l i s ta
+em Segurança da
+Informação
+
+“Negligentes ou
+agindo de má-fé”
+“A Lei Geral de Proteção dos
+Dados Pessoais, apesar de ter
+sido aprovada no mês passado,
+só entrará em vigor em 2020.
+
+Assim, ainda continuaremos
+vivendo essa situação de inse-
+gurança em relação aos nossos
+dados pessoais, pois até as em-
+presas mais conceituadas da
+área da tecnologia da informa-
+ção acabam sendo negligentes
+ou agindo de má-fé com nossas
+informações.
+
+Por enquanto, o melhor a fa-
+zer é ser bastante conservador
+com nossos dados, ter um e-mail
+específico apenas para transa-
+ções on-line e criar o hábito de
+mudar as senhas periodicamen-
+te.
+
+Essas pequenas medidas po-
+dem colaborar de forma decisiva
+para não ficarmos tão vulnerá-
+veis ao uso indevido de nossos
+dados pessoais.”
+
+

@@ -1,0 +1,221 @@
+28  ATRIBUNA  VITÓRIA, ES, SÁBADO, 16 DE JUNHO DE 2018
+
+Ciência e Tecnologia
+Summit, o computador
+mais poderoso do mundo
+
+Máquina desenvolvida
+em laboratório nos
+Estados Unidos vai
+acelerar descobertas
+em áreas como saúde,
+energia e astrofísica
+
+D I V U LG AÇ ÃO
+
+SÃO PAULOM al entrou em funciona-
+
+mento e já está sendo
+chamado de o supercom-
+putador mais poderoso do mundo.
+Esse é o Summit, que é duas vezes
+mais rápido do que o chinês
+Sunway TaihuLight, tido até então
+como a máquina mais veloz do
+planeta.
+
+Desenvolvido nos Estados Uni-
+dos por meio de uma parceria en-
+tre a IBM e a Nvidia, o Summit,
+que fica no Laboratório Nacional
+de Oak Ridge, no Tenessee, tem
+capacidade para 200 quatrilhões
+de cálculos por segundo.
+
+O supercomputador é composto
+por fileiras de servidores do tama-
+nho de geladeiras que, juntos, pe-
+sam 340 toneladas e ocupam uma
+área de 520 m – o equivalente a
+duas quadras de tênis. O Summit
+está conectado com mais de 300
+quilômetros de cabos. As informa-
+ções são da BBC, publicadas no
+Portal G1.
+
+O computador trabalha como
+um monstro sedento que consome
+mais de 4 mil galões de água a cada
+minuto para manter seu sistema
+de refrigeração funcionando.
+
+Segundo os criadores, a máqui-
+na é tão eficiente que já funcionava
+mesmo enquanto ainda estava
+sendo montada.
+
+“Imagine dirigir um carro de
+corrida enquanto trocam os
+
+O SUMMIT ocupa área equivalente a duas quadras de tênis e é composto por servidores do tamanho de geladeiras
+
+pneu s”, disse Thomas Zacharia,
+diretor do laboratório onde a su-
+permáquina foi montada.
+
+A princípio, o computador será
+usado para criar modelos científi-
+cos e fazer simulações baseadas
+em inteligência artificial e auto-
+matização de padrões para acele-
+rar descobertas em áreas como
+saúde, energia, desenvolvimento
+de materiais e astrofísica.
+
+S U P E R P O D E R ES
+
+O Summit é capaz de fazer 200
+quatrilhões de cálculos em um se-
+
+gundo. Se uma pessoa consegue
+fazer um cálculo por segundo, le-
+varia 6,3 bilhões de anos para cal-
+cular o que o Summit executa em
+um piscar de olhos.
+
+Se os 7,4 bilhões de habitantes do
+mundo fizessem um cálculo por
+segundo, demoraria 305 dias para
+realizar uma operação que para o
+Summit é instantânea.
+
+O sistema de armazenamento
+do Summit é capaz de armazenar
+250 petabytes de dados, o que
+equivale a 74 milhões de anos de
+vídeo de alta definição.
+
+de contas ele faz por segundo
+
+OS NÚMEROS
+200 quatrilhões
+6,3 bilhões
+74 milhões
+
+de anos um humano demoraria
+para fazer os cálculos
+
+de anos de vídeo pode armazenar
+
+SAIBA MAIS
+Áreas beneficiadas com
+máquina superpotente
+1 A s t ro f í s i c a
+O Summit vai permitir simular cená-
+rios de explosões de estrelas mil vezes
+maiores que as que vinham sido re-
+criadas até agora. Também vai poder
+rastrear 12 vezes mais elementos que
+os atuais projetos. Pesquisadores es-
+peram conseguir coletar pistas sobre
+como elementos pesados, incluindo
+ferro e ouro, se formaram na Terra.
+2 Materiais
+Entender como as partículas suba-
+tômicas se comportam é um conheci-
+mento chave no desenvolvimento de
+novos materiais para produzir, arma-
+zenar e transformar energia. O Sum-
+mit promete multiplicar por 10 a capa-
+cidade de simulação desses compor-
+tamentos, o que deve acelerar a des-
+coberta de materiais.
+3 Acompanhamento
+do câncer
+Médicos e cientistas usam ferra-
+mentas automatizadas para extrair,
+analisar e classificar informações na
+tentativa de identificar fatores relacio-
+nados ao câncer, como genes, carac-
+terísticas biológicas e meio ambiente.
+O Summit ajudará a cruzar essas in-
+formações com relatórios e imagens
+de diagnósticos. Assim, ajudará a ob-
+ter um panorama mais completo da
+população que sofre de câncer, com
+um nível de detalhe que normalmente
+só se obtém de pacientes que fazem
+parte de pesquisas clínicas.
+4 Biologia
+O Summit usará inteligência artifi-
+cial para analisar dados com informa-
+ção genética e biomédica. A ideia é
+que, por meio dos cálculos feitos pelo
+supercomputador, pesquisadores
+consigam identificar padrões de com-
+portamento das células humanas.
+
+Essa análise de informações em
+grande escala pode ajudar a entender
+melhor algumas doenças, como o Al-
+zheimer, e também a compreender fa-
+tores que levam à toxicodependência.
+
+Fonte: BBC e G1.
+
+Cientistas anunciam nova
+esperança contra a Aids
+
+Uma equipe de pesquisadores
+da Aids em Hong Kong afirma que
+sua nova pesquisa, testada em ra-
+tos, indica uma cura funcional pa-
+ra o HIV, vírus que causa a síndro-
+me, podendo levar à criação de um
+novo anticorpo que poderia ser
+usado tanto para a prevenção
+quanto para o tratamento.
+
+As descobertas, publicadas na
+revista Journal of Clinical Investi-
+gation, são divulgadas enquanto a
+China enfrenta uma crescente epi-
+demia entre grupos de risco, como
+trabalhadores sexuais e homens
+h o m o s s ex u a i s.
+
+O hub de dados da Aids apoiado
+pela Organização das Nações Uni-
+das (ONU) diz que cerca de 850
+mil pessoas na China estão infec-
+tadas com o HIV, que compromete
+o sistema imunológico e torna as
+
+pessoas mais vulneráveis a infec-
+ções e doenças.
+
+Uma equipe liderada pelo pro-
+fessor Chen Zhiwei no Instituto
+de Aids da Universidade de Hong
+Kong diz que a descoberta, testada
+em ratos, mostra que o novo anti-
+corpo pode ajudar a controlar o ví-
+rus e eliminar células infectadas.
+
+O anticorpo poderia tratar todas
+os tipos do HIV – pela primeira
+vez, disse Chen – já que não há va-
+cinas contra os diferentes tipos do
+vírus causador da Aids.
+
+“O nosso recém-descoberto an-
+ticorpo biespecífico funciona para
+todos os tipos, então é uma grande
+d i f e re n ç a ”, disse Chen.
+
+Chen e sua equipe dizem que
+buscam usar o anticorpo em testes
+clínicos entre os próximos três a
+cinco anos.
+
+

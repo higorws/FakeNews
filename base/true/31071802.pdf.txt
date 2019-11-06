@@ -1,0 +1,202 @@
+2 ATRIBUNA  VITÓRIA, ES, TERÇA-FEIRA, 31 DE JULHO DE 2018
+
+Reportagem Especial
+
+LEONARDO BICALHO/AT
+
+O P I N I Õ ES
+
+“Com o celular
+
+infectado, um
+hacker tem acesso a
+arquivos e informações
+
+do aparelho”
+
+Emilio Simoni, diretor
+do laboratório da Psafe
+
+UM NOVO GOLPE começou a circular pelo WhatsApp na última semana atingindo de imediato mais de dois mil usuários no Espírito Santo
+
+CRIME VIRTUALGolpe da internet de graça
+faz trinta vítimas por hora
+
+“Esse golpe ataca a
+
+parte mais fraca do
+sistema, que é o usuário,
+possibilitando o roubo
+
+de dados pessoais”
+
+João Paulo Chamon,
+mestre em Informática
+
+Levantamento revela o
+número de vítimas dos
+golpistas que usam o
+WhatsApp com ofertas
+atrativas para enganar
+as pessoas no Estado
+
+Eliane Proscholdt
+Francine Spinassé
+
+A promessa é atrativa e tenta-
+
+dora: internet de graça ao al-
+cance de alguns clicks. Mas,
+o que parece ser uma vantagem, na
+verdade é  um novo golpe pelo
+WhatsApp, que faz 30 vítimas por
+hora no Estado.
+
+O levantamento, do laboratório
+especializado em cibersegurança
+
+da PSafe (dfndr lab), apontou que,
+no País, foram 45 acessos por mi-
+nuto a esse novo golpe desde a úl-
+tima semana, quando ele começou
+a circular.
+
+Ele chega  por  meio de um
+anúncio no aplicativo de mensa-
+gens, que oferece até 20 GB de in-
+ternet gratuita por até 60 dias pa-
+ra usuários de qualquer operado-
+ra de telefonia móvel no Brasil.
+
+Ao clicar no link, a pessoa é di-
+recionada para uma página falsa,
+que apresenta um número fictício
+de quantidade de pacotes gratui-
+tos disponíveis para a escolha.
+
+O site faz perguntas como:
+“Quantos dias de internet gratui-
+ta você deseja ativar?” e “Quantos
+GB você gostaria de receber de
+sua operadora?”.
+
+Ao finalizar o questionário, o
+
+usuário é informado de que pre-
+cisa compartilhar o conteúdo
+com vários amigos no What-
+s Ap p.
+
+O diretor do laboratório, Emilio
+Simoni, alertou que foi identifica-
+do que, no caso da pessoa estar
+navegando em rede 3G ou 4G, ela
+é direcionada a algum serviço pa-
+go por SMS, como horóscopo ou
+dicas de jogos. Nesse caso, vai
+tendo prejuízo financeiro.
+
+“Se o usuário está ligado em re-
+de wi-fi, ele é direcionado para
+um sistema que tenta baixar um
+aplicativo malicioso. Se a pessoa
+aceitar e instalar, infecta o celular
+dela. Com isso, um hacker tem
+acesso a arquivos e informações
+do dispositivo.”
+
+O doutorando em Ciência da
+Computação pela Ufes Marcello
+
+Novaes afirmou que esse tipo de
+estratégia para atrair usuários é
+antiga, mas feita antes por e-
+mail.
+
+“Com o golpe aplicado pelo
+WhatsApp, ele ganha uma veloci-
+dade maior de propagação. Pela
+facilidade que as pessoas têm de
+interagir com o aplicativo, aca-
+bam nem sempre prestando aten-
+ção no que estão compartilhan-
+d o.”
+
+O mestre em Informática João
+Paulo Chamon enfatizou que é
+preciso desconfiar de vantagens
+muito boas.
+
+“É o mesmo que cair no velho
+golpe do bilhete premiado. Em-
+presa nenhuma dá nada de graça
+e, infelizmente, muitas pessoas
+repassam mensagens sem checar
+a veracidade.”
+
+“Ao instalar um
+
+para um criminoso”
+
+aplicativo que não
+conhece, está entregando
+todas as informações
+
+Marcello Novaes, doutorando em
+Ciências da Computação pela Ufes
+
+COMO FUNCIONA O GOLPE
+
+Golpe
+Um novo golpe, que começou a circular na última semana pelo What-
+sApp, atingiu mais de 2 mil usuários nos últimos dias, somente no Estado.
+Para atrair as pessoas, ele promete internet de graça.
+
+1 Anúncio
+> A O C L I C A R N O  L I N K  N O
+ANÚNCIO, o usuário é dire-
+cionado para uma página na
+qual é informado que foi se-
+lecionado para ganhar até
+20GB de internet e apresen-
+ta, ainda, um número fictício
+de quantidade de pacotes
+gratuitos disponíveis para
+h a b i l i ta ç ã o .
+
+4 D ow n l o a d
+> APÓS O COMPARTILHAMENTO, a su-
+posta oferta de internet estaria dis-
+ponível em até cinco minutos. Po-
+rém, surge a página de alerta no ce-
+lular orientando o download de apli-
+cativos maliciosos.
+
+> PARA USUÁRIOS que usam a rede 3G
+ou 4G, também é possível ser dire-
+cionado para serviços de SMS pa-
+gos, como horóscopo.
+Pe r i g o s
+> ES P EC I A L I STAS alertam que, ao bai-
+xar aplicativos maliciosos, as infor-
+mações do smartphone, como fotos
+e até senhas, possam ser acessadas
+por cibercriminosos.
+
+2 Pe rg u n ta s
+> NESSA PÁGINA,o usuário é orientado
+a responder três perguntas: “Quan -
+tos dias de internet gratuita você de-
+seja ativar?”;“Quantos GB você gos-
+taria de receber de sua operadora?”;
+“Qual rede você gostaria de ativar?”.
+
+3 Compar tilhamento
+> APÓS RESPONDER à última pergun-
+ta, a pessoa é informada que, para
+ativar o pacote gratuito de até 20GB
+de internet, ela deverá compartilhar
+com três amigos e grupos de What-
+sApp.
+
+

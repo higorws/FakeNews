@@ -1,0 +1,216 @@
+VITÓRIA, ES, QUINTA-FEIRA, 20 DE DEZEMBRO DE 2018  ATRIBUNA  33
+
+Diretor do
+Facebook nega
+violação à
+p r i va c i d a d e
+
+O diretor de privacidade do Fa-
+cebook, Steve Satterfield, disse que
+nenhuma parceria violou as regras
+de privacidade dos usuários ou
+compromissos que a empresa as-
+sumiu com reguladores federais.
+
+“Nenhuma dessas parcerias ou
+recursos concedeu às empresas
+acesso a informações sem a per-
+missão dos usuários, nem viola-
+ram nosso acordo de 2012 com a
+Comissão Federal do Comércio
+dos Estados Unidos (FTC, na sigla
+em inglês)”, também afirmou
+Konstantinos Papamiltiadis, dire-
+tor de plataformas de desenvolve-
+dores e programas do Facebook,
+no site da empresa.
+
+Este não é o primeiro escândalo
+do ano para o Facebook. Em mar-
+ço, investigações apontaram que
+dados de usuários tinham sido
+usados pela empresa britânica
+Cambridge Analytica para fazer
+análise política e influenciar as
+eleições americanas de 2016. A
+empresa admitiu que 87 milhões
+de contas foram atingidas.
+
+No último dia 6, uma investiga-
+ção do governo britânico concluiu,
+após ter acesso a e-mails, que Zu-
+ckerberg apoiou compartilhamen-
+to de dados de usuários do Face-
+book, o que levou ao caso da Cam-
+bridge Analytica.
+
+Porta-vozes do Spotify e da Net-
+flix disseram ao jornal NY Times
+que “não tinham conhecimento
+dos amplos poderes que o Facebo-
+ok lhes concedeu”, enquanto o
+Yahoo negou ter utilizado infor-
+mações para publicidade.
+
+Ciência e Tecnologia
+FAC E BO O KAté mensagens privadas de
+usuários foram compartilhadas
+
+Em mais um escândalo,
+a rede social é acusada
+de ceder a gigantes da
+tecnologia informações
+confidenciais, incluindo
+as conversas fechadas
+
+SÃO PAULOO Facebook compartilhou
+
+dados de usuários com mais
+de 150 empresas. Apple,
+Amazon, Microsoft, Netflix e Spo-
+tify aproveitaram diferentes acor-
+dos com a rede para usar dados de
+seus usuários em vários serviços.
+
+Enquanto o Facebook cortava o
+acesso a aplicativos como o Cam-
+bridge Analytica, que reuniu da-
+dos de usuários para tentar in-
+fluenciar as eleições de 2016, ofe-
+recia tratamento prioritário para
+outras grandes empresas de tec-
+nologia em acordos que ainda es-
+tavam ativos em 2017.
+
+Em troca, o Facebook obteve in-
+formações mais detalhadas de
+seus usuários, que usava, por
+exemplo, para promover sua fun-
+ção “Pessoas que talvez você co-
+nheça”. As revelações vêm de nova
+investigação do jornal The New
+York Times, que analisou 270 pá-
+ginas de documentos internos e
+falou com mais de 50 empregados
+
+e ex-empregados do Facebook, e
+funcionários de outras empresas.
+A novidade evidencia a falta de
+preocupação no Facebook com a
+segurança dos dados de usuários.
+De acordo com essas revelações,
+eles nunca foram a prioridade da
+empresa, mas sim um instrumento
+para continuar crescendo.
+
+Agora, o Facebook tenta anular,
+corrigir ou retocar acordos passa-
+dos, além de fazer declarações
+bombásticas: a privacidade é “o
+fundamento da nossa empresa”,
+disse Carolyn Everson, vice-presi-
+dente de Marketing.
+
+Os acordos do Facebook com
+outras empresas eram de três ti-
+pos. Primeiro, com fabricantes de
+aparelhos, que chamavam de “in -
+t e g ra ç ã o ”. O próprio Times já ha-
+via revelado em junho a existência
+desses acordos, que remontam a
+antes da criação de um aplicativo
+do Facebook para celular.
+
+O Facebook também permitia o
+acesso aos dados do usuário sem o
+seu consentimento explícito. No
+entanto, a integração do Facebook
+aos sistemas operacionais dos dis-
+positivos exigia o compartilha-
+mento de dados, de modo que isso
+era até certo ponto inevitável.
+
+Em segundo lugar, por recurso
+chamado “personalização instan-
+t ân e a”. Aplicativos como o busca-
+dor Bing, ou sites de críticas de res-
+taurantes ou de cinema tinham
+
+CHRIS RATCLIFFE/BLOOMBERG VIA GETTY IMAGES — 25/04/2018
+
+FAC E B O O K é acusado de compartilhar dados com mais de 150 empresas
+
+acesso aos dados de amigos do Fa-
+cebook para ver o que haviam dito.
+E em terceiro havia acordos es-
+pecíficos com empresas. O texto
+do Times não deixa muito claro os
+benefícios concretos.
+
+Spotify e Netflix podiam integrar
+mensagens do Facebook em suas
+plataformas, mas isso também lhes
+dava acesso a ler mensagens priva-
+das de usuários. Agora todos cor-
+rem para limitar os danos.
+
+Procurador em Washington
+processa a rede social
+
+O procurador-geral do Distrito
+de Columbia, Karl Racine, entrou
+com um processo ontem contra o
+Facebook por permitir que a con-
+sultoria política Cambridge Ana-
+lytica ganhasse acesso a informa-
+ções, como “curtidas” e nomes, de
+usuários da rede social.
+
+A notícia foi dada pelo jornal
+“The Washington Post”, que citou
+fontes com conhecimento do pro-
+cesso. É a primeira grande tentati-
+va nos Estados Unidos de penali-
+
+D I V U LG AÇ ÃO
+
+zar o Facebook pela sua relação
+com a consultoria, que obteve e fez
+mal uso dos dados de 87 milhões
+de usuários. Estima-se que o pro-
+cesso seja o início de multas e ou-
+tras punições legais que a empresa
+de tecnologia venha a enfrentar.
+
+O caso já estava sendo investiga-
+do pela Comissão Federal de Co-
+mércio (FTC, na sigla em inglês),
+pelo Departamento de Justiça e
+pela SEC, órgão que regula os
+mercados nos EUA.
+
+O escândalo foi revelado em
+março por investigação dos jornais
+“G ua rd ia n ” e “The New York Ti-
+mes” com denúncias de Christo-
+pher Wylie, ex-diretor de pesquica
+na Cambridge Analytica. Wyllie
+revelou que a empresa usou os da-
+dos para criar perfis dos usuários
+da rede social e direcionar mensa-
+gens que apelassem para os “me -
+dos e esperanças” dessas pessoas.
+
+TRUMP
+
+A Cambridge Analytica, que dei-
+xou de funcionar em maio, foi co-
+mandada por Steve Bannon, que
+foi também estrategista da campa-
+nha de Donald Trump. Usou o co-
+nhecimento da consultoria para
+direcionar informação a eleitores.
+
+RACINE: linha dura com o Facebook
+
+

@@ -1,0 +1,171 @@
+Ciência e Tecnologia
+Novo robô do Google faz
+ligações e pede até pizza
+
+VITÓRIA, ES, SEXTA-FEIRA, 11 DE MAIO DE 2018  ATRIBUNA  27
+
+STEPHEN LAM/REUTERS
+
+SUNDAR PICHAI disse que inteligência artificial vai transformar várias áreas
+
+encaixa em um determinado con-
+texto (esta noite, depois de ama-
+nhã).
+
+A melhora na habilidade de ou-
+vir só não ganhou mais destaque
+porque o assistente ganhou a capa-
+cidade de conversar. E mais que is-
+so: conversar com estranhos após
+telefonar para eles a pedido dos
+usuários. “A voz é superpoderosa”,
+diz Lilian Rincón, diretora do Goo-
+gle responsável pelo produto.
+
+O recurso foi pensado para situa-
+ções em que é preciso agendar um
+compromisso e a única opção é dar
+um telefonema. Para poupar tem-
+po, o robô faz isso.
+
+“60% dos estabelecimentos não
+têm presença on-line, e as pessoas
+não gostam de pegar o telefone. Is-
+so vai ajudá-las.”
+
+A novidade ainda não tem data
+para chegar ao assistente, porque o
+Google não se decidiu se avisará
+quem estiver do outro lado da li-
+nha que é uma máquina falando.
+
+Antes de chegar aos usuários, o
+recurso será usado internamente
+para contatar estabelecimentos.
+
+Essa é a mais nova
+função a ser integrada
+ao assistente pessoal,
+utilizando a inteligência
+artificial como principal
+recurso tecnológico
+
+MOUNTAIN VIEW, EUA
+
+O telefone toca e, do outro la-
+
+do, alguém educado quer
+agendar um horário no ca-
+beleireiro, reservar uma mesa em
+um restaurante ou pedir uma piz-
+za. A desenvoltura engana, mas é
+um robô que acabou de dizer
+“Al ô ”. A cena parece coisa de fic-
+ção científica, mas não é. O Google
+a apresentou como a mais nova
+função a ser integrada ao seu assis-
+tente pessoal.
+
+Só que essa é apenas uma das
+habilidades que os robôs da com-
+panhia estão ganhando para fazer
+a inteligência artificial pegar de
+vez. “A inteligência artificial re-
+
+presenta uma gigantesca oportu-
+nidade de transformar diversas
+á re a s ”, afirma Sundar Pichai, CEO
+do Google. As informações são do
+G1, em texto do jornalista Helton
+Simões Gomes.
+
+O robô telefonista em questão é
+o Google Assistente, o serviço da
+empresa que funciona como um
+secretário particular e rivaliza com
+Siri (Apple), Cortana (Microsoft) e
+Alexa (Amazon). Em comum, to-
+dos recebem pedidos ou pergun-
+tas, via texto ou por comando de
+voz, e atendem como podem.
+
+Um dos entraves é fazer uma
+dessas máquinas entender o que
+um humano quer dizer e então
+responder sem parecer robótica.
+Essa habilidade é chamada pelos
+cientistas de linguagem natural.
+
+Boa parte das modificações
+anunciadas para o assistente fo-
+ram nessa linha.
+
+Com isso, ele passou a entender
+quando uma pessoa faz dois pedi-
+dos simultâneos (“apague a luz da
+cozinha e da sala”) e compreender
+melhor como uma informação se
+
+D I V U LG AÇ ÃO
+
+GOOGLE MAPS: identificação do perfil do usuário para buscar restaurantes
+
+Mudança também no Maps
+
+Outro do serviço repaginado pa-
+ra usar inteligência artificial a par-
+tir de informações pessoais é o Go-
+ogle Maps. Quando alguém buscar
+por restaurantes, ele passará a lis-
+tar os que mais recebem visitantes
+— o segredo por trás disso é a mes-
+ma usada para atestar que uma rua
+está congestionada.
+
+O carro-chefe do banho de inte-
+ligência artificial que o Maps rece-
+beu, no entanto, é uma função des-
+tinada a indicar qual a probabili-
+dade de um restaurante agradar
+um usuário.
+
+“Você não quer saber se é só um
+restaurante de comida baiana, mas
+se é um lugar de que você vai gos-
+tar ”, diz Luiz Barroso, o brasileiro
+que é vice-presidente de Maps.
+
+Para chegar a isso, o Google vai,
+de um lado, levantar tudo o que sa-
+be a respeito das preferências culi-
+nárias do usuário e, de outro, reu-
+
+nir tudo o que sabe sobre o restau-
+rante em questão. Depois, vai cru-
+zar os dois perfis e ver se batem.
+
+“Quando a gente mistura o que a
+gente sabe sobre o mundo com o
+que a gente sabe sobre o usuário,
+isso ajuda a simplificar o processo
+de escolher lugares para você visi-
+tar com sua família e amigos.”
+
+“Com pouca informação dos
+usuários e muita informação do
+produto, a gente consegue fazer a
+mágica acontecer. Digamos que
+você visita cinco restaurantes com
+uma certa frequência e existe uma
+coisa que liga esses cinco restau-
+rantes. Quando analisamos, come-
+çamos a entender que existem
+mais restaurantes parecidos.”
+
+Tanto Maps como o assistente
+usam informações que o Google co-
+leta sobre as pessoas. Barroso diz que
+os usuários podem controlar como
+os dois serviços usam seus dados.
+
+

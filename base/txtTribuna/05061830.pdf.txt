@@ -1,0 +1,231 @@
+30  ATRIBUNA  VITÓRIA, ES, TERÇA-FEIRA, 05 DE JUNHO DE 2018
+
+Ciência e Tecnologia
+Facebook cedeu dados de
+usuários a fábricas de celular
+
+Sessenta fabricantes,
+como Apple, Samsung
+e BlackBerry, tiveram
+acesso a informações
+privadas, denunciou o
+The New York Times
+
+CHRIS RATCLIFFE/BLOOMBERG VIA GETTY IMAGES — 25/04/2018
+
+SÃO PAULOO Facebook permitiu que cer-
+
+ca de 60 fabricantes de
+smartphones, como Apple,
+Microsoft, Samsung e BlackBerry,
+tivessem acesso a grandes volumes
+de dados de usuários, segundo re-
+portagem do jornal The New York
+Times (NYT) publicada domingo.
+Em nota divulgada após a publi-
+cação da notícia, o Facebook disse
+ontem que está “em desacordo”
+com as conclusões do jornal. A re-
+portagem diz que a companhia de
+Mark Zuckerberg mantinha acor-
+dos, fechados há mais de 10 anos,
+com essas empresas para que
+criassem aplicativos do Facebook
+e integrassem funções da rede so-
+cial a seus sistemas operacionais.
+As informações foram cedidas
+por meio de pacotes privados dos
+kits de desenvolvimento, os cha-
+mados APIs. Ainda segundo o jor-
+nal, o nível de acesso dado às fabri-
+cantes poderia infringir a legisla-
+ção que protege a privacidade nos
+Estados Unidos, da Comissão Fe-
+deral do Comércio (FTC).
+
+O Facebook não nega que os
+acordos existiam. “Esses parceiros
+assinavam acordos que impediam
+informações pessoais de usuários
+do Facebook de serem usadas com
+qualquer propósito além de recriar
+experiências similares às do Face-
+book”, afirmou Ime Archibong, vi-
+
+ACESSO ao Facebook: acordos permitiam que empresas integrassem funções da rede aos sistemas ope ra c i o n a i s
+
+ce-presidente de parcerias.
+
+A reportagem do NYT, no entan-
+to, mostra o alcance do conjunto de
+dados fornecidos. O jornal usou
+uma conta de Facebook para entrar
+no diretório de software do Black-
+B e r r y.
+
+A partir daí, o programa recupe-
+rou dados como status de relacio-
+namento, preferências religiosas e
+políticas do repórter e de seus 556
+amigos na rede social. Também
+exibiu informações de identifica-
+ção de quase 300 mil amigos.
+
+Rede social se justifica
+
+Para o Facebook, os acordos
+eram a única forma de seu aplica-
+tivo funcionar no passado.
+
+“No início do mundo móvel, a
+demanda pelo Facebook ultrapas-
+sava nossa habilidade de construir
+versões do produto que funcionas-
+sem em todo celular ou sistema
+operacional. É difícil de lembrar
+como, mas antigamente não havia
+lojas de aplicativos. Então, compa-
+nhias como Facebook, Google,
+Twitter e YouTube tinham de tra-
+balhar diretamente com sistemas
+operacionais e fabricantes de dis-
+p o s i t i vo s ”, afirma o vice-presiden-
+te de parcerias, Ime Archibong.
+
+“Para fechar essa lacuna, nós
+construímos um conjunto de kits
+de desenvolvimento para serem
+integrados aos dispositivos que
+permitissem às companhias re-
+criarem experiências como as do
+Fa c e b o o k ”.
+
+O executivo afirmou ainda que
+esse tipo de permissão era muito
+diferente daquela dada a criadores
+
+de aplicações para a rede social,
+que foi explorada pela consultoria
+Cambridge Analytica e levou ao
+recente escândalo do Facebook.
+
+A firma, contratada pela campa-
+nha presidencial de Donald
+Trump, usou um teste distribuído
+pela rede social para coletar dados
+de mais de 87 milhões de pessoas.
+Com essas informações, construiu
+algoritmos capazes de prever a po-
+sição política desses usuários com
+o objetivo de orientá-los em deter-
+minada direção.
+
+“Informações de amigos, como
+fotos, eram apenas acessíveis em
+dispositivos quando pessoas to-
+mavam a decisão de compartilhar
+suas informações com aqueles
+amigos. Nós não tomamos ciência
+de nenhum abuso dessas compa-
+nhias”, rebate Archibong.
+
+O Facebook manifestou ontem
+que não está ciente de um eventual
+acesso fraudulento aos dados pes-
+soais de seus usuários e de seus
+“amigos” por parte dos fabricantes.
+
+Pa c i e n t e
+em estado
+terminal se
+cura do câncer
+
+A vida de uma mulher com
+câncer de mama em estágio
+considerado terminal foi salva
+por um tratamento pioneiro,
+que consiste na aplicação de 90
+bilhões de células imunológicas
+para combater o tumor.
+
+Segundo pesquisadores do
+Instituto Nacional do Câncer,
+nos EUA, o tratamento ainda é
+experimental, mas pode ter efei-
+to transformador.
+
+A mulher em questão é a
+americana Judy Perkins, 49
+anos, que havia recebido, dois
+anos atrás, o prognóstico de que
+teria apenas três meses de vida.
+A moradora da Flórida tinha
+câncer de mama em estágio
+avançado, que estava se espa-
+lhando – já havia tumores do ta-
+manho de uma bola de tênis em
+seu fígado – e não havia mais
+perspectiva com tratamentos
+c o nve n c i o n a i s.
+
+Hoje, porém, não há vestígios
+do câncer em seu corpo, segun-
+do médicos. E Judy tem apro-
+veitado a vida viajando e fazen-
+do canoagem. “Cerca de uma
+semana depois (do tratamento
+pioneiro), eu comecei a sentir o
+tumor no peito encolher”, disse
+Judy à BBC.
+
+Ela lembra que, ao fazer o pri-
+meiro exame após passar pelo
+tratamento, viu a equipe médica
+“saltitando de empolgação”. Foi
+quando ela soube que teria uma
+chance de cura.
+
+O tratamento a que Judy foi
+submetida consiste em uma
+“droga viva”, feita a partir das
+próprias células dela, em um
+dos centros de referência de
+pesquisa de câncer do mundo.
+“É o tratamento mais alta-
+mente personalizado que se
+possa imaginar”, disse o médico
+Steven Rosenberg, chefe de ci-
+rurgias no Instituto Nacional do
+Câncer dos EUA.
+
+A terapia ainda dependerá de
+uma grande quantidade de tes-
+tes até que possa ser ampla-
+mente usada, mas começa com
+o tumor do paciente analisado
+geneticamente, para que sejam
+identificadas mutações que po-
+dem tornar o câncer visível ao
+sistema imunológico do corpo –
+e que podem, portanto, serem
+formas de combater tumores.
+
+D I V U LG AÇ ÃO
+
+D I V U LG AÇ ÃO
+
+USO DE
+CELULAR :
+Fa c e b o o k
+diz que, no
+passado, não
+tinha habilidade
+para construir
+versões que
+f u n c i o n a ss e m
+em todos os
+a p a re l h o s
+
+JUDY PERKINS: nova terapia
+
+

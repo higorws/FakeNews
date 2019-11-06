@@ -1,0 +1,339 @@
+Reportagem Especial
+Diretor vendeu
+ações antes
+da divulgação
+de falhas
+
+DAYANA SOUZA/AT
+
+Em meio a discussões sobre se-
+gurança dos dispositivos eletrôni-
+cos, sites especializados divulga-
+ram que o diretor-executivo da In-
+tel, Brian Krzanich, vendeu o
+equivalente a US$ 11 milhões (R$
+35,5 milhões) em ações da compa-
+nhia antes da divulgação da falha
+nos chips da empresa.
+
+De acordo com os sites, para se
+manter no cargo, Krzanich precisa
+ter pelo menos 250 mil ações da In-
+tel. Em dezembro, ele tinha 495.743
+papéis, mas reduziu para o mínimo
+exigido após duas operações de
+ve n d a .
+
+Há suspeitas de que a venda em
+massa de ações da companhia este-
+ja relacionada ao escândalo na falha
+no design dos microprocessadores.
+Ou seja, que os papéis tenham
+sido vendidos antes de uma prová-
+vel desvalorização diante do inci-
+d e n t e.
+
+Segundo o site Gizmodo, no en-
+tanto, um porta-voz da Intel teria
+negado qualquer ligação entre a
+venda das ações e o problema no
+design dos chips. O movimento es-
+taria ligado a um plano de venda
+de ações estabelecido previamen-
+te, com um calendário automático
+para a transferência dos papéis.
+
+D I V U LG AÇ ÃO
+
+EDUARDO PINHEIRO disse que acesso sem identificação cria insegurança
+
+VITÓRIA, ES, SEXTA-FEIRA, 05 DE JANEIRO DE 2018  ATRIBUNA  3
+
+AMEAÇAS VIRTUAIS
+
+Wi-fi de prefeitura
+facilita ação hacker
+A capital conta com 220 pon-
+
+essa rede não está de acordo com o
+novo marco civil da internet. “Is s o
+significa que, caso um crime ocor-
+ra utilizando essa rede, a prefeitu-
+ra será responsável.”
+
+tos de internet gratuita. Mas
+especialistas fazem um aler-
+ta de que o wi-fi da Prefeitura de
+Vitória facilita a ação de hackers.
+
+O especialista em Tecnologia da
+Informação Eduardo Pinheiro
+Monteiro disse que o acesso sem
+identificação cria uma grande inse-
+gurança jurídica, pois criminosos
+podem utilizar o sistema da prefei-
+tura para praticar crimes e levar a
+danos irreparáveis para terceiros.
+
+“A iniciativa da prefeitura de
+promover inclusão digital é extre-
+mamente louvável. Entretanto, da
+forma que está, os criminosos po-
+dem utilizar a rede da prefeitura
+para aplicar golpes e praticar cri-
+mes que uma investigação terá di-
+ficuldade ou uma completa impos-
+sibilidade de identificar a autoria.”
+E acrescentou: “Além dos ciber-
+criminosos, pessoas comuns po-
+dem ser seduzidas pelo anonimato
+do sistema para praticar crimes de
+menor potencial ofensivo, como
+calúnia, injúria e difamação.”
+
+Sem nominá-los, ele disse que
+outros órgãos públicos disponibili-
+zam acesso à internet sem um pro-
+cesso de autenticação eficiente.
+
+Para o analista de segurança
+Raonny Lourenço, pelo fato de não
+ter uma identificação do usuário,
+
+O especialista em cibersegurança
+do Arcon Labs, Carlos Borges, diz
+que o uso de redes wi-fi gratuitas
+tem vantagens, mas é de extrema
+importância que as pessoas tenham
+ciência dos riscos envolvidos.
+
+“Para isso, é necessário contar
+com uma rede bem configurada
+que evite que cibercriminosos te-
+nham controle dos pontos de aces-
+so. Pois é possível que um atacante
+consiga capturar o tráfego desses
+usuários ao acessar a mesma rede.”
+Para evitar problemas, ele citou
+medidas que devem ser usadas. “O
+ideal é que a rede wi-fi seja utiliza-
+da para acessos que não envolvam
+o tráfego de dados pessoais, como
+senhas e informações bancárias.”
+Ele diz que é preciso verificar se
+o nome da rede wi-fi é o verdadei-
+ro, pois criminosos tentam criar
+nomes parecidos para ludibriá-los.
+“Ter um antivírus instalado no
+dispositivo, seja ele celular, note-
+book ou tablet, é importante. E, ca-
+so seja possível, utilizar uma VPN
+(Virtual Private Network, ou seja,
+Rede Particular Virtual) para que
+seu tráfego seja criptografado.”
+
+Assessor de Vitória rebate críticas
+
+A Prefeitura de Vitória rebateu
+as críticas dos especialistas e ga-
+rantiu ontem que o sistema não é
+vulnerável, mas que está passando
+por uma adaptação para melhorar
+ainda mais a segurança.
+
+O assessor especial de Adminis-
+tração e Tecnologia da Prefeitura
+de Vitória, Márcio Passos, expli-
+cou que desde 18 de dezembro do
+ano passado o serviço foi retirado
+do ar para ser atualizado. “Um tes-
+te está sendo feito. Não posso tes-
+tar em produção.”
+
+Ele disse que a previsão é de que
+até o final deste mês o sistema vol-
+
+te a funcionar.
+
+“Passamos um período fazendo
+cadastro, que era CPF, identidade,
+e-mail, endereço mac — como se
+fosse a carteira de identidade da
+gente —, e número de telefone e, a
+partir do final de janeiro, será atra-
+vés de redes sociais.”
+
+E completou: “A pessoa já tem
+uma conta no Facebook, por
+exemplo, e o sistema vai pergun-
+tar: você quer entrar pela conta do
+Facebook? Vai ficar mais simples
+ainda e mais seguro, porque o nível
+de exigência pelas redes sociais é
+ainda maior. Ele restringe, inclusi-
+
+ve, a idade.”
+
+Passos informou que a capital
+conta com 220 pontos de internet
+gratuita e que há uma média de 3
+milhões de acesso por mês.
+
+Durante esta fase de teste, ele ga-
+rantiu que os usuários podem aces-
+sar a internet gratuita normalmente.
+“A gente continua gravando o ende-
+reço mac do aparelho onde conse-
+guimos saber o local de acesso e, se
+for preciso, em caso de algum crime,
+podemos associá-lo a uma conta de
+qualquer operadora de telefonia. O
+endereço mac é gravado desde o iní-
+cio do projeto (final de 2013).”
+
+Programa rouba dados do Uber
+
+Um novo malware (programa
+malicioso) que ataca aparelhos
+Android tem colocado milhões de
+usuários Uber em risco, segundo a
+empresa de segurança Symantec.
+O vírus, do tipo Fakeapp, se es-
+conde atrás de páginas legítimas
+do serviço de transporte para rou-
+bar dados. Embora seja um app
+falso, o vírus usa links mascarados
+dentro do aplicativo e, para isso,
+inicia a atividade de solicitação de
+corrida do Uber verdadeiro.
+
+O malware usa um URI (identi-
+ficador uniforme de recurso) de
+link profundo do aplicativo legíti-
+mo que inicia a atividade Ride Re-
+quest (solicitar viagens) do aplica-
+tivo, com a localização atual da ví-
+tima como ponto de partida.
+
+Posteriormente, ele solicita que
+a pessoa insira ID e senha Uber, in-
+tercepta essas informações e envia
+
+para um servidor remoto.
+
+O Uber informou que: “C omo
+esta técnica de phishing exige que
+os consumidores façam o down-
+load de um aplicativo malicioso
+fora da Play Store oficial, reco-
+mendamos apenas fazer o down-
+load de aplicativos confiáveis. No
+
+entanto, queremos proteger nos-
+sos usuários, mesmo que tenham
+cometido engano. É por isso que
+temos uma série de controles e sis-
+temas de segurança para ajudar a
+detectar e bloquear logins não au-
+torizados, mesmo que você forne-
+ça sua senha acidentalmente.”
+
+D I V U LG AÇ ÃO
+
+USO DO UBER
+NO CELULAR:
+p ro g ra m a
+malicioso que
+ataca aparelhos
+Android tem
+colocado
+milhões de
+usuários
+em risco
+
+BRIAN Krzanich: papéis da empresa
+
+E N T E N DA
+Ataques virtuais
+Assim como as falhas reveladas es-
+ta semana, outras vulnerabilidades
+foram exploradas por cibercrimino-
+sos. Em 2017, três ataques globais
+causaram prejuízos:
+WA N N AC RY
+> EM MAIO, o vírus utilizou uma bre-
+cha vazada pela Agência de Segu-
+rança Nacional dos Estados Uni-
+dos para infectar e bloquear o
+acesso a arquivos de computado-
+res em mais de 70 países, incluindo
+no Brasil.
+NOTPET YA
+> O CIBERATAQUE, realizado em ju-
+nho, atingiu hospitais e diversas em-
+presas ao redor do mundo. Como
+acontece em outros ataques do tipo,
+hackers bloqueiam sistemas.
+
+BAD RABBIT
+> NO FINAL DE OUTUBRO, o ataque
+mundial conhecido como “co e lh o
+m a u” afetou p r i nc i p a lm e n t e a Rús-
+sia e a Ucrânia, criando problemas
+em um aeroporto, uma subestação
+de metrô e em uma agência de notí-
+cias.
+
+Fo n t e : Pesquisa A Tribuna e especialistas
+c o n s u l ta d o s .
+
+ANÁLISE
+
+Cláudia Dematté,
+titular da Delegacia de
+Repressão aos Crimes
+Eletrônicos
+
+“Atenção às regras
+de segurança digital”
+“Atualmente, o uso da internet
+desponta como ferramenta im-
+portantíssima no cotidiano das
+pessoas que, cada vez mais, se
+utilizam dos meios cibernéticos
+para realizarem diversas ativi-
+dades distintas, como compras
+de bens, efetivação de transa-
+ções bancárias, uso de redes so-
+ciais para se relacionarem, fonte
+de pesquisa, entre outras.
+
+Porém, infelizmente, da mes-
+ma maneira cresce também o
+número de criminosos que usam
+os meios cibernéticos para pra-
+ticarem crimes das mais diver-
+sas espécies e, entre eles, estão
+criminosos especializados em
+praticar estelionatos, fraudes e
+falsificações.
+
+Mas muitos crimes poderiam
+ser evitados se as vítimas tives-
+sem observado as regras bási-
+cas de segurança ao usarem a
+internet. As pessoas devem ser
+alertadas que a tecnologia veio
+para nos auxiliar, dinamizar e fa-
+cilitar muitas coisas no dia a dia.
+Porém, é importante que, ca-
+da vez mais, com os números de
+golpes e crimes praticados nos
+meios cibernéticos que estão
+crescendo em todo o mundo, os
+cuidados sejam redobrados e se
+observem todas as regras de se-
+gurança digital ao se utilizar a in-
+t e r n e t. ”
+
+

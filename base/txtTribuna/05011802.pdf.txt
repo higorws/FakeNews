@@ -1,0 +1,292 @@
+2 ATRIBUNA  VITÓRIA, ES, SEXTA-FEIRA, 05 DE JANEIRO DE 2018
+
+AMEAÇAS VIRTUAIS
+
+Reportagem Especial
+Dois milhões ficam
+vulneráveis aos
+piratas da internet
+
+LEONE IGLESIAS/AT
+
+Falha em processadores
+da Intel, AMD e
+ARM, em celulares e
+computadores, deixa
+internautas do Estado
+expostos a ataques
+
+Eliane Proscholdt
+Francine Spinassé
+
+Falhas graves de segurança
+
+em processadores de gran-
+des empresas de tecnologia
+podem permitir que hackers rou-
+bem dados e senhas de boa parte
+dos computadores, smartphones e
+tablets. No Estado, a estimativa é
+de que cerca de 2 milhões de inter-
+nautas estejam vulneráveis a ci-
+bercriminosos por conta disso.
+
+Pesquisadores revelaram, esta
+semana, duas falhas que afetam
+dispositivos de computação con-
+tendo chips da Intel, da Advanced
+Micro Devices
+( A M D )  e d a
+ARM Holding.
+
+U m a d a s  f a-
+lhas, chamada de
+Meltdown, afeta
+chips da Intel e
+permite que ha-
+ckers  tenham
+acesso a memó-
+
+ria de um computador, por exem-
+plo, lendo informações como se-
+nhas e outros dados armazenados.
+Hoje, estima-se que 80% dos com-
+putadores do mundo tenham esse
+chip da Intel.
+
+Uma outra falha, chamada de
+Spectre, deixa vulneráveis laptops,
+computadores, smartphones, ta-
+blets e servidores de internet co-
+mo um todo.
+
+A Intel e a ARM informaram
+que a questão não é uma falha de
+design, mas vão demandar que
+seus usuários baixem uma corre-
+ção e atualizem seus sistemas ope-
+racionais para consertá-la.
+
+“Telefones, computadores, tudo
+terá algum impacto, mas isso irá
+variar de produto para produto”,
+disse o CEO da Intel, Brian Krza-
+nich, em entrevista à CNBC.
+
+O cyber security product mana-
+ger (gerente de produto de segu-
+rança cibernética, em tradução li-
+vre) da empresa ISH Tecnologia,
+Lierte Bourguignon, explicou que
+a unidade de
+proc essame nto,
+ou CPU, é o co-
+ração de toda
+máquina e exis-
+tem áreas que
+s ó e l a  p o d e
+a c e s s a r.
+
+“Co m p u t a d o re s ,
+
+telefones, tudo
+terá algum impacto,
+mas isso irá variar de
+
+produto para produto”
+
+“A CPU tem
+métodos para
+
+Brian Krzanich, CEO da Intel
+
+L I E RT E
+BOURGUIGNON
+explicou que
+a unidade de
+p ro c e ss a m e n t o ,
+ou CPU, é o
+coração de
+toda máquina
+e existem áreas
+que só ela
+pode acessar.
+Segundo ele,
+“ainda não se
+tem notícia,
+mas é questão
+de tempo para
+que apareçam
+programas que
+explorem essas
+v u l n e ra b i l i d a d e s ,
+c a p t u ra n d o
+senhas ”
+
+fazer acesso a uma área protegida,
+o Kernel, que contém informações
+privilegiadas. O que foi descoberto
+foram falhas que permitem o aces-
+so a essa área. Ainda não se tem
+notícia, mas é questão de tempo
+para que apareçam malwares que
+explorem essas vulnerabilidades,
+
+capturando senhas e demais infor-
+mações de usuários”, comentou
+e l e.
+
+O especialista em ciberseguran-
+ça do Arcon Labs, empresa espe-
+cializada em cybersegurança, Car-
+los Borges, enfatizou que há algu-
+mas formas de corrigir tempora-
+
+riamente essas falhas.
+
+“Mesmo com a correção do pro-
+blema de segurança, haverá um
+novo problema de performance.
+Ao aplicar a correção, as operações
+executadas pelo computador de-
+morarão mais tempo para serem
+exe c u t a d a s ”, disse o especialista.
+
+ENTENDA O PROBLEMA
+
+Fa l h a s
+Falhas de segurança que afetam
+a maioria dos dispositivos eletrôni-
+cos do mundo foram descobertas
+por pesquisadores e reveladas esta
+semana.
+
+Batizadas de Meltdown e Spec-
+tre, as falhas deixam computado-
+res, tablets, celulares, servidores e
+serviços na nuvem vulneráveis a
+hackers. Inicialmente, divulgou-se
+que isso afetaria todos os processa-
+dores da Intel, que detém 80% do
+mercado. No entanto, as empresas
+AMD e ARM também são afetadas.
+
+M E LT D OW N
+> A FALHA PERMITE que programas
+mal-intencionados (vírus) aces-
+sem segredos de outros progra-
+mas e do sistema operacional do
+dispositivo eletrônico.
+
+S P EC T R E
+> FOI ENCONTRADA durante o des-
+dobramento das investigações
+sobre a Meltdown. Essa falha que-
+bra o isolamento entre diferentes
+aplicativos e permite que um inva-
+sor obtenha dados importantes e
+protegidos.
+
+D I V U LG AÇ ÃO
+
+Como funciona
+> A SEGURANÇA dos sistemas opera-
+cionais dos dispositivos tem como
+“pilar ” o isolamento da memória do
+kernel, que seria o núcleo altamente
+protegido desse sistema.
+
+> NO KERNEL estão armazenadas in-
+formações como senhas e dados
+pessoais, por exemplo.
+
+> O QUE FOI descoberto foram falhas
+que permitem o acesso a essa área
+explorando as determinadas vulne-
+ra b i l i d a d e s .
+R iscos
+> SE ESSAS VULNERABILIDADES f o-
+rem exploradas por cibercriminosos,
+senhas, logins, arquivos armazena-
+dos e outros dados podem ser aces-
+sados.
+
+P R O C ESSA D O R
+DA INTEL:
+inicialmente,
+divulgou-se que
+falha afetaria
+todos os
+p ro c e ss a d o re s
+da marca, que
+detém 80%
+do mercado
+
+PROGRAMAS MALICIOSOS
+> APESAR DAS FALHAS reveladas, isso
+não significa que os dados de todos
+os computadores estejam disponí-
+veis a hackers de forma automática.
+> ESPECIALISTAS afirmam que é
+questão de tempo para que apare-
+çam malwares (vírus) que explorem
+isso para capturar senhas, e demais
+informações sensíveis dos usuários
+caso o problema não seja sanado.
+
+D I V U LG AÇ ÃO
+
+HACKER tem acesso a informações
+
+G R AV I DA D E
+> AS FALHAS descobertas repercuti-
+ram em todo o mundo devido à sua
+g rav i d a d e .
+
+> ATAQ U ES em massa de cibercrimi-
+nosos já registrados no ano passado,
+por exemplo, também utilizavam ou-
+tras falhas descobertas, mas em
+softwares (programas e aplicati-
+vos). Dessa forma, o “r e m é d i o”vinha
+com uma atualização do sistema.
+
+> DESSA VEZ, no entanto, há a vulne-
+rabilidade no hardware (partes físi-
+
+cas dos aparelhos), o que torna mais
+difícil uma solução.
+Como corrigir
+> FOI DIVULGADO que já existem algu-
+mas atualizações contra as falhas
+nos sistemas operacionais como Li-
+nux, Windows e OS X.
+
+> NO ENTANTO, tem sido observado
+que, ao aplicar as correções libera-
+das pelos fabricantes desses siste-
+mas operacionais, a máquina apre-
+senta problemas de funcionamento,
+principalmente Windows, que po-
+dem até levar à famosa tela azul.
+
+> ISSO ACONTECE porque o sistema
+operacional está bloqueando os an-
+tivírus instalados nas máquinas de
+validar a área protegida, o Kernel.
+
+EFEITOS DAS ATUALIZAÇÕES
+> OS EFEITOS DAS atualizações dis-
+poníveis ainda estão sendo com-
+preendidos, mas especialistas esti-
+mam que elas causam redução de
+performance entre 5% e 30%. Isso
+significa que o dispositivo fica mais
+lento.
+
+> A INTEL DIVULGOU que o impacto da
+atualização para o usuário médio,
+que usa o computador para coisas
+do dia a dia, não será grande.
+
+

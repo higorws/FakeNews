@@ -1,0 +1,179 @@
+32  ATRIBUNA  VITÓRIA, ES, SEXTA-FEIRA, 06 DE ABRIL DE 2018
+
+ESCÂNDALO DO FACEBOOK
+
+Ciência e Tecnologia
+Vazamento afeta
+13 mil no Estado
+
+REUTERS
+
+Na próxima segunda,
+Facebook vai informar
+quem teve os dados
+roubados. A rede diz
+que excluiu ferramenta
+que possibilitava busca
+
+Caio Miranda
+
+Inicialmente calculado em 50
+
+milhões, o Facebook anunciou
+que 87 milhões de usuários em
+todo o mundo tiveram dados da
+rede social vazados no escândalo
+da Cambridge Analytica, consul-
+toria inglesa que participou da
+campanha de Donald Trump à
+Presidência dos EUA, em 2016.
+
+No Brasil, segundo nota publica-
+da pelo Facebook, esse número foi
+de 443 mil. E, no Estado, mais de
+13 mil usuários podem ter tido in-
+formações pessoais expostas.
+
+O cálculo, do especialista em
+Tecnologia da Informação Eduar-
+do Pinheiro Monteiro, leva em con-
+ta que o Espírito Santo correspon-
+de a 3% dos mais de 110 milhões de
+usuários de internet no Brasil.
+
+“Daí, afere-se que, dos 443 mil
+que tiveram seu perfis violados,
+muito provavelmente algo em tor-
+no de 3% seja de usuários do Esta-
+do”, disse Eduardo.
+
+No caso da Cambridge Analyti-
+ca, foi utilizado o aplicativo This Is
+Your Digital Life (Esta é sua vida
+digital), um quiz on-line que exigia
+que as pessoas conectassem sua
+conta do Facebook para ser aces-
+sado. Assim, eram capturadas to-
+das as informações, o que permitia
+montar um perfil psicológico.
+
+Do total de 87 milhões, 70 mi-
+lhões de usuários são dos Estados
+Unidos. Em seguida, estão: Filipi-
+nas (1,17 milhão), Indonésia (1,09
+milhão) e Reino Unido (1,08 mi-
+lhão). O Brasil é o oitavo na lista.
+
+O Ministério Público do Distrito
+Federal e Territórios (MP-DFT) de-
+cretou sigilo ao processo que envol-
+ve as investigações nacionais sobre
+o uso de dados brasileiros do Face-
+book pela Cambridge Analytica.
+
+O Facebook informou que as
+pessoas afetadas pelo caso da Cam-
+bridge Analytica serão informadas
+em suas páginas pessoais a partir
+da próxima segunda-feira. O fun-
+dador da plataforma, Mark Zu-
+ckerberg, também revelou, na últi-
+ma quarta, que dados da maior par-
+te dos 2 bilhões de usuários podem
+ter sido acessados indevidamente.
+A empresa, inclusive, alegou ter
+excluído uma ferramenta que per-
+mitia fazer busca de usuários pelo
+número de telefone ou endereço
+de e-mail.
+
+A justificativa do Facebook foi
+de que ela estaria sendo usada por
+pessoas mal-intencionadas para
+capturar informações de perfil que
+estavam públicas.
+
+MARK Zuckerberg diz que pessoas mal-intencionadas capturaram dados
+
+Página vai mostrar
+informações divulgadas
+
+Após o escândalo do caso da
+Cambridge Analytica, o Facebook
+informou que vai mostrar, no topo
+das páginas pessoais, um link com
+todos os aplicativos já usados por
+cada usuário e as informações que
+são compartilhadas nessas ferra-
+mentas. Assim, as pessoas poderão
+remover os aplicativos que não
+querem mais usar.
+
+Segundo o doutorando em Ciên-
+cia da Computação pela Universi-
+dade Federal do Espírito Santo
+(Ufes) Marcello Novaes, quando
+as pessoas clicam nesses aplicati-
+vos, é enviada uma solicitação para
+acessar alguns dados pessoais.
+
+“O problema é que os usuários
+nunca leem. É preciso ler atenta-
+mente os avisos que esses aplicati-
+vos e jogos dão antes de aceitar. Se
+perguntar sobre comportamento,
+tem de desconfiar”, alertou.
+
+Marcello também orienta os
+usuários que já clicaram nesses ti-
+pos de aplicativos. “Na aba de con-
+figurações do Facebook, tem o
+
+item 'aplicativos'. Nele, é possível
+desautorizar os aplicativos que já
+foram autorizados antes. Aí, eles
+deixam de ter acesso aos dados”.
+
+Para o especialista em Tecnolo-
+gia da Informação Eduardo Pi-
+nheiro Monteiro, o vazamento de
+dados de um perfil de rede social
+pode servir para monitorar hábi-
+tos de consumo, com o objetivo de
+direcionar publicidade.
+
+“Não podemos esquecer que,
+além desses dados, informações
+pessoais também podem parar nas
+mãos de empresas e pessoas mal-
+i n te n c io n a d as ”, advertiu o espe-
+c i a l i st a .
+
+De acordo com Eduardo, o me-
+lhor que o usuário pode fazer para
+se proteger nas redes sociais é ser
+muito cauteloso e conservador ao
+disponibilizar dados pessoais.
+
+“Conhecer a política de trata-
+mento da informação das empre-
+sas e seus direitos de proteção pe-
+rante a legislação brasileira tam-
+bém ajuda”, completou.
+
+DAYANA SOUZA - 20/07/2017
+
+E D UA R D O
+PINHEIRO
+disse que
+o vazamento
+de dados pode
+servir para
+m o n i t o ra r
+hábitos de
+consumo, com
+o objetivo de
+d i re c i o n a r
+publicidade
+
+

@@ -1,0 +1,265 @@
+28  ATRIBUNA  VITÓRIA, ES, SÁBADO, 27 DE JANEIRO DE 2018
+
+Ciência e Tecnologia
+Maior falha de segurança na
+web vaza dados de 2 milhões
+
+Hackers tiveram acesso
+a informações como
+endereço e número de
+documentos de clientes
+da Netshoes, que terá
+agora de avisar a todos
+
+KP/EMS
+
+B R AS Í L I AO Ministério Público do Dis-
+
+trito Federal recomendou
+que o site de comércio ele-
+trônico Netshoes tome providên-
+cias após o vazamento de dados de
+quase 2 milhões de usuários.
+
+No pedido, o promotor Frederi-
+co Meinberg disse que se trata de
+“um dos maiores incidentes de se-
+gurança registrados no Brasil”, por
+colocar em risco os dados pessoais
+de diversos clientes. No total, o va-
+zamento afetou 1.999.704 contas.
+Em nota, a Netshoes informou
+que “está em contato com o Minis-
+tério Público”, e que “tem a prote-
+ção de dados como um de seus
+mais sólidos compromissos”.
+
+A empresa diz ainda que, “desde
+o princípio, envolve órgãos com-
+petentes neste caso para a mais
+breve apuração, esclarecimento e
+solução do ocorrido”.
+
+A principal recomendação é de
+que a empresa informe aos clien-
+tes afetados que os dados pessoais
+foram comprometidos.
+
+O Ministério Público pede que
+se faça isso por meio de ligação te-
+lefônica ou correspondência com
+aviso de recebimento. Além disso,
+a Netshoes não deverá fazer qual-
+quer tipo de pagamento ao suposto
+autor do incidente de segurança.
+
+Apesar de não terem sido revela-
+das informações como cartão de
+
+HACKERS atacaram site, em incidente considerado um dos maiores na área de segurança já registrados no Brasil
+
+crédito ou senhas, o incidente de
+segurança comprometeu dados
+pessoais como nome, CPF, e-mail,
+data de nascimento e histórico de
+c o m p ra s.
+
+“O Ministério Público realizou
+levantamentos, por amostragem,
+que demonstraram a veracidade.
+Essas informações, nas mãos erra-
+das, deixam as pessoas vulneráveis
+a diversas espécies de fraudes”.
+
+O promotor deu três dias úteis a
+
+partir da notificação para a empre-
+sa informar se acatará a recomen-
+d a ç ã o.
+
+Em caso de recusa ou de propos-
+ta insuficiente, o Ministério Públi-
+co entrará com ação judicial para
+responsabilizar a empresa.
+
+Segundo o Ministério Público, o
+vazamento comprometeu os da-
+dos pessoais de centenas de servi-
+dores públicos politicamente ex-
+postos. Conforme a análise das in-
+
+formações, há vários clientes re-
+gistrados com e-mails de órgãos
+públicos, entre eles: Presidência
+d a Re p ú b l i c a  ( @ p re s i d e n-
+cia.gov.br), Supremo Tribunal Fe-
+deral (@stf.jus.br) e Polícia Fede-
+ral (@dpf.gov.br).
+
+O documento do Ministério Pú-
+blico foi redigido pela Comissão
+de Proteção dos Dados Pessoais e
+pela 1ª Promotoria de Justiça de
+Defesa do Consumidor.
+
+Suposto vídeo de Lula preso é um vírus
+
+D I V U LG AÇ ÃO
+
+Atenção: se você vir passando
+pelo seu Feed do Facebook uma
+publicação patrocinada usando
+notícias do portal IG sobre a con-
+denação do ex-presidente Lula,
+com a promessa de um vídeo mos-
+trando sua prisão, fique sabendo
+que esse é o mais novo golpe que
+está rolando na rede social.
+
+Segundo a Kaspersky Lab, a
+campanha maliciosa esconde um
+trojan bancário, que é instalado no
+computador do usuário assim que
+ele clica no link que promete exe-
+cutar o vídeo. O arquivo se chama
+“a c o m p a n h e.exe ”.
+
+A empresa alerta que “os ciber-
+criminosos brasileiros costumam
+usar temas que estão na mídia, on-
+de há muita repercussão, explo-
+rando a curiosidade das pessoas
+que querem se informar para dis-
+seminar códigos maliciosos”, nas
+palavras de Fabio Assolini, analista
+sênior de segurança da Kaspersky.
+
+P U B L I CAÇÃO
+p ro m e t e n d o
+vídeo sobre
+prisão de Lula:
+ao clicar no
+link, usuário
+cai em golpe
+que instala
+vírus no
+c o m p u ta d o r
+
+Para o analista, a facilidade de se
+publicar anúncios patrocinados no
+Facebook impulsona esse tipo de
+golpe, já que a rede social não in-
+
+vestiga se o anúncio é malicioso
+antes de sua publicação, fazendo-o
+somente após denúncias.
+
+O criminoso pode pagar a cam-
+
+panha com um cartão de crédito
+roubado para não ser identificado.
+“Os criminosos criam as páginas
+e anexam arquivos maliciosos ne-
+la, geralmente em formato .ZIP,
+disseminando links que apontam
+para este arquivo hospedado no
+Facebook. Para o criminoso é van-
+tajoso, pois se trata de uma hospe-
+dagem gratuita. Além disso, essas
+campanhas maliciosas enganam
+muitas pessoas já que o link rece-
+bido realmente aponta para o site
+da rede social”, explica Assolini.
+
+Voltando ao vídeo da suposta
+prisão de Lula, que, na verdade, é o
+arquivo executável que instala o
+trojan, esse arquivo foi hospedado
+em servidor da prefeitura de uma
+cidade do Rio Grande do Sul, mas,
+após alerta, foi rapidamente remo-
+vido. Contudo, vale desconfiar de
+publicações que prometem coisas
+como vídeo de Lula preso, uma vez
+que ele não chegou a ser detido.
+
+Isca para vício,
+diz pesquisa
+sobre cigarro
+e l e t rô n i c o
+
+Eles surgiram como alternati-
+va menos nociva ao cigarro co-
+mum e, desde que apareceram
+no mercado internacional, em
+2005, levantam debates entre
+usuários, especialistas, indús-
+tria e formuladores de políticas
+públicas sobre os riscos à saúde
+e o potencial de reduzir danos
+aos tabagistas.
+
+Uma busca rápida no Pub-
+Med, maior banco de dados de
+artigos científicos, revela a exis-
+tência de 2.254 trabalhos a res-
+peito de cigarro eletrônico - só
+no ano passado, foram 604. À
+medida que aumenta a adesão a
+esse produto, uma das maiores
+preocupações é o uso que os
+adolescentes podem fazer dele.
+Por causa de dúvidas sobre o
+cigarro eletrônico, em 2016, o
+governo americano encomen-
+dou uma análise de tudo que já
+foi publicado a respeito à Aca-
+demia Nacional de Ciência, En-
+genharia e Medicina.
+
+O resultado conclui: as evi-
+dências de que o produto ajude
+adultos tabagistas a parar de fu-
+mar são limitadas, ao mesmo
+tempo em que há provas “subs -
+ta ncia is” de que ele funciona
+como uma isca para os jovens,
+induzindo o caminho contrário.
+Eles começam com os vapori-
+zadores e passam para o cigarro
+comum. O relatório foi produzi-
+do por um painel de cientistas
+que avaliaram mais de 800 estu-
+dos revisados pelos pares.
+
+Para a psiquiatra Helena
+Moura, especialista em depen-
+dência química, a publicação
+vem em um momento oportu-
+no, quando o cigarro eletrônico
+se torna a menina dos olhos da
+indústria do tabaco.
+
+No início do mês, por exem-
+plo, a Philip Morris anunciou
+que pretende parar de vender
+cigarro na Inglaterra. Não vai,
+porém, deixar de investir nesse
+mercado, mas substituir o pro-
+duto gradativamente pela ver-
+são eletrônica.
+
+“A indústria parece ter deixa-
+do os adultos de lado e, agora,
+foca mais os jovens. As pesqui-
+sas mostram que o cigarro ele-
+trônico é uma forma de inicia-
+ção. Os mais novos não viven-
+ciaram o boom da campanha
+a n t i t a b a g i st a ”, denunciou.
+
+D I V U LG AÇ ÃO
+
+CIGARRO eletrônico: malefícios
+
+

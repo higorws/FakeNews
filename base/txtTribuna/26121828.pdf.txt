@@ -1,0 +1,246 @@
+28  ATRIBUNA  VITÓRIA, ES, QUARTA-FEIRA, 26 DE DEZEMBRO DE 2018
+
+Ciência e Tecnologia
+Pentágono investe em
+projeto multibilionário
+
+Jedi, assim como em
+Guerra nas Estrelas, é o
+nome da aposta dos
+EUA para se manter à
+frente de China e Rússia
+em tecnologia militar
+
+AP PHOTO/CHARLES DHARAPAK
+
+WAS H I N G TO NJedi não é só o personagem
+
+fictício de Guerra nas Estre-
+las. Também é o nome do
+mais novo e ambicioso projeto do
+Pentágono, o órgão de defesa dos
+Estados Unidos. Orçado em US$
+10 bilhões (quase R$ 39 bilhões), o
+Empreendimento Conjunto de In-
+fraestrutura de Defesa (Jedi, na si-
+gla em inglês) consiste em uma
+enorme nuvem cibernética que ar-
+mazenaria códigos nucleares.
+
+Trata-se de uma tentativa do go-
+verno americano de competir com
+a Rússia e com a China na área da
+tecnologia militar. A empreitada,
+no entanto, vem dividindo opi-
+niões por vários motivos. As infor-
+mações são da BBC Brasil.
+
+A mais recente polêmica acon-
+teceu em meados de dezembro,
+quando a BBC revelou que uma
+empresa de tecnologia que disputa
+o contrato do Pentágono para to-
+car o projeto Jedi tem relações es-
+treitas com uma companhia ligada
+a um oligarca russo alvo de san-
+ções do governo americano.
+
+Viktor Vekselberg, que é próxi-
+mo do Kremlin, tem ligações com
+o C5, um conglomerado de empre-
+sas de investimento focado na área
+cibernética que trabalhou em es-
+treita colaboração com sua princi-
+pal concorrente, a Amazon Web
+Services (AWS).
+
+Tanto o C5 quanto a AWS dizem
+que o C5 não está envolvido na dis-
+
+P E N TÁG O N O passaria os principais segredos militares para a nuvem Jedi, incluindo sistemas de armas e operações
+
+puta pelo projeto Jedi. Todos os
+lances são confidenciais.
+
+O Pentágono se recusou a co-
+mentar, afirmando que as informa-
+ções sobre as empresas envolvidas
+não poderiam ser divulgadas.
+
+Em vez de dados militares serem
+armazenados em servidores me-
+nores em diferentes departamen-
+tos no Pentágono, as informações
+serão mantidas em uma nuvem.
+
+A nuvem é um termo usado para
+
+descrever vários servidores remo-
+tos, conectados à internet, que po-
+dem armazenar grandes conjun-
+tos de informações e podem ser
+acessados de qualquer lugar.
+
+Os principais segredos militares
+seriam, assim, transferidos para a
+nuvem Jedi, incluindo detalhes
+confidenciais sobre sistemas de ar-
+mas, pessoal militar, inteligência e
+operações. Soldados na linha de
+frente passariam, por exemplo, a
+
+ter acesso imediato a todas as infor-
+mações recentes, o que aumentaria
+eficiência no campo de batalha.
+
+O major-general dos EUA, David
+Krumm, que ajudou a elaborar o
+contrato, explicou que ter essas in-
+formações nas mãos dos militares
+ajudaria os EUA a vencer guerras.
+“Um pelotão do exército precisa
+saber que uma unidade aliada está
+ao redor do quarteirão e que não
+deve abrir fogo”, enfatizou.
+
+Riscos em armazenar na nuvem
+
+D I V U LG AÇ ÃO
+
+ARMAZENAMENTO na nuvem: avaliação sobre dados em um mesmo local
+
+“Não armazenaria meus dados
+mais pessoais, nem meus colegas,
+em uma nuvem comercial, ponto
+f in al ”, diz John Weiler, diretor do
+Conselho Consultivo de Aquisição
+de Tecnologia da Informação (IT-
+AAC na sigla em inglês), com sede
+em Washington.
+
+Ele diz acreditar que há enor-
+mes riscos em armazenar essas in-
+formações confidenciais em uma
+nuvem pública, comercialmente
+controlada, administrada por ape-
+nas uma empresa.
+
+“Temos nossos códigos nuclea-
+res, a localização de nossas tropas.
+Se a segurança da nuvem for viola-
+da, nossos inimigos poderão usar
+nossas informações contra nós.
+Eles podem estar nos esperando.”
+O Pentágono teve que explicar
+ao Congresso por que estava ofe-
+recendo apenas o contrato para
+
+uma única empresa, diante de pe-
+didos para que uma nuvem desse
+porte fosse gerenciada por vários
+provedores de serviços para diluir
+o risco de violações de segurança.
+Segundo o Departamento de
+Defesa americano, ter apenas um
+provedor de nuvem serviria me-
+lhor às tropas no solo e aceleraria o
+acesso a informações vitais.
+
+A AWS também defendeu a posi-
+ção do governo dos EUA: “Uma úni-
+ca nuvem seria mais segura do que
+um ambiente com várias nuvens.”
+
+Também houve críticas de que a
+licitação foi pensada apenas com
+uma empresa em mente, a AWS,
+algo que o Pentágono nega, dizen-
+do que o processo foi transparente
+e imparcial.
+
+Além disso, foram levantadas
+questões sobre as ligações da AWS
+com o grupo C5.
+
+Amazon está na
+dianteira para
+obter contrato
+com o governo
+
+Braço da Amazon, a Amazon
+Web Services tornou-se a maior
+provedora de serviços em nuvem
+do mundo, controlando um terço
+do mercado de computação em
+nuvem. O grupo C5 é novo, mas
+em poucos anos levantou 100 mi-
+lhões de libras (R$ 487 milhões)
+para investir em segurança ciber-
+nética.
+
+Apesar de AWS e C5 trabalha-
+rem juntos em vários projetos de
+computação em nuvem em todo o
+mundo, as empresas negaram ter
+um relacionamento próximo.
+
+Uma das muitas empresas ciber-
+néticas do grupo C5, a C5 Accelera-
+te afirma em seu site que está “de -
+senvolvendo um Cloud Accelera-
+tor Cluster na Europa, Oriente Mé-
+dio, África e Estados Unidos, junto
+com a Amazon Web Services”.
+
+O C5 afirma que nunca fez um
+lance para prestação de serviço de
+qualquer tipo em consórcio com a
+AWS em nenhum país e que traba-
+lhou com outros provedores de
+serviços de nuvem.
+
+No entanto, a vice-presidente da
+AWS, Teresa Carlson, e o homem
+por trás do grupo C5, Andre Pie-
+naar, percorreram o mundo pro-
+movendo o relacionamento de
+suas empresas.
+
+As duas companhias também
+uniram forças em um projeto no
+Oriente Médio. A AWS ganhou um
+contrato para desenvolver plata-
+formas de computação em nuvem
+para o Reino do Bahrein, e o C5 fi-
+cou responsável de migrar sites do
+governo para a nuvem.
+
+Pienaar, que está por trás do gru-
+po C5, é um empresário sul-africa-
+no bem relacionado.
+
+O conselho de uma de suas prin-
+cipais empresas, a C5 Capital, tem
+acesso fácil a algumas das figuras
+mais influentes nos círculos mili-
+tares e da área de segurança em
+ambos os lados do Atlântico.
+
+Ele tem ainda ligações com Vik-
+tor Vekselberg, que está na lista de
+sanções dos EUA por seus laços
+próximos com Vladimir Putin.
+
+Questionado pela BBC sobre se
+conhecia Pienaar, Vekselberg dis-
+se que, por dois anos e meio, o do-
+no da C5 prestava serviços a uma
+de suas empresas na África do Sul.
+A parceria chegou ao fim no início
+deste ano.
+
+D I V U LG AÇ ÃO
+
+A M AZO N : serviços em nuvem
+
+

@@ -1,0 +1,299 @@
+32  ATRIBUNA  VITÓRIA, ES, DOMINGO, 06 DE MAIO DE 2018
+
+ELEIÇÃO PROPORCIONAL
+
+Pol í t i ca
+Por que um candidato com
+menos votos se elege?
+
+KADIDJA FERNANDES/AT
+
+FALE COM O EDITOR  GLEBERSON NASCIMENTO  E-MAIL:  politica@redetribuna.com.br
+
+SANDRO LOCUTOR, PROS
+
+O QUE ELES DIZEM
+
+feito ao longo
+
+d e d i c a ç ã o”
+
+de todo o ciclo
+eleitoral, que
+é de quatro anos
+de muita
+
+“É um trabalho
+“Analisamos
+
+o perfil de
+quem está em
+atividade e dos
+políticos que,
+apesar de não
+estarem em
+mandatos, ainda
+possuem força
+
+com o eleitorado”
+
+WEVERSON MEIRELES, PDT
+
+A Tribuna ouviu
+especialistas para
+explicar como são
+eleitos vereadores e
+deputados, o que ainda
+causa dúvidas no eleitor
+
+Tiago AlencarQuando o eleitor vai às urnas,
+
+ele espera que o candidato
+com o maior número de vo-
+tos seja o vencedor da disputa. No
+entanto, no caso da escolha de de-
+putados e vereadores, a lógica não
+costuma ser bem essa.
+
+É que, nesses casos, o sistema
+eleitoral vigente no País é o pro-
+porcional, em que as vagas dispo-
+níveis são distribuídas de acordo
+com desempenho do partido ou da
+legenda formada entre as siglas.
+
+Um exemplo disso é o chamado
+“Efeito Tiririca”, termo usado para
+definir o fenômeno envolvendo a
+votação recebida pelo deputado de
+mesmo nome, o palhaço Tiririca
+(PR-SP), figura conhecida dos pro-
+gramas de humor da TV brasileira.
+Sozinho, em 2016, Tiririca foi ca-
+paz de arrematar 1,016 milhão de
+votos, levando com ele outros dois
+deputados de seu partido, que não
+tiveram votação expressiva. Com
+isso, ele reforçou a performance do
+PR, que conquistou seis cadeiras
+na Câmara dos Deputados.
+
+Por outro lado, nas eleições de
+2002, o ex-secretário José Carlos
+da Fonseca Júnior tentou a reelei-
+ção para deputado federal pelo ex-
+
+tinto PFL. Apesar de tido a segun-
+da maior votação do Estado, com
+92.727 votos, ele não se reelegeu.
+
+O advogado eleitoral Marcelo
+Nunes acredita que o processo po-
+de criar desigualdade. “É um mo-
+delo que pode gerar injustiças”.
+
+É nesse ambiente de briga pelo
+maior número de vagas no Legisla-
+tivo que as figuras dos responsáveis
+por calcular as probabilidades de
+um candidato ocupar ou não um
+cadeira na Assembleia Legislativa,
+por exemplo, entram em cena.
+
+Weverson Meireles faz esse tra-
+balho no PDT estadual. Ele conta
+que, além de pensar no número de
+vagas que o partido pode ter, a ta-
+refa ainda inclui o monitoramento
+do perfil dos candidatos.
+
+“Analisamos o perfil de quem es-
+tá em atividade e dos políticos que,
+apesar de não estarem em manda-
+tos, ainda possuem força com o
+e l e i t o ra d o ”, relatou.
+
+Já sobre a matemática usada pa-
+ra calcular o percentual de vagas a
+que o partido terá direito, Wever-
+son diz que o modelo aplicado é o
+mesmo no Brasil inteiro.
+
+“É assim: a gente pega o quanto
+foi necessário para eleger um de-
+putado nas últimas eleições gerais;
+em 2014, por exemplo, foram 50
+mil votos para uma vaga. A partir
+daí, começamos a juntar os nomes
+que podem alcançar ou ultrapas-
+sar essa estimativa”, disse.
+
+Responsável por fazer as contas
+no Pros, o deputado Sandro Locu-
+tor revelou a importância desta
+ação. “É um trabalho feito ao longo
+de todo o ciclo eleitoral, que é de
+quatro anos de muita dedicação”.
+
+NA PAULOCITY, A CÂMARA É COMPOSTA POR 10 VEREADORES E
+FORAM COMPUTADOS 11 MIL VOTOS NAS ÚLTIMAS ELEIÇÕES.
+
+MATEMÁTICA NA POLÍTICA
+Como são eleitos os deputados e vereadores?
+Sistema
+p ro p o rc i o n a l
+Paulo ouve por todo lado as
+pessoas dizendo que alguns
+candidatos “l eva m ” outros me-
+nos votados com eles. Isso é fa-
+to ou mito? É verdade! Candida-
+tos bem votados, como Tiririca
+– um dos mais votados em São
+Paulo nas eleições para depu-
+tado federal em 2010 e 2014 –
+acabam ajudando outros me-
+nos votados. Quer entender co-
+mo isso acontece?
+
+No total são 11 mil votos
+Desses, temos 1 mil votos
+nulos e brancos
+Computados todos os votos e ex-
+cluindo os nulos e brancos, obtém-se:
+
+10.000
+votos válidos
+10 ca d e i ra s
+da câmara de
+ve rea d o re s
+
+Divide-se, então, os votos válidos
+pelo número de cadeiras da câmara
+de vereadores:
+
+10.000
+votos válidos
+Destinados a 10 ca d e i ra s
+da câmara de vereadores
+
+Esse é o número mínimo de votos que
+um partido ou coligação deve fazer para
+eleger um vereador nessa cidade.
+
+O sistema para eleger depu-
+tados e vereadores se chama
+proporcional, pois as vagas são
+distribuídas proporcionalmen-
+te entre partidos e coligações.
+Mas como assim proporcio-
+nalmente? Imaginemos a se-
+guinte hipótese...
+
+VEJAM A DISPUTA:
+Partido A
+Partido B
+Partido C
+Partido D
+Partido E
+
+1 mil votos
+1,5 mil votos
+500 votos
+4 mil votos
+3 mil votos
+
+01 cadeira
+01 cadeira
+nenhuma cadeira
+04 cadeiras
+03 cadeiras
+
+No total foram
+ocupadas
+9 cadeiras
+
+SA N D R O
+LOCUTOR E
+WEVERSON
+MEIRELES são
+re s p o n s áve i s ,
+em seus
+partidos, por
+calcular as
+p ro b a b i l i d a d e s
+de um
+c a n d i d at o
+ocupar ou não
+um cadeira
+na Assembleia
+L e g i s l at i va
+
+EPA, MAS NÃO
+ERAM DEZ
+CADEIRAS? O
+QUE ACONTECE
+COM A VAGA
+QUE RESTOU?
+
+Isso se resolve fazendo uma simulação: a cadeira
+restante é entregue para todos os partidos e/ou co-
+ligações para ver quantos votos válidos por cadeira
+cada um deles tem. Então divide-se o número de votos
+válidos pelo número de cadeiras já obtidas + a cadeira
+restante. Quem tiver mais votos válidos por cadeira
+nessa simulação, vence.
+
+CÁLCULO PARA DEFINIR O PARTIDO/COLIGAÇÃO QUE FICARÁ COM A VAGA
+
+A-Vo t o s B- Cadeiras+1 Simulação A/B Resultado A/B Ve n c e d o r
+
+1.000
+vo to s
+
+Partido A 1000
+Partido B 1500
+500
+Partido C
+Partido D 4000
+Partido E 3000
+
+1+1=2
+1+1=2
+Ne n h u m
+4+1=5
+3+1=4
+
+1000/2
+1500/2
+Ne n h u m
+4000/5
+3000/4
+
+500
+750
+Ne n h u m
+800
+750
+
+Por esse cálculo, o partido D é quem fica com a
+vaga restante. Portanto, em vez de 4, ele terá di-
+reito a colocar 5 vereadores nessa eleição.
+
+Dentro do partido, as cadeiras são distribuídas pela
+ordem do mais votado para o menos votado. Ou seja,
+no partido D, do 1º ao 5º mais votados dentro do
+partido serão eleitos vereadores, os demais, não.
+
+Tem mais um de-
+talhe: os candida-
+tos precisam ter
+votação maior ou
+igual a 10% do
+quociente eleito-
+ral. Ou seja, quem
+obtiver menos de
+100 votos nesta
+simulação está
+f o ra !
+
+

@@ -1,0 +1,764 @@
+Ec o n o m i a
+
+I n d i ca d o re s
+
+CDB (14/11)
+PRAZO/DIAS ÚTEIS M O DA L I DA D E
+30/21 dias
+180/121 dias
+FO N T E : U n i l e t ra .
+
+CDBPRE 30
+CDBPRE 180
+
+TAXA A.M.
+0, 4 9 6 %
+0, 5 05 %
+
+TAXA A.A.
+6,12%
+6,23%
+
+CDI
+PERÍODO
+CDI acumulado mensal
+CDI acumulado 12 meses
+
+TAXA S
+PERÍODO
+de 21/10 a 21/11
+de 22/10 a 22/11
+de 23/10 a 23/11
+de 24/10 a 24/11
+de 25/10 a 25/11
+de 26/10 a 26/11
+
+P O U PA N ÇA
+DATA * * DEPÓSITO ATÉ
+
+3/5/2012* (%)
+0, 5 0 0 0
+0, 5 0 0 0
+0, 5 0 0 0
+0, 5 0 0 0
+0, 5 0 0 0
+
+10/11
+11/11
+12/11
+13/11
+14/11
+
+PERCENTUAL
+1 ,0 05 4 3 0 4 24 9 4 4 3 8 %
+6,55%
+
+TR (%)
+0
+0
+0
+0
+0
+0
+
+TBF (%)
+0, 4 6 4 2
+0, 4 8 7 5
+0, 4 8 6 7
+0, 4 8 6 4
+0, 4 6 3 3
+0, 4 4 0 4
+
+A PARTIR DE
+4/5/2012* (%)
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+
+DATA * * DEPÓSITO ATÉ
+
+3/5/2012* (%)
+0, 5 0 0 0
+0, 5 0 0 0
+0, 5 0 0 0
+0, 5 0 0 0
+0, 5 0 0 0
+
+15/11
+16/11
+17/11
+18/11
+19/11
+
+A PARTIR DE
+4/5/2012* (%)
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+
+(*) RENDIMENTO DA APLICAÇÃO FEITA HÁ 30 DIAS.
+(**) OS RENDIMENTOS OCORREM DO DIA 1º AO DIA 28, EM TODOS OS MESES.
+OBS: DEPÓSITOS A PARTIR DE 04/05/2013 RENDEM 70% DA SELIC MAIS TAXA REFERENCIAL (TR), SE A
+TAXA DE JUROS FOR IGUAL OU INFERIOR A 8,5% AO ANO. EM APLICAÇÕES ANTES DISSO E QUANDO A
+SELIC FOR ACIMA DE 8,5%, O RENDIMENTO É DE 6% AO ANO MAIS A TR.
+
+IMPOSTO DE RENDA ( N OV E M B R O)
+R E N D I M E N TO
+Até R$ 1.903,98
+De R$ 1.903,99 até R$ 2.826,65
+De R$ 2.826,66 até R$ 3.751,05
+De R$ 3.751,06 até R$ 4.664,68
+Acima de R$ 4.664,68
+
+A L Í Q U OTA
+isento
+7, 5 %
+15%
+22,5%
+2 7, 5 %
+
+D E D U ÇÃO
+–
+R$ 142,80
+R$ 354,80
+R$ 636,13
+R$ 869,36
+
+D E D U Ç Õ ES : R$ 189,59 POR DEPENDENTE; PENSÃO ALIMENTÍCIA JUDICIAL; VALOR DA CONTRIBUIÇ ÃO
+PAGA, NO MÊS, À PREVIDÊNCIA OFICIAL E A ENTIDADES DE PREVIDÊNCIA PRIVADA NO BRASIL .
+
+INSS ( N OV E M B R O)
+E M P R EG A D O S
+SALÁRIO DE CONTRIBUIÇÃO
+Até R$ 1.693,72
+De R$ 1.693,73 a R$ 2.822,90
+De R$ 2.822,91 a R$ 5.645,80
+
+ALÍQUOTA (INSS)
+8%
+9%
+11%
+
+O DESCONTO DOS EMPREGADOS RELATIVO À PREVIDÊNCIA RESPEITA O TETO MÁXIMO DE R$ 5.645,80
+— QUEM RECEBE SALÁRIOS SUPERIORES A ESSE VALOR SÓ CONTRIBUI ATÉ ESSE LIMITE MÁX I M O,
+CORRESPONDENDO A 11% (R$ 621,03).
+CONTRIBUINTE INDIVIDUAL E FACULTATIVO
+SALÁRIO-BASE DE CONTRIBUIÇÃO
+Valor mínimo
+Valor máximo
+
+R$
+95 4
+5.645,80
+
+R$
+104,94
+1 . 1 2 9, 1 6
+
+%
+11
+20
+
+COTAÇÕES DO CAFÉ (14/11)
+Arábica tipo 6, Bebida Dura, com até 12% de umidade
+Arábica tipo 7, Bebida Rio, com até 12% de umidade
+Conilon 7 com até 13% de umidade e até 10% de broca
+
+BOLSA DE MERCADORIAS (14/11)
+P R O D U TO
+P R EÇ O
+MÍNIMO
+R$ 145
+R$ 140
+R$ 125
+
+U N I DA D E
+
+Boi gordo castrado
+Boi gordo inteiro
+Vaca gorda
+Frango abat. int. resfriado
+Suíno abat. carca. com.
+Ovos brancos extra
+Ovos vermelhos extra
+Feijão - carioquinha
+Feijão -preto
+Feijão -vermelho
+Banana-prata clim. 1ª
+Banana-terra clim. extra
+Coco-verde grande
+Goiaba vermelha extra
+Laranja-pera tipo 113/140
+Limão Taiti
+Mamão Havaí tipo 15/18
+Maracujá extra
+Milho verde
+Morango extra
+A b ó b o ra - j a c a r é
+Alface lisa grande
+Alho imp. branco chinês
+Aipim extra
+Batata inglesa comum
+Batata-baroa amarela
+Batata- doce
+Beterraba extra
+Cebola amarela
+Cenoura extra
+Chuchu extra
+Couve-flor extra
+Jiló extra
+Pepino extra
+Pimentão extra
+Quiabo extra
+Repolho branco extra
+Tomate longa vida ext. AA
+
+FO N T E : I n c a p e r / Ce a s a - E S / Ave s / A s e s .
+
+Arroba
+Arroba
+Arroba
+kg
+kg
+Caixa 30 dz
+Caixa 30 dz
+kg
+kg
+kg
+kg
+kg
+Unidade
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+
+–
+–
+R$ 74
+R$ 85
+R$ 2,78
+R$ 3,33
+R$ 4
+R$ 0,72
+R$ 2
+R$ 1
+R$ 2,81
+R$ 1,60
+R$ 3,80
+R$ 1,77
+R$ 4
+R$ 1,12
+R$ 9,39
+R$ 1,32
+R$ 1,78
+R$ 8,83
+R$ 1,25
+R$ 1,30
+R$ 5
+R$ 2,04
+R$ 1,27
+R$ 1,90
+R$ 1,50
+R$ 0,43
+R$ 2,13
+R$ 2,62
+R$ 0,51
+R$ 2,89
+R$ 4,36
+R$ 0,53
+R$ 3,33
+
+R$ 425
+R$ 369
+R$ 322
+
+P R EÇ O
+M ÁX I M O
+R$ 145
+R$ 146
+R$ 142
+
+–
+–
+R$ 75
+R$ 85
+R$ 2,89
+R$ 3,33
+R$ 4
+R$ 0,80
+R$ 2
+R$ 1
+R$ 3,07
+R$ 1,63
+R$ 3,80
+R$ 1,88
+R$ 4,42
+R$ 1,33
+R$ 10,28
+R$ 1,32
+R$ 2,22
+R$ 9,36
+R$ 1,25
+R$ 1,50
+R$ 5,21
+R$ 2,13
+R$ 1,28
+R$ 2
+R$ 1,50
+R$ 0,49
+R$ 2,50
+R$ 2,74
+R$ 0,56
+R$ 3,33
+R$ 4,55
+R$ 0,65
+R$ 4
+
+P R EÇ O
+MÉDIO
+R$ 145
+R$ 144,46
+R$ 139,49
+R$ 5,09
+R$ 7,31
+R$ 75
+R$ 85
+R$ 2,83
+R$ 3,33
+R$ 4
+R$ 0,76
+R$ 2
+R$ 1
+R$ 2,93
+R$ 1,62
+R$ 3,80
+R$ 1,81
+R$ 4,25
+R$ 1,21
+R$ 9,83
+R$ 1,32
+R$ 2
+R$ 9,08
+R$ 1,25
+R$ 1,40
+R$ 5,13
+R$ 2,08
+R$ 1,28
+R$ 1,95
+R$ 1,50
+R$ 0,46
+R$ 2,38
+R$ 2,68
+R$ 0,53
+R$ 3,13
+R$4,43
+R$ 0,59
+R$ 3,63
+
+VITÓRIA, ES, SEXTA-FEIRA, 16 DE NOVEMBRO DE 2018  ATRIBUNA  19
+
+FERNANDO RIBEIRO - 11/07/2010
+
+AULA DE MECÂNICA: curso está entre as opções para os aprendizes
+
+Jovem Aprendiz
+da Vale inscreve
+para 125 vagas
+
+Prazo para inscrição
+vai até o dia 23, e os
+selecionados vão poder
+estudar Eletrotécnica,
+Mecânica e Edificações
+com bolsa de R$ 520
+
+Thiago SobrinhoEstão abertas as inscrições pa-
+
+ra o Programa Jovem Apren-
+diz da Vale. Ao todo são 125
+vagas para cursos técnicos de Ele-
+trotécnica, Mecânica e Edifica-
+ções nas unidades do Senai de Vila
+Velha e Serra.
+
+O prazo para se inscrever vai até
+dia 23 deste mês. As provas acon-
+tecem no dia 6 de dezembro e os
+aprovados receberão bolsa-auxílio
+de R$ 520,47.
+
+A prova é de múltipla escolha
+das disciplinas de Português, Ma-
+temática e Física. Podem partici-
+
+par do processo seletivo estudan-
+tes que já concluíram ou estão ma-
+triculados no segundo ano do en-
+sino médio e tenham nascido en-
+tre 5 de fevereiro de 2001 e 4 de fe-
+vereiro de 2003.
+
+Durante o curso, os jovens terão
+contato com atividades operacio-
+nais por meio de qualificação pro-
+fissional técnica.
+
+Para efetuar a inscrição, o candi-
+dato deve comparecer ao Senai
+com cópias e originais dos docu-
+mentos de identidade, CPF, Car-
+teira de Trabalho e também o
+comprovante de residência atuali-
+zado – como contas recebidas nos
+últimos três meses via Correios.
+
+É necessário ainda histórico ou
+declaração original que comprove
+a série cursada ou a conclusão do
+curso. Outra exigência é a ficha de
+inscrição com dados pessoas e os
+cursos escolhidos.
+
+As informações completas estão
+no site www.vale.com/oportuni-
+d a d e s.
+
+Ford e Walmart fecham
+parceria de entregas
+
+Ford Motor, Walmart e o serviço de entregas Post-
+mates irão trabalhar em conjunto para desenvolver
+um negócio de entregas de mantimentos e outros
+bens para clientes da varejista americana, que no fu-
+turo poderia usar veículos autônomos (sem motoris-
+ta), disseram as empresas.
+
+O projeto é o mais recente esforço mais amplo da
+Ford para desenvolver negócios que poderiam usar
+veículos de entrega automatizados. A Ford já estava
+trabalhando com a Postmates, de São Francisco, para
+desenvolver serviços de entrega que pudessem utili-
+zar veículos autônomos.
+
+SELIC
+PERÍODO
+Taxa selic acumulada no ano
+Taxa selic de um dia
+
+CÂMBIO (14/11)
+M O E DA S
+Dólar comercial
+Dólar turismo (espécie)
+Euro (espécie)
+Dólar canadense
+Franco suíço
+Ie n e
+Libra esterlina
+
+PERCENTUAL
+6,40%
+1 ,0 0 0 24 6 2 0 %
+
+COMPRA
+R$ 3,7818
+R$ 3,75
+R$ 4,25
+R$ 2,8678
+R$ 3,7651
+R$ 0,03328
+R$ 4,9271
+
+V E N DA
+R$ 3,7822
+R$ 3,98
+R$ 4,58
+R$ 2,8691
+R$ 3,7672
+R$ 0,03329
+R$ 4,9294
+
+FONTE: Banestes, Banco Central e CMA.
+
+BOLSA NO BRASIL (14/11)
+I B OV ES PA
+AÇ ÃO
+Banestes ON (BEES3)
+Petrobras ON (PETR3)
+Petrobras PN (PETR4)
+Vale ON (VALE3)
+Vale PNA (VALE5)*
+Fibria ON (FIBR3)
+Oi ON (OIBR3)
+Usiminas PNA (USIM5)
+B. do Brasil ON (BBAS3)
+Eletrobras PNB (ELET6)
+
+85.97 3
+C OTAÇÃO
+R$ 4,18
+R$ 27,19
+R$ 25,10
+R$ 55,16
+-
+R$ 72,20
+R$ 2,26
+R$ 9,15
+R$ 41,77
+R$ 26,15
+OBS.: (*) Não houve registros para essa ação.
+
+M
+L
+L
+M
+
++1,25% L
+VA R I AÇÃO
+-1,42%
++1,84%
++3,55 %
+-1,97%
+-
++1,99%
+-11,7 2%
+-2 ,76 %
++ 0, 1 7 %
++ 0, 6 9 %
+
+L
+M
+M
+L
+L
+
+BOLSAS NO MUNDO (15/11)
+M E R CA D O
+Na s d a q - 1 0 0
+Dow Jones (EUA)
+Londres (Inglaterra)
+Paris (França)
+Tóquio (Japão)
+Merval (Argentina)
+Frankfurt (Alemanha)
+Bolsa de Xangai (China)
+
+P O N TO S
+7. 2 5 9, 1 4
+2 5 . 2 8 2 ,0 0
+7.03 8 ,0 1
+5 .03 3 , 6 2
+2 1 . 8 03 , 6 2
+2 9.76 7, 8 2
+1 1 . 3 3 6 ,7 8
+2.668,17
+FONTE: CMA, UOL, Estadão e sites das Bolsas.
+
+VA R I AÇÃO
++1,7 2%
++ 0, 8 0 %
++ 0,0 6 %
+- 0,70%
+- 0,20%
++1,35%
+- 0,66%
++1,36%
+
+L
+L
+L
+M
+M
+L
+M
+L
+
+INFLAÇÃO (%)
+
+0,44
+
+0,28
+
+0,29
+
+0,32
+
+0
+
+IPCA
+
+0,09 0,22 0,40 1,26
+
+12 meses: 4,53%
+
+0,33 -0,09
+
+0,48
+
+JUL .
+
+AG O S.
+
+ÍNDICE
+
+SETEM. AC U M .
+
+Nov  Dez  Jan   Fev   Mar   Abr   Mai  Jun   Jul   Ago   Set
+ACUM. 12
+M ES ES
+3,7 2
+1 0,0 4
+3,46
+1 0, 3 3
+3,97
+3,84
+4,52
+
+0, 24
+IPC-DI (FGV)
+0, 5 1
+IGP-M (FGV)
+0, 2 3
+IPC-SP (Fipe)
+0, 4 4
+IGP-DI (FGV)
+INPC (IBGE)
+0, 2 5
+INCC IGP (FGV) 0, 6 1
+ICV-SP (Dieese) 0, 1 4
+
+0, 3 1
+0,7 0
+0, 4 1
+0, 6 8
+0
+0, 4 6
+- 0,09
+
+ANO
+2,90
+8,29
+2,27
+8,54
+3,14
+3,10
+3,17
+
+0, 3 7
+1,52
+0, 3 9
+1,7 9
+0, 3 0
+0, 1 6
+0, 5 5
+
+REAJUSTES DE ALUGUEL
+Í N D I C ES ACUMULADO % ATÉ JULHO (*)
+
+ACUMULADO % ATÉ AGOSTO (*)
+
+1,41
+4,56
+4,39
+2,34
+
+TRIM. QUADR . SEM.
+1,44
+0, 9 9
+Fi p e
+5,31
+IGP -DI
+3,60
+5,13
+IGP -M 3,7 9
+INPC
+2,12
+2,59
+(*) ACUMULADO ATÉ JULHO REAJUSTA ALUGUÉIS E CONTRATOS A PARTIR
+DE AGOSTO, PARA PAGAMENTO EM SETEMBRO; ACUMULADO ATÉ AGOSTO
+REAJUSTA A PARTIR DE SETEMBRO, PARA PAGAMENTO EM OUTUBRO.
+
+ANUAL TRIM. QUADR . SEM.
+2 ,76
+1 , 83
+5,86
+8,59
+5 ,7 8
+8 , 24
+3,61
+2,41
+
+1,86
+4,30
+4,52
+2,12
+
+1,66
+2,62
+3,10
+-
+
+ANUAL
+3 ,0 8
+9,0 6
+8,89
+3,64
+
+OUTROS ÍNDICES
+SALÁRIO MÍNIMO
+Valor de Referência do Tesouro Estadual (VRTE)
+Ouro (grama — 14/11 — M — -1,42%)
+Unidade Fiscal de Referência (Ufir)
+Taxa de Juros de Longo Prazo (TJLP) (% a.a.)
+
+FO N T E : U n i l e t ra / Co m a r.
+
+R$ 954
+R$ 3,27 26
+R$ 145,40
+R$ 1,0641
+0, 5 6 2 5 %
+
+CUSTO DA CONSTRUÇÃO (C U B)
+M ÊS
+Outubro R$ 1.590,22
+Se t e m b r o R$ 1.588,41
+Agosto
+R$ 1.584,31
+
++ 0, 1 1 %
++ 0, 2 6 %
++ 0, 2 0 %
+
++2,57%
++2,46%
++2,19%
+
+VALOR (M2) VARIAÇÃO MENSAL VARIAÇÃO ANUAL
+
+

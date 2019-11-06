@@ -1,0 +1,192 @@
+VITÓRIA, ES, QUINTA-FEIRA, 09 DE AGOSTO DE 2018  ATRIBUNA  31
+
+Ciência e Tecnologia
+Americanos criam máquina
+que faz novos remédios
+
+O robô, alimentado com
+1,7 milhão de moléculas
+biologicamente ativas,
+estuda combinações
+químicas e testa se a
+droga terá resultado
+
+D I V U LG AÇ ÃO
+
+SÃO PAULOTodo dia surge uma notícia
+
+sobre alguma proeza de
+softwares de inteligência ar-
+tificial. As máquinas estão longe
+de alcançar seu potencial, e isso dá
+a impressão de que, no futuro, não
+haverá uma única coisa que elas
+não sejam capazes de realizar.
+
+Um software criado pela Uni-
+versidade da Carolina do Norte,
+nos EUA, chamado de Reinforce-
+ment Learning for Structural Evo-
+lution (ReLeaSE), parece ter ad-
+quirido uma das habilidades hu-
+manas mais avançadas: a capaci-
+dade de criar novos remédios.
+
+Para isso, o robô foi alimentado
+com informações sobre 1,7 milhão
+de moléculas biologicamente ati-
+vas (ou seja, que podem ser utiliza-
+das em medicamentos). Ele é com-
+posto por dois entes virtuais, bati-
+zados de “professor ” e “aluno”.
+
+O aluno é responsável por estu-
+dar possíveis combinações de
+compostos químicos, e apresentar
+os resultados a outra rede neural: o
+
+REMÉDIOS: software conta com duas redes neurais que criam e avaliam a droga sem a ajuda de humanos
+
+professor, que realiza simulações
+para prever se a droga terá o resul-
+tado desejado e decide se aprova o
+resultado final. Com isso, o siste-
+ma realiza uma autocorreção e re-
+visão, sem precisar da ajuda de um
+humano. As informações são do si-
+te da Superinteressante.
+
+Segundo o cocriador do projeto,
+Olexandr Isayev, a intenção é per-
+
+mitir que os cientistas encomen-
+dem novos medicamentos ao
+software, de acordo com a doença
+que estiverem estudando num de-
+terminado momento.
+
+“A capacidade de projetar novas
+combinações químicas, que po-
+dem ser patenteadas e possuem
+atividades biológicas específicas e
+perfis de segurança ideais, deve
+
+ser altamente atraente para a in-
+d ú st r i a ”, disse Alexander Tropsha,
+outro coautor, ao Science Daily.
+
+A equipe publicou detalhes da
+criação na revista Science Advan-
+ces, na semana passada. No mo-
+mento, trabalha na busca por com-
+postos com capacidade de inibir a
+principal enzima responsável pela
+leucemia.
+
+Estudo diz
+que flúor
+é essencial
+contra cáries
+
+O flúor, que passou a compor
+a fórmula dos cremes dentais
+em 1955 em todo o mundo, vem
+sendo excluída em versões mais
+“n a t u ra i s ” de pastas.
+
+Acontece que ela é essencial
+para prevenir a cárie, já que ace-
+lera a recomposição do esmalte,
+desgastado constantemente por
+bactérias que se alimentam de
+restos de comida (principal-
+mente açúcares) e provocam a
+corrosão da camada superficial
+(em casos graves, de partes mais
+profundas) do dente.
+
+Um estudo publicado na últi-
+ma segunda-feira no Gerodon-
+tology, periódico especializado
+em odontologia, reforça essa
+h i st ó r i a .
+
+O time de pesquisadores da
+Universidade de Washington,
+nos Estados Unidos, chegou a
+essa conclusão após revisar tra-
+balhos científicos que acompa-
+nharam adolescentes que usa-
+vam apenas fio dental e escova
+(sem pasta) para limpar a boca.
+Notou-se que a prática não
+reduziu os índices de cárie en-
+tre eles – até porque, muitas ve-
+zes, as cavidades aparecem em
+áreas que não são facilmente al-
+c a n ç a d a s.
+
+Embora o uso de cremes den-
+tais fluoretados seja recomen-
+dado por especialistas e entida-
+des odontológicas, muitas pes-
+soas – inclusive dentistas –
+acreditam que uma boa escova-
+ção bastaria para evitar que os
+dentes fiquem esburacados.
+
+Encontrado brinco de 2,2 mil anos
+
+D I V U LG AÇ ÃO
+
+MENAHEM KAHANA/AFP
+
+TEL AVIV
+
+Arqueólogos israelenses revela-
+ram ontem um brinco de ouro de
+mais de 2,2 mil anos. A joia repre-
+senta a cabeça de um animal com
+chifres, a primeira descoberta des-
+te tipo em Jerusalém.
+
+O aro, de estilo helenístico, foi
+descoberto durante escavações em
+um sítio arqueológico chamado
+Cidade de Davi e foi objeto de um
+
+BRINCO descoberto em escavações
+
+artigo científico no ano passado,
+mas ainda não havia sido apresen-
+tado à imprensa.
+
+“Não sabemos muito sobre Jeru-
+salém na época helenística, nos sé-
+culos III e II antes de nossa era”,
+explicou Yuval Gadot, professor
+na Universidade de Tel Aviv e co-
+diretor das escavações.
+
+A cidade “não deixava entrar ob-
+jetos procedentes do mundo exte-
+rior ”, acrescentou, de modo que
+
+encontrar um brinco de estilo gre-
+go “é muito surpreendente”.
+
+Não se sabe se o brinco era usa-
+do por um homem ou uma mu-
+lher, assim como sua religião.
+
+A qualidade da joia e o fato de ter
+sido descoberta perto do Monte do
+Templo, onde se elevava o templo
+judaico de Jerusalém destruído pe-
+los romanos no ano 70 de nossa era,
+levam a supor que seu proprietário
+pertencia a uma classe privilegiada.
+
+FLÚOR ajuda na escovação
+
+

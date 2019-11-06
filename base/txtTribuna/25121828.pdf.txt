@@ -1,0 +1,258 @@
+28  ATRIBUNA  VITÓRIA, ES, TERÇA-FEIRA, 25 DE DEZEMBRO DE 2018
+
+Ciência e Tecnologia
+Avanços que vão deixar
+computadores mais rápidos
+
+Novos materiais e
+outros progressos na
+tecnologia prometem
+capacidade cada
+vez maior, de forma
+mais compacta
+
+N os últimos 50 anos, uma
+
+previsão de Gordon Moore,
+um dos fundadores da em-
+presa de tecnologia Intel, dedicada
+à fabricação de microprocessado-
+res para computadores, está se
+cumprindo. Em 1965, o engenhei-
+ro disse que, a cada 18 meses, os
+microprocessadores se tornariam
+duas vezes mais rápidos, usando
+metade da energia e teriam meta-
+de do tamanho atual.
+
+Pouco depois, ele ajustou o cál-
+culo dizendo que levaria 24 meses
+e não 18. Foi assim que nasceu a
+chamada “Lei de Moore”.
+
+O empreendedor chegou a essa
+hipótese empiricamente, confir-
+mada com a passagem do tempo.
+Além de afirmar que a capacida-
+de de processamento por compu-
+tadores aumentaria exponencial-
+mente, Moore previu que, ao mes-
+mo tempo, o custo de fabricação
+dos componentes envolvidos di-
+minuiria.
+
+A Lei de Moore acertou ao en-
+xergar que os computadores fun-
+cionariam mais e mais rapidamen-
+te ao longo dos anos. No entanto,
+essa progressão tem um limite.
+
+Os transistores (componentes
+
+FOTOS: DIVULGAÇÃO
+
+PLACA DE COMPUTADOR: progressão na melhoria da capacidade de processamento tem um limite
+
+eletrônicos que fazem parte dos
+circuitos dos microprocessadores
+e amplificam os sinais elétricos) se
+tornaram menores com o passar
+do tempo, mas chegará um mo-
+mento em que seu tamanho não
+poderá continuar diminuindo.
+
+Se forem pequenos demais, não
+poderão funcionar adequadamen-
+
+te. Os elétrons começariam a pular
+e a chegar a lugares onde não de-
+veriam. Por outro lado, se são colo-
+cados muitos elétrons para que o
+computador funcione mais rápido,
+há o risco de que o chip queime.
+
+Os fabricantes de chips estão há
+muitos anos cientes destas dificulda-
+des à vista. Tanto que tornou-se tão
+
+difícil e caro acompanhar o ritmo da
+Lei de Moore, que muitas empresas
+do ramo jogaram a toalha.
+
+Isso não significa, no entanto,
+que a batalha esteja perdida. As in-
+formações são da BBC Brasil, que
+resumiu algumas inovações tecno-
+lógicas que devem resolver o pro-
+blema.
+
+OS AVANÇOS
+1 A via quântica
+Em vez de usar bits (na computação
+tradicional, trata-se da unidade que
+alterna “um ” e “ze ro” em sequências
+longas), a tecnologia quântica traba-
+lha com blocos chamados qubits, ou
+bits quânticos. Eles usam as proprie-
+dades quase mágicas das partículas
+subatômicas. Elétrons ou fótons, por
+exemplo, podem estar em dois estados
+
+ao mesmo tempo — um fenômeno
+chamado superposição. Como resul-
+tado, um computador de qubit pode
+fazer cálculos muito mais rapidamen-
+te que um computador convencional.
+2 Os processadores
+de grafeno
+Materiais exóticos com potencial
+
+USO de computador: biologia aliada às máquinas para melhor performance
+
+para serem usados na eletrônica têm
+sido progressivamente descobertos.
+Um deles é o grafeno, composto por
+moléculas de carbono e 40 vezes mais
+resistente que o diamante. Este mate-
+rial é um forte candidato para substi-
+tuir os chips de silício, porque é ótimo
+como condutor de eletricidade.
+
+As universidades americanas já fi-
+zeram experimentos em que transis-
+tores de grafeno trabalharam mil ve-
+zes mais rápido que os transistores
+de silício usados hoje. Tendo menos
+resistência elétrica, a velocidade dos
+processadores de grafeno pode ser
+aumentada na casa dos milhares e,
+mesmo assim, usar menos energia do
+que a tecnologia convencional.
+3 O memristor
+Trata-se de um componente eletrô-
+nico hipotético concebido por Leon
+Chua, um teórico dos circuitos, no iní-
+cio dos anos 70. Esse componente
+gravaria o fluxo de corrente elétrica
+que circulou, e a resistência se adap-
+taria a essa memória.
+
+Se organizados da maneira correta,
+os memristors poderiam substituir os
+transistores. E como mais memristors
+podem ser inseridos num chip que
+
+transistores, o computador trabalha-
+ria mais rápido e teria mais capacida-
+de de armazenamento.
+4 Os chips vivos
+Muitos estão trabalhando na cons-
+trução de computadores inspirados
+no funcionamento do cérebro.
+
+O projeto Cérebro Humano, por
+exemplo, é financiado pela União Eu-
+ropeia e dedica-se à pesquisa de no-
+vos algoritmos que podem replicar o
+funcionamento do cérebro. Mas há al-
+guns que vão ainda mais longe.
+
+É o caso da Koniku, a primeira em-
+presa dedicada ao desenvolvimento
+de dispositivos eletrônicos usando
+neurônios de verdade.
+
+Eles modificam o DNA dos neurô-
+nios para que tenham certas peculia-
+ridades e que se mantenham vivos por
+dois anos em um chip.
+
+O objetivo da empresa é criar verda-
+deiros processadores biológicos que
+combinariam o poder matemático das
+máquinas às poderosas capacidades
+cognitivas do cérebro humano.
+
+Na prática, processadores do tipo
+poderiam ser usados, por exemplo,
+para detectar o cheiro de drogas ou
+ex p l o s i vo s .
+
+Cai o mito de
+que tartarugas
+marinhas
+são fiéis
+
+As tartarugas marinhas não
+são animais tão fiéis como se
+pensava. Elas podem “trair ”
+seus locais de nascimentos e de-
+sova (não voltando sempre ao
+mesmo, como é a crença geral),
+seus parceiros e até suas espé-
+c i e s.
+
+Pelo menos é o que mostram
+dois estudos genéticos de popu-
+lações desses répteis de vários
+locais do mundo, inclusive o
+Brasil, realizadas por duas pes-
+quisadoras brasileiras, das uni-
+versidades federais do Espírito
+Santo (Ufes) e do Rio Grande
+(FURG), no Rio Grande do Sul.
+A geneticista Sarah Vargas, da
+Ufes, começou seus estudos
+com tartarugas marinhas em
+2005, quando iniciou seu dou-
+torado na Universidade Federal
+de Minas Gerais (UFMG).
+
+“Trabalhei com as cinco espé-
+cies que ocorrem no Brasil, mas
+com enfoque principal nas tar-
+tarugas-de-couro (Dermoche-
+lys coriácea) e a de-pente (Eret-
+mochelys imbricata), ambas
+ameaçadas de extinção”, conta.
+“Estudei amostras do Brasil e
+do Indo-Pacífico, mas usei se-
+quências genéticas publicadas
+de todo o mundo.”
+
+Sua pesquisa mais importante
+começou em 2008, quando ela
+ficou seis meses no laboratório
+da conservacionista Nancy Fit-
+zSimmons, na Universidade de
+Canberra, na Austrália, organi-
+zando e processando 492 amos-
+tras de DNA de tartarugas-de-
+p e n t e s.
+
+“Elas haviam sido coletadas
+anteriormente, por outros pes-
+quisadores que trabalhavam
+com Nancy, em 13 locais de deso-
+va nos oceanos Pacífico e Índico,
+localizados na Arábia Saudita,
+Arquipélago de Chagos, Austrá-
+lia, Ilhas Salomão, Ilhas Seychel-
+les, Irã e Malásia”, diz Sarah.
+
+Em 2015, como bolsista de
+pós-doutorado do programa
+Ciência sem Fronteiras, do
+Conselho Nacional de Desen-
+volvimento Científico e Tecno-
+lógico (CNPq), ela voltou à Aus-
+trália para a análise dos dados
+no laboratório do professor Si-
+mon Ho, da Universidade de
+Syd n e y.
+
+D I V U LG AÇ ÃO
+
+TARTARUGAS -marinhas
+
+

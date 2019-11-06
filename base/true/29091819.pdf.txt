@@ -1,0 +1,216 @@
+Ec o n o m i a
+
+VITÓRIA, ES, SÁBADO, 29 DE SETEMBRO DE 2018  ATRIBUNA  19
+
+FOTOS: DIVULGAÇÃO
+
+SAIBA MAIS
+Invasores podem ler
+mensagens privadas
+> ATÉ AGORA, O FACEBOOK não regis-
+trou o vazamento de informações
+pessoais na internet, mas especia-
+listas em segurança da informação
+alertam que o roubo de tokens é pe-
+rigoso, pois dá acesso à conta dos
+usuários e todo o seu controle, de
+mensagens privadas a fotos que es-
+tão públicas .
+
+> HOJE, O USUÁRIO faz o login e não
+coloca mais a senha durante um
+mês, por exemplo. É assim no Goo-
+gle, no Facebook. No momento que
+acessa, usa um algoritmo criptográ-
+fico que o reconhece. A pessoa fica
+ligada a um código, sequência de ca-
+racteres conhecida como token.
+
+> COM O TOKEN, o Facebook entende
+que o acesso à rede social por deter-
+minado celular ou máquina é auten-
+ticado e permite a entrada da pessoa
+sem que ela precise digitar a senha.
+> A EMPRESA NÃO anunciou quais paí-
+ses foram afetados, apenas que des-
+logou a conta de 90 milhões de pes-
+soas.
+
+> QUEM NÃO COSTUMAVA colocar a
+senha e precisou fazer isso, há duas
+possibilidades: ou a conta está entre
+as vulneráveis ou, no último ano,
+acessou a função “Ver como”, no
+qual usuários conseguem ver como
+outras pessoas enxergam seu perfil
+na rede social.
+
+> A DICA É VERIFICAR NAS configura -
+ções da conta os dispositivos que es-
+tão conectados a ela e os respectivos
+locais de origem. Se aparecer algu-
+ma cidade que o usuário não esteve,
+é possível que o perfil tenha sido in-
+va d i d o .
+
+> INVASORES PODEM ler mensagens
+privadas, olhar fotos privadas, fazer
+o download delas, bem como alterar
+informações pessoais e se fazer pas-
+sar pelo usuário.
+
+FACEBOOK: notificação a usuários
+
+União quer reduzir
+prazos de leilões
+A menos de 100 dias para o fim
+do mandato do presidente Michel
+Temer, o governo quer mudar pra-
+zos para realizar ainda este ano
+mais três leilões, incluindo 12 ae-
+roportos, uma ferrovia (Norte-
+Sul) e três terminais portuários.
+
+Para isso, quer reduzir de 100
+para 45 dias o intervalo entre a pu-
+blicação dos editais e a realização
+da licitação. Agora, o Planalto quer
+correr com os leilões.
+
+USUÁRIOS da rede social: Facebook informou que investigação está em fase inicial, mas que já corrigiu a vulnerabilidade e resetou o acesso automático
+
+Hackers invadem Facebook
+de 50 milhões de usuários
+
+Os ataques exploraram
+uma vulnerabilidade
+no código do Facebook
+no recurso “Ver como”,
+acessando de fotos a
+mensagens privadas
+
+SÃO PAULOO Facebook informou ontem
+
+que um problema de segu-
+rança afetou quase 50 mi-
+lhões de contas. A falha teria ocor-
+rido na tarde da última terça-feira.
+“Estamos levando isso a sério e
+quisemos informar a todos o que
+ocorreu e as ações imediatas que
+tomamos para proteger a seguran-
+ça das pessoas”, informou a em-
+
+GIRO RÁPIDO
+Correção de precatórios
+sem a inflação
+O ministro do STF Luiz Fux sus-
+pendeu a decisão da Corte que, em
+março de 2015, definiu que as dívi-
+das judiciais de órgãos públicos
+deveriam ser corrigidas pela infla-
+ç ã o.
+
+A medida pode trazer prejuízo
+aos credores de estados, municí-
+pios e da União, como é o caso dos
+segurados do INSS que recorrem
+ao Judiciário para pedir conces-
+sões e revisões de benefícios.
+
+presa, cujas ações tiveram queda
+ontem.
+
+A investigação ainda está em fa-
+se inicial, mas já está claro que os
+ataques exploraram uma vulnera-
+bilidade no código do Facebook li-
+gada ao recurso de “Ver como”, no
+qual usuários conseguem ver co-
+mo outras pessoas, que não são
+suas amigas na rede, enxergam seu
+perfil.
+
+Os hackers conseguiram, por
+meio desse código, roubar tokens
+de acesso às contas. Os tokens de
+acesso são como chaves digitais
+que mantém as pessoas logadas à
+rede para que não tenham de pre-
+encher seu usuário e senha sem-
+pre que acessem suas contas.
+
+Em seu comunicado, o Facebo-
+ok listou algumas ações que foram
+tomadas. Primeiramente, essa vul-
+
+nerabilidade foi corrigida. A em-
+presa também diz que resetou o
+acesso a quase 50 milhões de con-
+tas que certamente foram afeta-
+das, como forma de proteção.
+
+Outras 40 milhões de contas que
+utilizaram o recurso de “Ver co-
+mo” no último ano foram reseta-
+das por precaução. Ou seja, 90 mi-
+lhões de usuários terão de refazer
+o login à rede.
+
+N OT I F I CAÇÃO
+
+Esses usuários receberão uma
+notificação explicando o ocorrido,
+diz a empresa. Além disso, o Face-
+book afirma que vai desabilitar
+temporariamente o recurso de
+“Ver como” para uma revisão de
+s e g u ra n ç a .
+
+“Como começamos agora a in-
+vestigação, ainda não determina-
+
+mos se essas contas foram utiliza-
+das de forma equivocada ou se in-
+formações foram acessadas. Tam-
+bém não sabemos quem está por
+trás desses ataques ou de que loca-
+lidade eles vieram. Estamos traba-
+lhando duro para entender me-
+lhor esses detalhes”.
+
+Disse ainda: “Vamos atualizar
+este post a medida que tivermos
+mais informações, ou se houver
+qualquer mudança. Além disso, se
+encontrarmos mais contas afeta-
+das, iremos resetar imediatamente
+seus tokens de acesso”.
+
+Os 90 milhões de usuários que
+tiveram as contas deslogadas não
+vão conseguir mais entrar na rede
+social de modo automático. Como
+o recurso foi desconectado, eles
+precisam incluir a senha nova-
+m e n t e.
+
+ESTADÃO - 23/05/2017
+
+Justiça condena seis investigados
+pela Operação Carne Fraca
+A Justiça Federal do Paraná condenou ontem seis
+pessoas investigadas na Operação Carne Fraca, que
+apurou um esquema de corrupção na fiscalização de fri-
+goríficos pelo País.
+
+Foram condenados, pelo crime de corrupção passiva,
+os fiscais agropecuários Maria Nascimento, Dinis da Sil-
+va e Welman Oliveira; o ex-superintendente do Ministé-
+rio da Agricultura em Goiás Francisco de Assis; o advo-
+gado José Mapelli e o ex-gerente de Relações Institucio-
+nais da BRF Roney Nogueira dos Santos.
+
+CONDUÇÃO DE PRESOS na Operação Carne Fraca
+
+

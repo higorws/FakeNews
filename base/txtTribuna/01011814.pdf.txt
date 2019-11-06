@@ -1,0 +1,282 @@
+14  ATRIBUNA  VITÓRIA, ES, SEGUNDA-FEIRA, 01 DE JANEIRO DE 2018
+
+ATAQUES NA INTERNET
+
+Ec o n o m i a
+Fraudes que mais dão prejuízo
+
+FALE COM O EDITOR  RAFAEL GUZZO  E-MAIL: economia@redetribuna.com.br
+
+Estudo listou as 10
+principais tendências
+de golpes virtuais
+que consumidores
+e empresas devem
+enfrentar em 2018
+
+Débora Pedroza
+
+Andreia FerreiraUm estudo realizado pela Ea-
+
+sy Solutions, empresa espe-
+cializada na prevenção de
+fraudes eletrônicas, listou as 10
+principais tendências de ataques
+realizados na internet que empre-
+sas e consumidores devem enfren-
+tar em 2018.
+
+Segundo o CEO da Easy Solu-
+tions, Ricardo Villadiego, nenhum
+setor, incluindo bancos, organiza-
+ções governamentais e iniciativa
+privada, entre outros, está imune a
+esse tipo de fraude. A lista traz os
+golpes que mais vão dar prejuízo.
+Ele disse que enquanto os ciber-
+criminosos se especializam na ma-
+nipulação de usuários finais, as ins-
+tituições devem concentrar seus
+esforços em mecanismos eficien-
+tes de autenticação e segurança.
+
+“Para enfrentar os desafios de
+2018, recomendamos que as insti-
+tuições implementem uma solução
+de prevenção de fraude que ofere-
+ça monitoramento proativo 24 ho-
+
+RODRIGO GAVINI - 14/06/2017
+
+PAU LO
+R O B E RTO
+PENHA
+afirma que as
+empresas estão
+cada vez mais
+vulneráveis a
+ataques de
+c i b e rc r i m i n o s o s .
+Ele contou que
+muitos casos
+que já
+a c o n t e c e ra m
+foram por meio
+de sequestro
+de dados
+
+ras por dia e que vá além do sim-
+ples monitoramento de domínios.”
+O especialista alerta sobre bus-
+car soluções que ofereçam prote-
+ção abrangente contra fraudes, in-
+cluindo ameaças digitais, proteção
+de marca e análises de navegação
+segura. Outro ponto é manter os
+sistemas atualizados com pacotes
+
+de software e backups regulares,
+além de ensinar funcionários so-
+bre os perigos das fraudes.
+
+Para o consultor de tecnologia da
+informação e segurança Paulo Ro-
+berto Penha, as empresas estão ca-
+da vez mais vulneráveis a esses ata-
+ques. Ele contou que muitos casos
+que já aconteceram foram por meio
+
+de sequestro de dados, explorando
+as vulnerabilidades conhecidas.
+
+informação”, afirmou. “É preciso capacitar
+
+Ele alerta que as empresas de-
+vem investir em conscientização
+de funcionários sobre o uso da in-
+ternet, como também em backups.
+“É preciso capacitar melhor as
+pessoas na área de segurança da
+
+da informação”
+
+Paulo Roberto Penha, consultor de
+tecnologia da informação e segurança
+
+na área de segurança
+
+melhor as pessoas
+
+para invadir contas e alterar infor-
+mações de contato e políticas de se-
+gurança dos proprietários, obtendo
+acesso livre para senhas, transa-
+ções, saques, etc.
+
+> OS FRAUDADORES d e s e n vo l ve ra m
+meios sofisticados para obter aces-
+so a informações confidenciais, de
+modo que mesmo as pessoas mais
+atentas podem ter dificuldade para
+distinguir sites fraudulentos de sites
+legítimos.
+
+PREVISÕES DE FRAUDES ELETRÔNICAS PARA 2018
+1 - Manipulação de usuários
+> A PREVISÃO é que uma fraude cha-
+mada de “Engenharia Social” se ja
+ainda mais aplicada em 2018. Os ata-
+ques se concentram em obter dados
+pessoais por meio de falsos relatos,
+como sequestro de filhos, e assim fa-
+zem com que o usuário passe infor-
+mações como senha de contas digi-
+tais, por exemplo.
+2 - Inteligência artificial
+> AS TECNOLOGIAS de inteligência ar-
+tificial estão sendo usadas pelos cri-
+minosos para criar caos e prejudicar
+usuários domésticos e empresas.
+Cr iand o sites de phishing (maneira
+de pescar os dados) e malwares (es-
+pécie de vírus) capazes de escapar
+dos sistemas de detecção.
+3 - Ataques a contas bancárias
+> OS CRIMINOSOS estão usando da-
+dos obtidos ilicitamente, acessando
+contas bancárias e abrindo novas
+contas para cometer fraudes.
+
+> OS CRIMINOSOS podem, ainda, em-
+pregar URLs e certificados digitais
+legítimos em páginas maliciosas, e
+usar dois ou mais canais institucio-
+nais, como apps e perfis falsos em
+redes sociais, para obter informa-
+ções pessoais e depois acessar uma
+ou várias contas.
+5 - Ciberataques políticos
+> REAIS ou imaginários, os ataques se-
+rão usados para obter vantagens po-
+líticas. Essa tendência deve aumen-
+
+tar, especialmente com a identifica-
+ção de graves riscos de segurança em
+infraestruturas críticas, como redes
+elétricas, sistemas de água e comuni-
+cações. Como a maioria das transa-
+ções e das atividades de empresas,
+governos e indivíduos é realizada di-
+gitalmente, garantir a segurança na
+internet é uma necessidade.
+6 - Ameaças no celular
+> APPLE E GOOGLE continuam a au-
+mentar a segurança de seus disposi-
+tivos para proteger os usuários de
+ataques genéricos, como roubo de
+dados por aplicativos utilitários.
+
+> NO ENTANTO, pontos de acesso à in-
+ternet inseguros (como redes wi-fi)
+são condições ideais para os ataques.
+> COMO a maioria das organizações
+não está monitorando essas amea-
+ças e toma medidas apenas após a
+execução dos ataques, os crimino-
+sos se aproveitam dessas fraquezas.
+> COMO A MAIORIAdos usuários aces-
+
+D I V U LG AÇ ÃO
+
+D I V U LG AÇ ÃO
+
+USO DE CELULAR: mais segurança
+
+sa as redes sociais por dispositivos
+móveis, haverá mais casos em que
+uma conta de e-mail é o principal ve-
+tor do ataque.
+
+> UMA con ta hackeada do gmail, por
+exemplo, poderá ser usada para
+acessar serviços utilizados pelo
+usuário e executar mais fraudes.
+7 - Ataques em dispositivos
+> A TENDÊNCIA é que os dispositivos
+globais cada vez mais utilizados co-
+mo smartphones, sejam cada vez
+mais alvo de fraudadores para ob-
+tenção de dados, pois, segundo es-
+pecialistas, ainda há falhas nesses
+dispositivos modais.
+
+> PARA cada assistente de inteligência
+artificial, existe um hacker em algum
+lugar tentando acessar um dispositi-
+vo sem segurança.
+
+> E AS CHANCES de sucesso são altís-
+simas, uma vez que o usuário médio
+está ciente da possibilidade de roubo
+de dados, mas não tem capacidade
+para impedir essas ameaças. Além
+disso, a maioria dos usuários é bas-
+
+tante negligente em termos de segu-
+rança, como a prática do backup.
+8 - Vírus e código malicioso
+> O ATAQUE VIRTUAL WannaCry não
+desaparecerá tão cedo. Ele infectou
+mais de 230 mil sistemas de organi-
+zações como a Telefônica e o Serviço
+Nacional de Saúde britânico, junta-
+mente com outras operadoras de te-
+lecomunicações, empresas de
+transportes, organizações governa-
+mentais, bancos e universidades.
+9 - Moedas digitais
+> P E R M I T I R ÃO que os criminosos em-
+bolsem os lucros obtidos nos ata-
+ques. A parte mais difícil de um ata-
+que financeiro é o acesso aos recur-
+sos roubados por conta do risco de
+exposição. Em razão do aumento dos
+canais disponíveis para converter
+dinheiro normal em moedas digitais,
+os criminosos se concentrarão em
+estratégias que permitam receber
+em Bitcoins.
+10 - Caixas eletrônicos
+> T EC N O LO G I AS mais sofisticadas le-
+varão a um aumento nos ataques a
+caixas eletrônicos. Os hackers des-
+cobriram como criar códigos mali-
+ciosos, o que lhes permite roubar in-
+formações dos cartões sem precisar
+sequer tocar no caixa eletrônico.
+
+Fontes: Especialistas consultados e Easy So-
+lutions.
+
+C I B E R ATAQ U E
+é ameaça para
+quem não
+investe em
+p ro t e ç ã o
+adequada aos
+dados pessoais
+na internet
+
+> HÁ UMA necessidade ainda maior de
+se ter meios para detectar a falsifica-
+ção de identidade no momento da
+abertura de contas, pedidos de em-
+préstimo e solicitações de cartões de
+crédito, devido ao número cada vez
+maior de dados pessoais disponíveis.
+4 - Invasões de contas
+> EX I ST E muita informação pessoal
+disponível no mercado. Os cibercri-
+minosos poderão usar esses dados
+
+

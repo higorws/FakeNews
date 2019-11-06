@@ -1,0 +1,806 @@
+Ec o n o m i a
+
+I n d i ca d o re s
+
+CDB (30/05)
+PRAZO/DIAS ÚTEIS M O DA L I DA D E
+30/21 dias
+180/123 dias
+FO N T E : U n i l e t ra .
+
+CDBPRE 30
+CDBPRE 180
+
+TAXA A.M.
+0, 4 9 7 %
+0, 5 2 2 %
+
+TAXA A.A.
+6,13%
+6,45%
+
+CDI
+PERÍODO
+CDI acumulado mensal
+CDI acumulado 12 meses
+
+TAXA S
+PERÍODO
+de 25/04 a 25/05
+de 26/04 a 26/05
+de 27/04 a 27/05
+de 28/04 a 28/05
+de 29/04 a 29/05
+de 30/04 a 30/05
+
+P O U PA N ÇA
+DATA * * DEPÓSITO ATÉ
+
+3/5/2012* (%)
+0, 5 0 0 0
+3 0 / 05
+0, 5 0 0 0
+3 1 / 05
+01/06
+0, 5 0 0 0
+02/06 0, 5 0 0 0
+03 / 0 6
+0, 5 0 0 0
+
+PERCENTUAL
+1 ,0 0 05 1 7 5 1 4 %
+7, 8 8 %
+
+TBF (%)
+0, 4 6 0 9
+0, 4 6 1 7
+0, 4 8 4 8
+0, 5 0 8 0
+0, 5 1 5 9
+0,467 2
+
+TR (%)
+0
+0
+0
+0
+0
+0
+
+A PARTIR DE
+4/5/2012* (%)
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+
+DATA * * DEPÓSITO ATÉ
+
+3/5/2012* (%)
+0, 5 0 0 0
+04/06
+0, 5 0 0 0
+05 / 0 6
+0, 5 0 0 0
+06/06
+07/06
+0, 5 0 0 0
+08/06 0, 5 0 0 0
+
+A PARTIR DE
+4/5/2012* (%)
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+
+(*) RENDIMENTO DA APLICAÇÃO FEITA HÁ 30 DIAS.
+(**) OS RENDIMENTOS OCORREM DO DIA 1º AO DIA 28, EM TODOS OS MESES.
+OBS: DEPÓSITOS A PARTIR DE 04/05/2013 RENDEM 70% DA SELIC MAIS TAXA REFERENCIAL (TR), SE A
+TAXA DE JUROS FOR IGUAL OU INFERIOR A 8,5% AO ANO. EM APLICAÇÕES ANTES DISSO E QUANDO A
+SELIC FOR ACIMA DE 8,5%, O RENDIMENTO É DE 6% AO ANO MAIS A TR.
+
+IMPOSTO DE RENDA ( M A I O)
+A L Í Q U OTA
+R E N D I M E N TO
+isento
+Até R$ 1.903,98
+7, 5 %
+De R$ 1.903,99 até R$ 2.826,65
+15%
+De R$ 2.826,66 até R$ 3.751,05
+22,5%
+De R$ 3.751,06 até R$ 4.664,68
+Acima de R$ 4.664,68
+2 7, 5 %
+
+D E D U ÇÃO
+–
+R$ 142,80
+R$ 354,80
+R$ 636,13
+R$ 869,36
+
+D E D U Ç Õ ES : R$ 189,59 POR DEPENDENTE; PENSÃO ALIMENTÍCIA JUDICIAL; VALOR DA CONTRIBUIÇ ÃO
+PAGA, NO MÊS, À PREVIDÊNCIA OFICIAL E A ENTIDADES DE PREVIDÊNCIA PRIVADA NO BRASIL .
+
+INSS ( M A I O)
+E M P R EG A D O S
+SALÁRIO DE CONTRIBUIÇÃO
+Até R$ 1.693,72
+De R$ 1.693,73 a R$ 2.822,90
+De R$ 2.822,91 a R$ 5.645,80
+
+ALÍQUOTA (INSS)
+8%
+9%
+11%
+
+O DESCONTO DOS EMPREGADOS RELATIVO À PREVIDÊNCIA RESPEITA O TETO MÁXIMO DE R$ 5.645,80
+— QUEM RECEBE SALÁRIOS SUPERIORES A ESSE VALOR SÓ CONTRIBUI ATÉ ESSE LIMITE MÁX I M O,
+CORRESPONDENDO A 11% (R$ 621,03).
+CONTRIBUINTE INDIVIDUAL E FACULTATIVO
+SALÁRIO-BASE DE CONTRIBUIÇÃO
+Valor mínimo
+Valor máximo
+
+R$
+95 4
+5.645,80
+
+R$
+104,94
+1 . 1 2 9, 1 6
+
+%
+11
+20
+
+COTAÇÕES DO CAFÉ (30/05)
+Arábica tipo 6, Bebida Dura, com até 12% de umidade
+Arábica tipo 7, Bebida Rio, com até 12% de umidade
+Conilon 7 com até 13% de umidade e até 10% de broca
+
+BOLSA DE MERCADORIAS (30/05)
+P R O D U TO
+
+U N I DA D E
+
+R$ 430
+R$ 401
+R$ 321
+
+P R EÇ O
+M ÁX I M O
+R$ 138
+R$ 138
+R$ 133
+
+–
+–
+R$ 75
+R$ 84
+R$ -
+R$ 2,89
+R$ 3,44
+R$ 1,17
+R$ -
+R$ 1,50
+R$ 2
+R$ -
+R$ -
+R$ 2,33
+R$ 3,50
+R$ 7,36
+R$ 1,43
+R$ 1,26
+R$ 1,81
+R$ 10,33
+R$ 0,75
+R$ -
+R$ 3,42
+R$ 1
+R$ -
+R$ -
+R$ 3
+R$ 0,40
+R$ 1,38
+R$ 1,31
+R$ 0,90
+R$ 1,37
+R$ 1,76
+R$ 0,64
+R$ 1,61
+
+P R EÇ O
+MÉDIO
+R$ 138
+R$ 137,32
+R$ 131,36
+R$ 4,68
+R$ 6,43
+R$ 70
+R$ 82
+R$ -
+R$ 2,83
+R$ 3,33
+R$ 1,13
+R$ -
+R$ 1,50
+R$ 2
+R$ -
+R$ -
+R$ 2,23
+R$ 3,50
+R$ 7,08
+R$ 1,43
+R$ 1,26
+R$ 1,75
+R$ 10
+R$ 0,75
+R$ -
+R$ 3,38
+R$ 1
+R$ -
+R$ -
+R$ 3
+R$ 0,35
+R$ 1,25
+R$ 1,25
+R$ 0,88
+R$ 1,31
+R$ 1,61
+R$ 0,62
+R$ 1,32
+
+P R EÇ O
+MÍNIMO
+R$ 138
+R$ 135
+R$ 125
+
+–
+–
+R$ 65
+R$ 80
+R$ -
+R$ 2,78
+R$ 3,22
+R$ 1,08
+R$ -
+R$ 1,50
+R$ 2
+R$ -
+R$ -
+R$ 2,12
+R$ 3,50
+R$ 6,67
+R$ 1,43
+R$ 1,26
+R$ 1,67
+R$ 9,67
+R$ 0,75
+R$ -
+R$ 3,33
+R$ 1
+R$ -
+R$ -
+R$ 3
+R$ 0,30
+R$ 1,25
+R$ 1,19
+R$ 0,83
+R$ 1,25
+R$ 1,44
+R$ 0,60
+R$ 1,08
+
+Boi gordo castrado
+Boi gordo inteiro
+Vaca gorda
+Frango abat. int. resfriado
+Suíno abat. carca. com.
+Ovos brancos extra
+Ovos vermelhos extra
+Feijão - carioquinha
+Feijão -preto
+Feijão -vermelho
+Banana-prata clim. 1ª
+Banana-terra clim. extra
+Coco-verde grande
+Goiaba vermelha extra
+Laranja-pera tipo 113/140
+Limão Taiti
+Mamão Havaí tipo 15/18
+Maracujá extra
+Morango extra
+Milho verde
+A b ó b o ra - j a c a r é
+Alface lisa grande
+Alho imp. branco chinês
+Aipim extra
+Batata inglesa comum
+Batata-baroa amarela
+Batata- doce
+Beterraba extra
+Cebola amarela
+Cenoura extra
+Chuchu extra
+Couve-flor extra
+Jiló extra
+Pepino extra
+Pimentão extra
+Quiabo extra
+Repolho branco extra
+Tomate longa vida ext. AA
+
+FO N T E : I n c a p e r / Ce a s a - E S / Ave s / A s e s .
+
+Arroba
+Arroba
+Arroba
+kg
+kg
+Caixa 30 dz
+Caixa 30 dz
+kg
+kg
+kg
+kg
+kg
+Unidade
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+
+VITÓRIA, ES, SEXTA-FEIRA, 01 DE JUNHO DE 2018  ATRIBUNA  21
+
+ANTONIO MOREIRA/AT
+
+SEPULCRI pretende expandir atuação de instituições fora da Grande Vitória
+
+Sepulcri segue
+à frente da
+Fe c o m é rc i o
+
+Empresário foi eleito
+pela quarta vez para
+comandar a federação
+até maio de 2022, e
+a posse está prevista
+para o próximo dia 22
+
+Kayque FabianoO empresário José Lino Se-
+
+pulcri foi eleito para mais
+um mandato de quatro anos
+à frente da Federação do Comér-
+cio de Bens, Serviços e Turismo do
+Estado (Fecomércio-ES), do Ser-
+viço Social do Comércio (Sesc) e
+Serviço Nacional de Aprendiza-
+gem Comercial (Senac). A posse
+está prevista para 22 de junho.
+
+Após a reeleição, confirmada na
+última quarta-feira, Sepulcri anun-
+ciou a continuidade do plano de in-
+teriorização das instituições e con-
+firmou obras nas cidades de Domin-
+gos Martins, Cachoeiro de Itapemi-
+rim, Santa Teresa e Baixo Guandu.
+
+O presidente eleito prossegue
+
+até maio de 2022 com o desafio de
+expandir a atuação das institui-
+ções fora da Grande Vitória.
+
+“Durante os 12 anos em que esti-
+ve no mandato, priorizei as ações
+no interior. Temos obras de grande
+porte programadas para Domin-
+gos Martins, com um centro cultu-
+ral e de convenções com um orça-
+mento de cerca de R$ 90 milhões”,
+disse Sepulcri.
+
+“Além disso, existe previsão do
+início das obras de um centro edu-
+cacional em Cachoeiro de Itape-
+mirim e um complexo de lazer em
+Santa Teresa, localizado na antiga
+residência de inverno do governa-
+dor ”, completou o empresário.
+
+Este já é o quarto mandato de
+Sepulcri, que assumiu a presidên-
+cia da Fecomércio em 2006.
+
+A votação ocorreu no dia 24 de
+maio na sede da entidade, chamada
+de Casa do Comércio, em Santa Lú-
+cia, Vitória, onde votaram 22 presi-
+dentes de sindicatos do comércio
+varejista, atacadista e do turismo e
+delegados de sindicatos patronais fi-
+liados à federação, que representam
+mais de 120 mil empresas do setor.
+
+Desoneração da folha
+ainda beneficia 17 áreas
+
+Dos 56 setores beneficiados com
+a desoneração da folha de paga-
+mentos, 17 conseguiram manter o
+benefício depois dos vetos do presi-
+dente Michel Temer ao projeto
+aprovado esta semana pelo Con-
+gresso. O governo vetou a manuten-
+ção de 11 setores na desoneração. Is-
+so porque os parlamentares haviam
+ampliado a lista para 28 setores.
+
+A medida vai garantir, segundo a
+Receita Federal, uma economia de
+R$ 830 milhões em 2018 e R$ 3,6
+bilhões ao longo de 2019.
+
+Segundo o secretário da Receita,
+Jorge Rachid, a lei elevou de 1,5% pa-
+ra 2,5% a carga dos setores de couro e
+
+confecções. Ficou estabelecido na lei
+o fim do programa de desoneração
+da folha para dezembro de 2020.
+
+A lista de setores/produtos que
+continuarão se beneficiando da de-
+soneração da folha: calçados; call
+center; comunicação; confec-
+ção/vestuário; construção civil; em-
+presas de construção e obras de in-
+fraestrutura; couro; fabricação de
+veículos; máquinas e equipamen-
+tos; proteína animal; têxtil; TI; tec-
+nologia de comunicação; projeto de
+circuitos integrados; transporte
+metroferroviário de passageiros;
+transporte rodoviário coletivo; e
+transporte rodoviário de cargas.
+
+Bancos já antecipam
+até 100% do 13º salário
+
+Ainda está longe do fim do ano, mas já é possível
+antecipar o 13º salário com os grandes bancos do
+País. Algumas instituições emprestam até 100% do
+valor que será recebido pelo trabalhador, podendo
+chegar a R$ 50 mil, dependendo do banco.
+
+As taxas mínimas de juros mensais variam entre
+1,99% a 3,19%. O adiantamento do 13º salário é uma
+das linhas de crédito mais baratas disponíveis no
+mercado, pois os bancos entendem que é um dinheiro
+mais fácil de receber de volta na comparação com ou-
+tros empréstimos.
+
+SELIC
+PERÍODO
+Taxa selic acumulada no ano
+Taxa selic de um dia
+
+CÂMBIO (30/05)
+M O E DA S
+Dólar comercial
+Dólar turismo (espécie)
+Euro (espécie)
+Dólar canadense
+Franco suíço
+Ie n e
+Libra esterlina
+
+COMPRA
+R$ 3,7364
+R$ 3,70
+R$ 4,30
+R$ 2,9088
+R$ 3,7764
+R$ 0,03425
+R$ 4,9668
+
+FONTE: Banestes, Banco Central e CMA.
+
+PERCENTUAL
+6,5%
+1 ,0 0 0 24 6 2 0 %
+
+V E N DA
+R$ 3,7370
+R$ 3,80
+R$ 4,49
+R$ 2,9102
+R$ 3,7789
+R$ 0,03427
+R$ 4,9691
+
+BOLSA NO BRASIL (30/05)
+I B OV ES PA
+AÇ ÃO
+Banestes ON (BEES3)
+Petrobras ON (PETR3)
+Petrobras PN (PETR4)
+Vale ON (VALE3)
+Vale PNA (VALE5)*
+Fibria ON (FIBR3)
+Oi ON (OIBR3)
+Usiminas PNA (USIM5)
+B. do Brasil ON (BBAS3)
+Eletrobras PNB (ELET6)
+
+76 .75 3
+C OTAÇÃO
+R$ 3,60
+R$ 22,19
+R$ 18,98
+R$ 50,63
+-
+R$ 70,78
+R$ 3,52
+R$ 8,25
+R$ 30,37
+R$ 16,75
+
+L
+M
+M
+L
+
++ 0, 9 0 % L
+VA R I AÇÃO
++5,26%
+- 0,22%
+-1,66%
++ 0, 9 4 %
+-
++ 0, 3 1 %
++3,53%
+-3 , 6 2 %
++6,52%
++ 0, 9 0 %
+
+L
+L
+M
+L
+L
+
+OBS.: *Não houve registros para essa ação.
+
+BOLSAS NO MUNDO (31/05)
+M E R CA D O
+Na s d a q - 1 0 0
+Dow Jones (EUA)
+Londres (Inglaterra)
+Paris (França)
+Tóquio (Japão)
+Merval (Argentina)
+Frankfurt (Alemanha)
+Bolsa de Xangai (China)
+
+P O N TO S
+6.967,7 2
+24 . 4 1 5 , 8 4
+7. 6 8 9, 5 7
+5.398,40
+22.201,82
+2 8 . 5 5 8 , 83
+12.604,89
+3.095,4 7
+
+VA R I AÇÃO
+- 0,12%
+-
++ 0,74 %
+-
++ 0, 83 %
++ 0, 6 0 %
+-1,40%
++ 1 ,7 8 %
+
+M
+
+L
+
+L
+L
+M
+L
+
+FONTE: CMA, UOL, Estadão e sites das Bolsas.
+
+INFLAÇÃO (%)
+
+0,24
+
+0,19 0,16 0,42
+
+0
+
+-0,23
+
+IPCA
+0,28
+
+0,44
+
+12 meses: 2,76%
+
+0,29
+
+0,32 0,09 0,22
+
+F E V.
+
+JA N .
+
+MAR .
+
+ÍNDICE
+
+Jun   Jul   Ago   Set   Out   Nov  Dez  Jan   Fev   Mar   Abr
+ACUM. 12
+M ES ES
+3,12
+0, 2 0
+1 , 93
+0,7 6
+1,56
+3,40
+2,57
+
+0, 6 9
+IPC-DI (FGV)
+0,7 6
+IGP-M (FGV)
+0, 4 6
+IPC-SP (Fipe)
+0, 5 8
+IGP-DI (FGV)
+INPC (IBGE)
+0, 2 3
+INCC IGP (FGV) 0,0 8
+ICV-SP (Dieese) 0, 95
+
+AC U M .
+ANO
+0, 9 2
+1,4 7
+0, 0 5
+1,30
+0, 4 8
+0, 5 2
+1 ,0 4
+
+0, 1 7
+0,0 7
+- 0,42
+0, 1 5
+0, 1 8
+0, 3 2
+0, 0 5
+
+0, 2 5
+0, 6 4
+zero
+0, 5 6
+0,0 7
+0, 1 2
+0, 03
+
+REAJUSTES DE ALUGUEL
+Í N D I C ES ACUMULADO % ATÉ JANEIRO (*)
+
+TRIM. QUADR . SEM.
+1,31
+1 ,7 5
+Fi p e
+3,11
+IGP -DI
+2,13
+2,96
+IGP -M 2,18
+INPC
+0, 6 7
+0, 9 9
+(*) ACUMULADO ATÉ JANEIRO REAJUSTA ALUGUÉIS E CONTRATOS A PARTIR
+DE FEVEREIRO, PARA PAGAMENTO EM MARÇO; ACUMULADO ATÉ FEVEREIRO
+REAJUSTA A PARTIR DE MARÇO, PARA PAGAMENTO EM ABRIL.
+
+ANUAL TRIM. QUADR . SEM.
+2,41
+1,23
+3 ,03
+- 0,28
+2,94
+- 0,41
+1,87
+1,21
+
+ACUMULADO % ATÉ FEVEREIRO (*)
+ANUAL
+2 ,0 7
+- 0,19
+- 0,42
+1,81
+
+0, 5 9 0, 8 8
+2,29
+1,48
+2,26
+1,7 2
+0, 6 7
+0, 85
+
+1,63
+2,23
+2,38
+1 ,0 4
+
+OUTROS ÍNDICES
+SALÁRIO MÍNIMO
+Valor de Referência do Tesouro Estadual (VRTE)
+Ouro (grama — 30/05 — + 0,12%)
+Unidade Fiscal de Referência (Ufir)
+Taxa de Juros de Longo Prazo (TJLP) (% a.a.)
+
+FO N T E : U n i l e t ra / Co m a r.
+
+R$ 954
+R$ 3,27 26
+R$ 156,20
+R$ 1,0641
+0, 5 6 2 5 %
+
+CUSTO DA CONSTRUÇÃO (C U B)
+VALOR (M2) VARIAÇÃO MENSAL VARIAÇÃO ANUAL
+M ÊS
+R$ 1.560,99
+Abril
+Ma r ç o
+R$ 1.559,03
+Feve r e i r o R$ 1.558,04
+
++ 0, 1 3 %
++ 0,0 6 %
++ 0,0 9 %
+
++ 0, 6 9 %
++ 0, 5 6 %
++ 0, 5 0 %
+
+

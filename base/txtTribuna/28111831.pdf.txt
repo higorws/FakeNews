@@ -1,0 +1,156 @@
+Ciência e Tecnologia
+
+VITÓRIA, ES, QUARTA-FEIRA, 28 DE NOVEMBRO DE 2018  ATRIBUNA  31
+
+D I V U LG AÇ ÃO
+
+Tecnologia brasileira
+para evitar suicídios
+
+nado, ele foi aplicado aleatoria-
+mente em diversos textos da ro-
+mancista, escritos em períodos
+pré-tentativas de suicídio e em ou-
+tros em que ela estava fora de risco.
+O resultado é que o algoritmo
+acertou em 80% dos casos.
+
+Segundo Passos, a ideia é que, no
+futuro, a mesma ferramenta possa
+ser transplantada para um aplica-
+tivo capaz de analisar tudo aquilo
+que escrevemos no smartphone,
+como mensagens no WhatsApp e
+em redes sociais, e que iria emitir
+alerta caso haja risco de suicídio.
+
+A ferramenta só pode ser aplica-
+da em pacientes que já tentaram se
+matar, porque precisa ser treinada
+com base em eventos prévios.
+
+OS NÚMEROS
+
+de acerto tem o algoritmo
+
+80%
+41 anos
+
+morreu a escritora Virgina Woolf
+
+valcante Passos, explica que a op-
+ção por Virginia Woolf se deve ao
+histórico da escritora, semelhante
+ao de várias pessoas que acabam
+por se matar: sofria de transtorno
+bipolar e ao longo da vida tivera vá-
+rios episódios depressivos seguidos
+de tentativas de suicídio.
+
+Virginia tinha a vantagem de ter
+uma vasta produção de textos pes-
+soais publicados, já que escrevia
+quase diariamente cartas e anota-
+ções em seu diário. O algoritmo es-
+colhido foi o mesmo usado pelos e-
+mails para identificar quais mensa-
+gens devem ir para a caixa de
+spams e quais ficam na de entrada.
+O primeiro passo foi “ensinar ” o
+algoritmo a identificar cartas e
+anotações relacionadas ao desfe-
+cho do suicídio. Para isso, foram
+utilizados textos escritos por Vir-
+ginia Woolf dentro dos dois meses
+anteriores à sua morte.
+
+Este corte temporal foi determi-
+nado pelos médicos, que enten-
+dem que neste período ela já havia
+entrado em um estágio crítico para
+o risco do suicídio. As informações
+são do site da BBC Brasil.
+
+Depois que o sistema estava trei-
+
+Pesquisadores criaram
+um algoritmo que lê
+os textos escritos no
+celular, interpreta o que
+foi escrito e dá alerta
+em caso de risco
+
+LO N D R ES“Alerta vermelho: você cor-
+
+re o risco de cometer sui-
+cí di o.” Ao receber este
+aviso no smartphone, o paciente
+pode buscar ajuda e evitar o pior.
+Este é o objetivo de um estudo da
+equipe do Laboratório de Psiquia-
+tria Molecular do Hospital de Clí-
+nicas de Porto Alegre, divulgado
+na revista científica Plos One.
+
+Os pesquisadores criaram um
+algoritmo capaz de analisar textos
+em busca de sinais de que o autor
+das anotações possa vir a se matar.
+Como paciente fictício, a equipe
+usou Virginia Woolf, escritora bri-
+tânica que tirou a vida aos 41 anos.
+Um dos responsáveis pelo estu-
+do, o psiquiatra e professor Ives Ca-
+
+VIRGINIA WOOLF: aplicativo teve como base os textos escritos pela autora
+
+Sonda da Nasa ativa painéis
+solares e envia foto de Marte
+
+NASA/JPL-CALTECH/HANDOUT VIA REUTERS
+
+SÃO PAULO
+
+Após pousar em Marte, ontem, a
+sonda Mars Insight, da Nasa, con-
+seguiu transmitir foto nítida da su-
+perfície do planeta e emitiu sinais
+que indicam que os painéis solares
+estão abertos e coletando luz do
+Sol, o que significa que a espaço-
+nave poderá recarregar as baterias
+todos os dias, o que é crucial para a
+missão, que deverá medir abalos
+sísmicos em Marte.
+
+Já a foto foi feita por uma câme-
+ra instalada no braço robótico. “A
+equipe da Insight pode ficar um
+pouco mais tranquila sabendo que
+as matrizes solares estão sendo
+implantadas e recarregando as ba-
+t e ri a s ”, disse Tom Hoffman, ge-
+rente de projeto da Insight no La-
+boratório de Propulsão a Jato da
+Nasa em Pasadena, Califórnia.
+
+A Insight tem um par de placas
+solares, com 2,2 metros de com-
+primento cada uma. Quando aber-
+to, diz a Nasa, fica do tamanho de
+um carro conversível anos 1960.
+
+Em Marte, a luz solar é mais fra-
+ca se comparada àquela captada
+na Terra, porque o planeta verme-
+lho está mais distante do Sol. En-
+tretanto, segundo a agência espa-
+cial americana, a sonda está prepa-
+rada para este cenário: ela produz
+de 600 a 700 watts em um dia cla-
+ro, o suficiente para manter os ins-
+trumentos operando no planeta.
+
+CÂ M E R A instalada no braço robótico da sonda envia imagem de Marte
+
+

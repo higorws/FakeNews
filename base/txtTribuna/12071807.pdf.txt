@@ -1,0 +1,281 @@
+VITÓRIA, ES, QUINTA-FEIRA, 12 DE JULHO DE 2018  ATRIBUNA  7
+
+Ci d a d e s
+
+Especialistas tiram dúvidas
+sobre nova lei da internet
+
+Eles explicam como
+funciona a coleta e
+divulgação de dados
+pessoais e o que pode
+mudar no dia a dia de
+quem está conectado
+
+BETO MORAIS/AT
+
+M O N I TO R A M E N TO
+Preocupação com
+pesquisa dos filhos
+Simone Cesar Ghisolfi, 42
+anos, é mãe de quatro filhos e
+acredita que a mudança na pri-
+vacidade dos usuários será im-
+portante para a proteção de
+quem navega na internet.
+
+“Procuro sempre orientar
+meus filhos sobre o que pesqui-
+sar, o que compartilhar e o que
+assistir na internet. Eles também
+me procuram quando precisam
+passar algumas
+inf ormaç ões
+pessoais para
+realizar algum
+c a d a s t r o”.
+
+Henrique Montovanelli
+
+O Projeto de Lei da Câmara
+
+(PLC 53/2018), que cria um
+marco legal para proteção,
+tratamento e uso de dados pes-
+soais sensíveis na internet, foi
+aprovado pelo Senado, na última
+terça-feira. Mas o que pode mudar
+no dia a dia do usuário, caso o texto
+seja sancionado pelo presidente
+Michel Temer?
+
+“A diferença é que você deixa de
+ver aquele monte de propaganda e
+de notícias sugeridas sobre o que
+você andou pesquisando. Você vai
+poder optar, de uma maneira mais
+clara, se quer ou não continuar
+sendo monitorado”, resume Rob-
+son Limaverde, especialista em
+Tecnologia da Informação.
+
+O caso que levantou a discussão
+mundial sobre o assunto foi o es-
+cândalo entre o Facebook e a em-
+presa Cambridge Analytica, com o
+vazamento de informações de cer-
+ca de 90 milhões de usuários. Na
+terça-feira, o Reino Unido multou
+o Facebook em cerca de R$ 2,6 mi-
+l h õ e s.
+
+A proposta cria regras para os
+setores público e privado recolhe-
+rem e processarem dados pessoais
+no Brasil, como nome, endereço,
+e-mail, estado civil e patrimônio,
+com cuidado maior para informa-
+ções sobre orientação política, re-
+ligião e vida sexual. O governo irá
+criar um órgão para fiscalizar e
+aplicar multas.
+
+Especialistas acreditam que em-
+presas de pesquisa, como o Goo-
+gle, e redes sociais, além de aplica-
+tivos de celular, comercializam in-
+formações dos usuários para fins
+publicitários e políticos.
+
+“Há uma venda desses dados,
+que são muito procurados pelas
+empresas. Com isso, conseguem
+traçar um perfil de comportamen-
+to do consumidor, sobre o que pro-
+curam, o que gostam, sua localiza-
+ção, por exemplo”, explica o espe-
+cialista Flávio dos Anjos.
+
+Com a proposta, a coleta e utili-
+zação dos dados deverão ser auto-
+rizadas pelos usuários.
+
+“Se um aplicativo ou site quiser
+utilizar seus dados, terá que te avi-
+sar para você aprovar. Isso não es-
+tará mais dentro de um contrato,
+com várias cláusulas, que todo
+mundo aceita sem ler”, conclui.
+
+O engenheiro mecânico Igor
+Costa, de 28 anos, que realiza com-
+pras pela internet e utiliza redes
+sociais, acredita que a aprovação
+da PL seria um avanço.
+
+“Dá mais segurança, mas não to-
+talmente. Às vezes é sugerido um
+produto interessante, mas tem ho-
+ras que tira a paciência!”.
+
+MUDANÇAS PREVISTAS
+
+O que diz o Projeto de Lei
+As empresas deverão :
+> COLETAR somente os dados neces-
+
+sários aos serviços prestados.
+
+> INFORMAR claramente a política de
+proteção de dados e solicitar autori-
+zação dos usuários para forneci-
+mento das informações.
+
+> NOTIFICAR imediatamente o usuário
+
+que tiver dados vazados.
+
+> PRESERVAR a privacidade do cliente.
+> DADOS DE CRIANÇAS só poderão ser
+tratados com consentimento dos
+pais ou do responsável legal.
+
+> EXCLUIR os dados depois que o
+usuário deixar de utilizar o serviço ou
+caso não tenha havido solicitação.
+
+> PROPORCIONAR o acesso do cliente
+
+aos dados sobre ele.
+
+> P ERM ITIR que os usuários corrijam
+
+D I V U LG AÇ ÃO
+
+dados que estejam de posse de uma
+empresa.
+
+> TRANSFERÊNCIA INTERNACIONAL
+de dados pessoais poderá ser feita
+apenas para países com “nível ade-
+q u a d o” de proteção de dados ou que
+a empresa responsável garanta os
+princípios da lei brasileira.
+
+> EMPRESAS SERÃO RESPONSABILI-
+ZADAS com vazamento de dados dos
+clientes ou se as fornecedoras tive-
+rem as bases comprometidas.
+
+> M U LTA de até 4% do faturamento do
+último exercício da companhia, limi-
+tada a R$ 50 milhões por infração.
+Tra m i ta ç ã o
+> O PROJETO de marco legal que regu-
+lamenta o uso, a proteção e a trans-
+ferência de dados pessoais no Brasil
+foi aprovado pelo Plenário do Sena-
+do, por unanimidade, na terça-feira.
+> O TEXTO, já aprovado na Câmara dos
+Deputados, segue para a sanção
+presidencial.
+
+> O TEXTO prevê a criação de um órgão
+regulador: a Autoridade Nacional de
+Proteção de Dados (ANPD), vincula-
+da ao Ministério da Justiça.
+
+> O RELATOR da Comissão de Assun-
+tos Econômicos (CAE) , senador Fer-
+raço, sustenta: “O dado pessoal é,
+hoje, o principal insumo da economia
+globalizada e baseada em tecnolo-
+gia. Podemos não ter consciência
+disso, mas tudo o que fazemos é co-
+letado e armazenado em bases de
+dados cada vez maiores”.
+
+USO de dados na internet: segurança
+
+Fonte: Projeto de Lei (PLC 53/2018)
+
+Desabilitar funções para
+proteger dados pessoais
+
+Enquanto o Projeto de Lei que
+cria normas para a coleta e proces-
+samento de dados pessoais na in-
+ternet não é sancionado — e mes-
+mo depois de entrar em vigor, as
+empresas terão um prazo de um
+ano e meio para se adaptarem às
+novas regras — usuários devem to-
+mar alguns cuidados para evitar a
+divulgação indevida de suas infor-
+mações pessoais.
+
+“Um sistema como o do Google
+tem configurações que dizem que
+tipo de informações você aceita
+compartilhar. Você pode desabili-
+tar alguns compartilhamentos, co-
+mo dados de navegação, localiza-
+ção e comando de voz, por exem-
+pl o”, explica Marcello Novaes,
+doutorando em Ciência da Com-
+p u t a ç ã o.
+
+O especialista, porém, alerta que
+alguns dados são usados para pro-
+porcionar uma melhor experiên-
+cia ao usuário.
+
+“Alguns aplicativos precisam
+que você esteja compartilhando
+informações para funcionar corre-
+tamente. Mas se a pessoa está mais
+
+importante é o
+
+“A questão mais
+
+respeito à privacidade,
+um direito garantido
+
+na Constituição”
+
+Fabio Malini, mestre em Ciência da
+Informação e professor da Ufes
+
+ADEMIR RIBEIRO - 25/07/2015
+
+MARCELLO NOVAES: o r i e n ta ç õ e s
+
+preocupada em garantir a sua pri-
+vacidade, ela pode desabilitar”.
+
+Outros cuidados também po-
+dem ser tomados, segundo Robson
+Limaverde, especialista em Tec-
+nologia da Informação.
+
+“Ter um antivírus atualizado,
+verificar a procedência do aplica-
+tivo, ler as cláusulas, verificar se no
+domínio do site tem o 'https', que
+mostra que é seguro e optar pelo
+modo de navegação anônima na
+internet são alguns cuidados que o
+usuário pode ter”.
+
+Fabio Malini, doutor em Comuni-
+cação e Cultura e mestre em Ciên-
+cia da Informação, avalia o uso de
+dados: “A primeira questão e mais
+importante é o respeito à privacida-
+de, que é um direito garantido na
+Constituição, mas que muitas vezes
+é violado no processo de comercia-
+lização dos dados privados”.
+
+

@@ -1,0 +1,172 @@
+Ciência e Tecnologia
+
+VITÓRIA, ES, SÁBADO, 24 DE MARÇO DE 2018  ATRIBUNA  27
+
+D I V U LG AÇ ÃO
+
+Número de
+abortos cai no
+planeta após
+l e ga l i z a ç ã o
+
+Em 20 anos, entre 1990/1994
+e 2010/2014, a taxa anual de
+aborto nas regiões desenvolvi-
+das caiu significativamente,
+principalmente em países ricos
+onde a prática é legalizada –
+passou de 46 para 27 abortos
+para cada mil mulheres em ida-
+de reprodutiva.
+
+O mesmo não ocorreu em
+países em desenvolvimento: a
+taxa global se manteve quase
+estável, passando de 39 para 36
+a cada mil mulheres.
+
+As informações são do site
+Bem Estar. Os dados são de re-
+latório publicado nesta semana
+pelo Instituto Guttmacher, or-
+ganização dos Estados Unidos
+parceira da Universidade Co-
+lumbia e da Federação Interna-
+cional de Planejamento Fami-
+liar (IPPF).
+
+Segundo o documento, o
+maior declínio nas taxas de
+aborto foi sentido na Europa
+Oriental, onde o uso efetivo de
+contraceptivos aumentou dras-
+t i c a m e n t e.
+
+Os índices caíram de forma
+significativa no Centro da Ásia –
+as duas regiões fizeram parte do
+antigo bloco da União Soviética
+e passaram a ter acesso aos mé-
+todos eficazes de prevenção.
+
+Os países com os menores ín-
+dices de aborto são Suíça, Cin-
+gapura e Eslováquia.
+
+Na outra ponta, com as maio-
+res taxas, está o Paquistão, Quê-
+nia e Índia.
+
+D I V U LG AÇ ÃO
+
+GRAVIDEZ: queda na Europa
+
+A CADEIRA DE RODAS ainda é um projeto experimental, mas vai permitir que o cadeirante grave atalhos para trajetos feitos constantemente por ele
+
+Microsoft cria cadeira de
+rodas controlada com olhar
+
+Tecnologia utilizada foi
+lapidada no Brasil e usa
+um tablet, que fica no
+colo do cadeirante,
+para seguir o olhar por
+meio de uma câmera
+
+SÃO PAULOA Microsoft criou uma cadeira
+
+de rodas a motor controlada
+pelo olhar do cadeirante.
+
+A mágica por trás dela foi lapida-
+da no Brasil a partir de uma tecno-
+logia que já está funcionando no
+Windows e foi criada para dar voz
+nova a um ex-jogador da NFL que
+perdeu os movimentos por ter a
+mesma doença que paralisou o as-
+trofísico Stephen Hawkings (1942-
+2018).
+
+Demonstrada nesta semana em
+São Paulo, a cadeira responde a co-
+mandos dos olhos para seguir em
+frente, retroceder, virar à direita ou
+à esquerda e para se mover nas dia-
+gonais. “Nenhum movimento de
+pescoço é necessário, nem da cabe-
+ça, simplesmente a captura da mo-
+vimentação ocular”, diz Alessan-
+dro Januzzi, diretor de engenharia
+e inovação da Microsoft Brasil.
+
+O caminho para um olhar se
+transformar no giro das rodas é
+complicado. Um acessório do ta-
+manho de uma caixinha de remé-
+dio conecta a cadeira a um tablet
+(ou um notebook), que fica no colo
+do cadeirante. É esse aparelho que
+vai seguir o olhar, por meio de sua
+câmera transformada em “rastrea -
+dora de olhos”.
+
+Ela percebe em que ponto da te-
+la os olhos estão pousados. Ao
+abrir a aplicação que dá os coman-
+
+dos para a cadeira, a tela exibe se-
+tas indicando direções. Conforme
+o olhar passeia por elas, as rodas
+seguem as ordens. O cadeirante
+pode ainda gravar atalhos para tra-
+jetos feitos constantemente, como
+ir da cozinha para a sala ou do
+quarto para o banheiro.
+
+Feita em parceria com a fabri-
+cante brasileira de cadeiras de ro-
+das Ortobras, o mecanismo é o que
+a Microsoft classifica como um
+projeto experimental. Ou seja, não
+deve chegar às lojas, mas serve pa-
+
+“Ne n h u m
+
+pescoço é preciso, nem da
+cabeça, só a captura da
+
+movimentação ocular”
+
+Alessandro Januzzi, da Microsoft Brasil
+
+movimento de
+
+ra comprovar o potencial.
+
+T EC N O LO G I A
+
+A tecnologia de transformar o
+movimento dos olhos em coman-
+dos, por outro lado, já funciona em
+um serviço muito próximo da rea-
+lidade de quem usa computadores.
+Com o nome de “Eye dr i ve”, ela
+está disponível no Windows 10
+desde a atualização feita em outu-
+bro do ano passado.
+
+Seu desenvolvimento foi feito
+pela equipe de um brasileiro, o
+cientista-chefe da Microsoft, Hen-
+rique Malvar — ele lidera a pesqui-
+sa da empresa, uma área em que só
+nos seis meses finais de 2017 a Mi-
+crosoft gastou US$ 7 bi (R$ 23 bi).
+Para usá-la no sistema operacio-
+nal, no entanto, é necessário co-
+nectar a notebooks ou PCs um
+acessório que vai rastrear o movi-
+mento dos olhos.
+
+

@@ -1,0 +1,228 @@
+22  ATRIBUNA  VITÓRIA, ES, SEGUNDA-FEIRA, 12 DE MARÇO DE 2018
+
+Ciência e Tecnologia
+Robô com forma humana
+é sequestrado por hackers
+
+Ataque permite
+que invasor espione
+dono com câmera e
+microfone, acesse
+outros aparelhos e
+roube informações
+
+talaram na máquina um ran-
+somware – tipo de programa mali-
+cioso que toma controle de um
+equipamento e exige resgate para
+liberar. Segundo os especialistas,
+esse é o primeiro ataque desse tipo
+realizado em robôs.
+
+Com o domínio, os equipamen-
+
+CANCÚN, MÉXICOUma dupla de hackers
+
+conseguiu tomar
+controle de um
+robô humanoide de 58
+cm de altura, voltado a
+uso doméstico e ao co-
+mércio. A vulnerabili-
+dade, segundo os es-
+pecialistas, pode tam-
+bém ser explorada em
+robôs industriais.
+
+Para o ataque, eles ins-
+
+tos podem ser usados para espio-
+nagem (por meio de acesso a câ-
+meras e microfones), roubo de in-
+formações e até para ferir seres
+humanos. Os ransomwares se tor-
+naram famosos no início de 2017,
+quando o programa WannaCry se
+alastrou por computadores em to-
+do o mundo e causou prejuízos a
+empresas e a governos, principal-
+mente na Europa.
+
+Ele criptografava o conteúdo das
+máquinas e condicionava a li-
+beração a um pagamento
+em bitcoins. Cesar Ter-
+rudo e Lucas Apa, pes-
+quisadores da empresa
+de segurança digital
+IOActive, demonstra-
+ram na prática esse
+domínio remoto sobre
+o robô em vídeo divul-
+gado na manhã de sexta.
+No começo da de-
+
+monstração dos hackers, o peque-
+no robô comportava-se normal-
+mente, como se estivesse auxilian-
+do em uma loja. Ao perceber a pre-
+sença de um humano, dizia coisas
+como “olá, posso ajudar?”. Após o
+ataque, que levou menos de 20 se-
+gundos, o robô adquiriu um aspec-
+to mais sombrio e até ameaçou a
+pessoa que estava à frente. “Me dê
+bitcoins! Robôs amam bitcoins”,
+passou a dizer.
+
+“Acontece que os robôs normal-
+mente não ficam em redes isola-
+das, eles se conectam à mesma que
+todos os outros”.
+
+O robô que foi usado na de-
+monstração chama-se NAO. Ele é
+desenvolvido pela SoftBank Ro-
+botics e é um dos mais populares
+do mundo – já vendeu mais de 10
+mil unidades, segundo o site da
+empresa. Ele pode ser encontra-
+do a venda por cerca de R$ 30 mil
+na internet, em canais não ofi-
+c i a i s.
+
+Procurada, a fabricante não es-
+clareceu se já estava ciente das fa-
+lhas. Em nota, a SoftBank Robotics
+recomendou o uso de redes wifi
+seguras e a configuração de senhas
+seguras para o equipamento.
+
+D I V U LG AÇ ÃO
+
+FALHAS E AMEAÇAS
+Fraquezas expostas
+> COMUNICAÇÃO INSEGURA:
+criptografia fraca (ou inexis-
+tente) permite interceptar
+conteúdos que trafegam entre
+computadores e os robôs
+
+> FALHAS DE AUTENTICAÇÃO:
+partes importantes na progra-
+mação dos robôs não exigem
+usuário e senha, dando acesso
+a qualquer um
+
+> BAIXO CONTROLE DE PRIVACI-
+DAD E : alguns robôs enviavam
+dados, como informação de
+GPS, a servidores externos
+sem a permissão do usuário
+
+> CONFIGURAÇÃO PADRÃO: em
+alguns casos, é impossível tro-
+car senhas padrões dos robôs,
+ou seja, qualquer um que saiba
+a senha padrão pode ter aces-
+so ao equipamento
+Principais ameaças
+> ACESSO A MICROFONE e câ-
+meras, o que poderia possibili-
+tar a chamada ciberespiona-
+gem.
+
+> ACESSO À REDE à qual o robô
+está conectado. Assim, seria
+possível a entrada em outros
+sistemas e desativar, por exem-
+plo, todo o aparato de seguran-
+ça de uma casa conectada, co-
+nhecida como inteligente.
+
+> POSSIBILIDADE DE ACESSAR
+outros dispositivos aos quais o
+robô se conecta, como celula-
+res, tablets ou mesmo compu-
+ta d o r e s .
+
+> CONEXÃO DIRETA a outros sis-
+temas, como redes sociais ou
+ainda arquivos na nuvem.
+
+> INSTALAÇÃO de
+outros programas
+maliciosos.
+
+> DANOS FÍSICOS a
+pessoas, por meio
+da manipulação do
+robô
+
+Fo n t e : I OAc t i ve
+
+O NAO c u s ta
+R$ 30 mil e
+p ro g ra m a d o re s
+disseram que foi
+fácil invadir. O
+robô disse, após
+invasão: “Fu i
+hackeado! Preciso
+de bitcoins!”
+
+D I V U LG AÇ ÃO
+
+Pesquisadores desenvolvem
+controle remoto para carro
+
+Uma dupla de pesquisadores
+argentinos da ElevenPaths, uni-
+dade de segurança digital da Tele-
+fônica, desenvolve um circuito
+que pode ser instalado em veícu-
+los para servir como uma espécie
+de controle remoto automotivo.
+
+A placa criada por Sheila Aye-
+len Berta e Claudio Caracciolo foi
+batizada de “Bicho”. Ele precisa
+ser instalado no veículo, em com-
+partimento atrás do painel. A pla-
+ca é capaz de transmitir coman-
+
+PLACA “BICHO” pode controlar, via SMS, luzes, freios e até acelerador
+
+dos recebidos por SMS ao chama-
+do canal “CAN” (Controller Area
+Ne t wo r k ) .
+
+Para isso, o “Bi c ho ” vem equi-
+pado com rádio GSM que deve
+ser complementado com um chip
+de celular.
+
+O CAN é um protocolo de co-
+municação eletrônica usado em
+vários tipos de veículos. Cada veí-
+culo é compatível com comandos
+CAN diferentes; quanto mais ele-
+trônico e “in tel igen te” um carro,
+
+mais comandos ele possui.
+
+O conhecimento sobre o canal
+CAN ainda é recente. Em teoria,
+porém, veículos podem aceitar
+comandos que interfiram com as
+luzes, o freio, airbags, vidro, ar
+condicionado ou até o acelerador
+– o que poderia fazer do “B icho”
+uma placa de sabotagem.
+
+O equipamento será apresenta-
+do na Hack in the Box, uma con-
+ferência de segurança em Ams-
+terdã, Holanda, em abril.
+
+

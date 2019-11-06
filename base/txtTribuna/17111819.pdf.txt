@@ -1,0 +1,217 @@
+VITÓRIA, ES, SÁBADO, 17 DE NOVEMBRO DE 2018  ATRIBUNA  19
+
+Ec o n o m i a
+
+Prêmio de R$ 93 mil para
+boa ideia de capixabas
+
+Criada há 4 anos, a Olho
+do Dono se destacou
+em evento com sistema
+que pesa o gado a
+partir de imagens, sem
+alterar rotina do animal
+
+Caio MirandaC olocar uma boa ideia no
+
+mercado e, de cara, ganhar
+o prêmio internacional mais
+conceituado da área, com direito a
+receber um cheque de US$ 25 mil
+(R$ 93.575). Essa foi a façanha da
+“Olho do Dono”, startup criada
+por capixabas há quatro anos.
+
+Eles venceram, no último dia 8,
+em São Paulo, a primeira edição da
+Startup Battlefield Latin America,
+competição organizada pelo Tech-
+Crunch, considerado o maior por-
+tal de startups do mundo.
+
+O projeto consiste em um siste-
+ma que estima o peso de bois, a
+partir de imagens 3D. Segundo o
+CEO da Olho do Dono, Pedro Hen-
+rique Mannato Coutinho, um
+computador, com o software insta-
+lado, é ligado a uma câmera 3D, po-
+sicionada em um local onde o gado
+transita naturalmente no pasto,
+sem mudar a rotina dos bois.
+
+“A partir daí, usamos técnicas de
+visão computacional, inteligência
+artificial e ciência de dados para
+chegar no peso. Estamos com uma
+precisão boa o suficiente para
+
+SAIBA MAIS
+
+agradar aos fazendeiros. Dá para
+monitorar a variação de peso do
+gado de forma prática e eficiente”.
+Pedro Henrique explicou que,
+hoje, a maioria dos pecuaristas do
+Brasil faz apenas duas pesagens
+por ano. “É trabalhoso, demorado,
+custoso e o animal perde peso du-
+rante o procedimento. Então, os fa-
+zendeiros acabam não fazendo o
+acompanhamento do peso do boi”.
+Com o sistema, ele afirmou que
+o fazendeiro pode tomar decisões
+mais rapidamente, como ver se o
+gado já chegou no peso para ser
+vendido, quais animais estão
+doentes e qual suplemento está
+dando mais certo. “A ideia é pesar
+frequentemente e aumentar a lu-
+cratividade das fazendas”.
+
+O lançamento do sistema foi no
+mesmo dia do prêmio. O Olho do
+Dono passará, nos próximos três
+meses, por testes feitos com 20
+usuários. Assim, serão feitos ajus-
+tes finais para o produto ser lança-
+do oficialmente no mercado.
+
+“Depois do prêmio, muita gente
+tem visitado nosso site. Recebe-
+mos hoje (ontem), por exemplo,
+um interesse da Nigéria. Já tive-
+mos contato do Chile, Argentina,
+México, Bolívia, EUA, Suíça, de
+pessoas querendo revender ou im-
+plantar o sistema”, comemorou.
+
+O CEO destacou que ter vencido
+o prêmio foi surreal. “É fantástico
+levar o nome da tecnologia e da pe-
+cuária capixaba para o mundo. É
+legal o Estado saber que tem muita
+coisa de qualidade por aqui”.
+
+ANTONIO MOREIRA/AT
+
+PEDRO HENRIQUE: técnicas de visão computacional e inteligência artificial
+
+Profissão de
+a d m i n i s t ra d o r
+judicial está
+mais atraente
+
+Imagine receber até R$ 560
+milhões em apenas um caso da
+profissão? Esse é o valor que o
+administrador judicial nomea-
+do para atuar na recuperação da
+OGX (uma das empresas de Ei-
+ke Batista) pode ter faturado.
+
+Alheios aos grandes casos de
+recuperação de empresas brasi-
+leiras, o profissional que atua na
+área, por lei, pode ser remune-
+rado com até 5% do passivo da
+companhia. Em um mercado
+em crise, é um campo de atua-
+ção que só cresce. É o que ga-
+rante o presidente do Instituto
+Brasileiro de Direito da Empre-
+sa (IBDE), Gustavo Nobre.
+
+“A área experimentou uma
+demanda crescente com a crise.
+A demanda é grande por profis-
+sionais preparados, seja como
+administrador judicial, seja co-
+mo advogado especializado,
+pois a empresa devedora preci-
+sa de um profissional da área.
+Os credores da empresa têm a
+mesma necessidade, então o
+campo de trabalho é grande”.
+
+Ele esclarece que o adminis-
+trador judicial pode ser advoga-
+do, economista, administrador
+de empresas ou contador.
+
+A remuneração do adminis-
+trador judicial será um dos te-
+mas de palestras do I Seminário
+da Insolvência no Estado, que
+acontece na próxima segunda-
+feira, no hotel Sheraton Vitória.
+Quem falará sobre o tema se-
+rá o promotor de Justiça de Fa-
+lências e Recuperações Judi-
+ciais do Ministério Público de
+São Paulo, Eronides Santos.
+
+Câmera usada para verificar peso
+Como o sistema funciona
+> O SOFTWARE, desenvolvido pela
+startup capixaba “Olho do Dono”, é
+instalado em um notebook.
+
+> O COMPUTADOR é ligado, por um ca-
+bo USB, por uma câmera 3D portátil,
+que possui duas lentes e faz 60 ima-
+gens por segundo. A câmera é posi-
+cionada em um local do pasto onde o
+gado passa com frequência.
+
+> AS IMAGENS são processadas pelo
+software, que estima, em média, o
+peso de três bois por minuto.
+
+> VANTAG ENS: por ser mais prático e
+rápido, o fazendeiro pode acompa-
+nhar, como maior frequência, o peso
+ideal de venda do gado, o estado de
+
+D I V U LG AÇ ÃO
+
+saúde de sua criação e qual suple-
+mento alimentar é mais eficaz.
+Pre m i a ç ã o
+> O OLHO DO DONO concorreu com ou-
+tras 14 startups —sendo outras duas
+brasileiras e representantes de Mé-
+xico, Colômbia, Argentina, Chile, Pe-
+ru — e venceu a primeira edição da
+Startup Battlefield Latin America, do
+portal TechCrunch, do Vale do Silí-
+cio, em São Francisco (EUA).
+
+> COMO PRÊMIO, o projeto capixaba
+
+recebeu US$ 25 mil (R$ 93.575).
+Olho do Dono
+> A STARTUP, com sede em Vitória,
+existe há quatro anos e tem, como
+CEO, o mestre em Ciência da Com-
+putação Pedro Henrique Mannato
+Coutinho, 37, além de mais dois só-
+cios originais, um sócio-investidor,
+um fundo de investimentos e oito co-
+l a b o ra d o r e s .
+
+> O PROJETO está em fase de ajustes
+finais para ser lançado oficialmente
+no mercado. A câmera 3Dusada cus-
+ta cerca de R$ 3 mil. Já o software
+ainda não possui preço estipulado.
+
+> O SISTEMAjá interessa a diversos fa-
+zendeiros do Brasil, América Latina,
+América do Norte, Europa e África.
+
+PREMIAÇÃO em São Paulo
+
+Fo n t e : Startup “Olho do Dono”.
+
+

@@ -1,0 +1,170 @@
+28  ATRIBUNA  VITÓRIA, ES, SEXTA-FEIRA, 16 DE MARÇO DE 2018
+
+Ciência e Tecnologia
+Testes em robôs
+no lugar de animais
+
+D I V U LG AÇ ÃO
+
+Cientistas já criaram
+sistema de computador
+em que reações a
+substâncias e remédios
+são conhecidas sem
+uso em um ser vivo
+
+SÃO PAULORatos, coelhos e outros ani-
+
+mais vêm sendo, há tempos,
+parte essencial de testes de
+segurança e eficácia de medica-
+mentos antes que cheguem aos
+humanos. Mas alguns cientistas
+estão tentando poupar esses ani-
+mais, e até tornar as drogas mais
+seguras, criando cobaias virtuais.
+O Centro Nacional de Substitui-
+ção, Refinamento e Redução de
+Animais em Pesquisas (NC3Rs),
+do Reino Unido, concedeu seu
+prêmio internacional de 2017 a
+uma equipe da Universidade de
+Oxford por sua pesquisa de uso de
+simulações de computador no lu-
+gar de animais vivos.
+
+Com a ajuda de seu software
+
+“Virtual Assay”, a equipe desen-
+volveu um modelo de computador
+das células cardíacas humanas e
+executou milhares de simulações
+para ver como 62 drogas (e 15
+compostos amplamente usados
+em pesquisas) afetavam as células.
+É uma espécie de “c o b a i a - ro b ô ”.
+Combinado com dados clínicos de
+verdade, o modelo foi capaz de
+adivinhar corretamente, na maior
+parte do tempo, se uma substância
+era perigosa para o coração.
+
+De forma específica, ele previu
+se uma droga poderia causar arrit-
+mia em 89% das vezes. E o modelo
+até pareceu se sair melhor do que
+pesquisas animais parecidas: tes-
+tes de medicamentos em células
+cardíacas feitos em coelhos só
+combinaram com os dados clíni-
+
+“A fase de triagem
+
+mil animais por ano”
+
+substâncias) pode
+exceder o uso de 60
+
+(nos testes de
+
+Elisa Passini, autora do estudo
+
+cos em 75% das vezes.
+
+A autora principal, Elisa Passini,
+pesquisadora do departamento de
+Ciências da Computação de Ox-
+ford, contou ao Gizmodo por e-
+mail que, além de os modelos da
+equipe serem mais precisos, ela
+acredita que eles poderiam, um
+dia, salvar vários animais de serem
+usados e mortos em nome da ciên-
+cia para testar drogas frequente-
+mente tóxicas nos estágios iniciais.
+“Essa fase de triagem pode facil-
+mente exceder o uso de 60 mil ani-
+mais por ano, e é aqui que nossos
+modelos podem ter um papel im-
+portante na substituição.”
+
+Cientistas afirmam que ainda
+não é possível abrir mão comple-
+tamente dos testes com animais,
+mas a chamada modelagem com-
+putacional “in silico” vem há mui-
+to tempo sendo exaltada como
+uma ferramenta em potencial para
+descobrir e testar novas drogas, as-
+sim como um jeito de entender
+melhor doenças como câncer e
+distúrbios genéticos.
+
+Mas a modelagem computacio-
+nal ainda não se tornou parte im-
+portante de pesquisas científicas.
+
+TESTE EM ANIMAIS: novas ferramentas para substituir uso de seres vivos
+
+EUA revelam detalhes
+de superdrone militar
+
+WAS H I N G TO N
+
+A Marinha dos EUA encomen-
+dou aeronaves não-tripuladas com
+capacidade para transportar car-
+gas úteis internas e externas de 4
+toneladas, voar em um raio de
+1.200 quilômetros, fornecer apoio
+aéreo ofensivo e decolar e aterrar
+ve r t i c a l m e n t e.
+
+Os militares querem um drone
+capaz de carregar dezenas de mís-
+seis diferentes, incluindo um mo-
+delo anti-radiação, além de uma
+arma capaz de matar com precisão
+extrema e guiada por laser.
+
+O drone também deve ser capaz
+de voar em estado de alerta ou em
+
+caso de guerra eletrônica.
+
+O equipamento seria usado so-
+bretudo para missões de inteli-
+gência, vigilância e reconheci-
+mento. As especificações tam-
+bém detalham que os militares
+esperam uma versão inicial do
+sistema de operação terrestre até
+2025 e do mecanismo de embar-
+que e desembarque vertical na
+água até 2028. A aeronave total-
+mente operacional está prevista
+para 2034.
+
+As empresas interessadas em
+participar do programa MUX in-
+cluem a Bell, Piasecki Aircraft,
+Ares e Boeing, Lockheed Martin e
+Northrop Grumman.
+
+D I V U LG AÇ ÃO
+
+DRONE PARA
+USO MILITAR:
+as aeronaves
+não- tripuladas
+vão ter
+capacidade
+p a ra
+transpor tar
+cargas úteis
+internas e
+ex t e r n a s
+de quatro
+toneladas
+
+

@@ -1,0 +1,241 @@
+26  ATRIBUNA  VITÓRIA, ES, DOMINGO, 04 DE FEVEREIRO DE 2018
+
+Ec o n o m i a
+
+Co m p u ta d o re s
+cuidam de
+R$ 300 milhões
+
+ADEMIR RIBEIRO — 25/07/2015
+
+Esse é o montante que
+robôs investidores já
+estão gerenciando no
+Brasil. Eles definem
+qual é o grau de risco e
+onde aplicar o dinheiro
+
+Andreia FerreiraRobôs investidores já estão
+
+gerenciando montantes de
+R$ 300 milhões no Brasil. A
+inteligência artificial Warren con-
+versa com potenciais investidores,
+tenta entender qual a familiarida-
+de deles com ações e títulos de dí-
+vida e facilita os processos de in-
+ve st i m e n t o.
+
+O robô define ainda qual é o
+grau de risco que o sujeito está
+inclinado a tomar e dá opções de
+onde aplicar o dinheiro. A má-
+quina é criação de ex-funcioná-
+rios da XP Investimentos. War-
+ren é, na prática, um chatbot, um
+tipo de robô que funciona em
+serviços de bate-papo.
+
+O gerenciamento de aplica-
+ções feitas por robôs é comum
+em países com uma cultura de
+investimento mais fortalecida.
+No entanto, os robôs investido-
+res estão ganhando espaço no
+mercado brasileiro por diversos
+motivos, segundo o site de tec-
+nologia SmarttBot.
+
+O que faz com que ainda exista
+pouca afinidade em relação ao as-
+
+sunto, e até mesmo receio de usar
+robôs, é a falta de informação rele-
+vante e clara, além do desconheci-
+mento em relação às possibilida-
+des que existem para testar esse ti-
+po de tecnologia antes de aplicar
+com dinheiro real.
+
+Os robôs foram criados para que
+o investidor não precisasse mais fi-
+car o pregão inteiro em frente ao
+computador fazendo a mesma coi-
+sa sem, sequer, poder se levantar
+para não perder oportunidades.
+
+O computador consegue acom-
+panhar muito mais cenários do
+que um investidor e executar as
+ordens com mais precisão e velo-
+c i d a d e.
+
+O robô investidor é um código
+implementado em uma linguagem
+de programação, que recebe e pro-
+cessa os dados do mercado confor-
+me regras pré-estabelecidas, res-
+peitando cenários, indicadores.
+
+O mestre em informática e dou-
+torando em Ciência da Computa-
+ção Marcello Novaes disse que os
+robôs analisam a melhor maneira
+de investir, com base em eventos
+históricos do mercado financeiro
+e, por exemplo, qual empresa mais
+se valorizou nos últimos anos.
+
+“Entretanto, o robô não tem sen-
+sibilidade sobre eventos atípicos
+políticos, por exemplo, que refle-
+tem na queda de ações de empre-
+sas. Ele dá respostas conforme o
+histórico e não sobre o que está
+ocorrendo atualmente. O fato é
+que os investimentos feitos por ro-
+bôs costumam ser certeiros”.
+
+MARCELLO NOVAES disse que os robôs analisam a melhor maneira de investir, com base em eventos históricos
+
+Empresa capixaba recebe oferta
+
+A corretora de valores Uniletra,
+que pertence ao grupo capixaba
+Dadalto, pode passar para as mãos
+da Empiricus, empresa indepen-
+dente de análise de investimentos.
+As informações são do jornal O
+Estado de S. Paulo. Alguns de seus
+sócios estão prestes a ter a sua pró-
+pria corretora de valores, caso a
+compra se efetive. O negócio já es-
+tá em diligência, mas nenhum
+contrato ainda foi assinado.
+A reportagem de A Tribuna
+apurou que a oferta é de R$ 30 mi-
+lhões. A ideia em fazer uma aquisi-
+
+ção por meio dos sócios, e não pela
+Empiricus, é garantir que a em-
+presa seja entendida pelos seus as-
+sinantes como independente. E é
+esse desenho final que os sócios
+estão terminando de delinear.
+
+Tendo essa preocupação em vis-
+ta, a Empiricus chegou a fazer, no
+ano passado, uma pesquisa com
+sua base de assinantes sobre a pos-
+sibilidade da criação de uma cor-
+retora e o resultado foi positivo,
+apesar de ter gerado dúvidas entre
+muitos clientes, que se posicionam
+contra o movimento.
+
+O interesse na Uniletra seria
+apenas em relação ao CNPJ, se-
+gundo informação publicada no
+jornal.
+
+Sócios da Empiricus tentaram se
+aliar a casas grandes, mas ainda
+não conseguiram que sua base,
+atualmente de 180 mil assinantes,
+servisse de passaporte para o salto.
+A investida de sócios da Empiri-
+cus ocorre em um momento de
+consolidação das corretoras. Hoje,
+são 75 players, ante 95 há cinco
+anos, de acordo com dados do
+Banco Central.
+
+ROBÔS I N V EST I D O R ES
+O que são?
+> OS ROBÔS investidores (robôs de in-
+vestimento ou robô trader) são pro-
+gramas de computador que realizam
+uma sequência de tarefas específi-
+cas para a execução de investimen-
+tos na Bolsa de Valores, de forma to-
+talmente automatizada, sem qual-
+quer intervenção humana.
+
+> OS ROBÔS INVESTIDORESrecebeme
+processam os dados do mercado,
+conforme regras pré-estabelecidas,
+respeitando cenários, indicadores,
+condições de entrada e saída e ou-
+tros critérios usados para investir,
+realizando de forma automática o ro-
+teamento de ordens para a bolsa de
+va l o r e s .
+
+Benefícios
+> O ROBÔ desconsidera o fator emo-
+cional que prejudica qualquer inves-
+tidor. Ver as oscilações de preços,
+acompanhar as instabilidades e até
+o humor podem afetar a decisão
+consciente que vai contra uma boa
+estratégia pelo medo de perder di-
+nheiro ou a suposição de que os va-
+
+lores mudarão repentinamente.
+
+> AS OPERAÇÕES, sejam as entradas
+ou saídas, são executadas de forma
+bem mais rápida do que se fossem
+feitas manualmente pelo investidor.
+> UM ROBÔ leva alguns milissegundos
+para fazer isso, sendo capaz, inclu-
+sive, de enviar, alterar e cancelar vá-
+rias ordens em um mesmo segundo e
+
+agir rapidamente quando os cená-
+rios pré-estabelecidos se apresen-
+tam no mercado.
+
+> ESSA velocidade faz toda a diferença
+para o programa não perder seus
+preços-alvo. Há tranquilidade para
+investir sem perder oportunidades.
+
+Fo n t e : Site Smarttbot.
+
+NOVA APOSENTADORIA
+
+Congresso volta sem
+votos para reforma
+
+B R AS Í L I A
+
+O Congresso Nacional volta às
+atividades amanhã na mesma si-
+tuação em que se encontrava no
+fim de 2017 — sem os votos neces-
+sários para aprovar a reforma da
+Previdência na Câmara.
+
+Com essa possibilidade cada vez
+mais remota, tanto o Planalto
+quanto o Legislativo começam a
+preparar discursos para minimi-
+zar o desgaste que cada um sofre-
+
+rá, caso a reforma não seja votada.
+Para aprovar a Proposta de
+Emenda à Constituição (PEC), são
+necessários 308 votos em dois tur-
+nos. A contagem mais otimista hoje
+é de 270 votos, mas ao menos três
+articuladores ouvidos dizem que o
+governo não tem esse placar.
+
+Em um último esforço, líderes
+reunirão suas bancadas na terça.
+No dia seguinte, encontram o pre-
+sidente da Câmara, Rodrigo Maia
+(DEM-RJ), para somar os votos.
+
+

@@ -1,0 +1,817 @@
+Ec o n o m i a
+
+I n d i ca d o re s
+
+CDB (29/05)
+PRAZO/DIAS ÚTEIS M O DA L I DA D E
+30/21 dias
+181/124 dias
+FO N T E : U n i l e t ra .
+
+CDBPRE 30
+CDBPRE 180
+
+TAXA A.M.
+0, 4 9 7 %
+0, 5 1 8 %
+
+TAXA A.A.
+6,13%
+6,39%
+
+CDI
+PERÍODO
+CDI acumulado mensal
+CDI acumulado 12 meses
+
+TAXA S
+PERÍODO
+de 25/04 a 25/05
+de 26/04 a 26/05
+de 27/04 a 27/05
+de 28/04 a 28/05
+de 29/04 a 29/05
+de 30/04 a 30/05
+
+P O U PA N ÇA
+DATA * * DEPÓSITO ATÉ
+
+3/5/2012* (%)
+0, 5 0 0 0
+3 0 / 05
+0, 5 0 0 0
+3 1 / 05
+01/06
+0, 5 0 0 0
+02/06 0, 5 0 0 0
+03 / 0 6
+0, 5 0 0 0
+
+PERCENTUAL
+1 ,0 0 05 1 7 5 1 4 %
+7, 8 8 %
+
+TBF (%)
+0, 4 6 4 5
+0,464 7
+0, 4 4 4 2
+0, 4 2 2 7
+0, 4 4 5 0
+0,467 2
+
+TR (%)
+0
+0
+0
+0
+0
+0
+
+A PARTIR DE
+4/5/2012* (%)
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+
+DATA * * DEPÓSITO ATÉ
+
+3/5/2012* (%)
+0, 5 0 0 0
+04/06
+0, 5 0 0 0
+05 / 0 6
+0, 5 0 0 0
+06/06
+07/06
+0, 5 0 0 0
+08/06 0, 5 0 0 0
+
+A PARTIR DE
+4/5/2012* (%)
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+0, 3 7 1 5
+
+(*) RENDIMENTO DA APLICAÇÃO FEITA HÁ 30 DIAS.
+(**) OS RENDIMENTOS OCORREM DO DIA 1º AO DIA 28, EM TODOS OS MESES.
+OBS: DEPÓSITOS A PARTIR DE 04/05/2013 RENDEM 70% DA SELIC MAIS TAXA REFERENCIAL (TR), SE A
+TAXA DE JUROS FOR IGUAL OU INFERIOR A 8,5% AO ANO. EM APLICAÇÕES ANTES DISSO E QUANDO A
+SELIC FOR ACIMA DE 8,5%, O RENDIMENTO É DE 6% AO ANO MAIS A TR.
+
+IMPOSTO DE RENDA ( M A I O)
+A L Í Q U OTA
+R E N D I M E N TO
+isento
+Até R$ 1.903,98
+7, 5 %
+De R$ 1.903,99 até R$ 2.826,65
+15%
+De R$ 2.826,66 até R$ 3.751,05
+22,5%
+De R$ 3.751,06 até R$ 4.664,68
+Acima de R$ 4.664,68
+2 7, 5 %
+
+D E D U ÇÃO
+–
+R$ 142,80
+R$ 354,80
+R$ 636,13
+R$ 869,36
+
+D E D U Ç Õ ES : R$ 189,59 POR DEPENDENTE; PENSÃO ALIMENTÍCIA JUDICIAL; VALOR DA CONTRIBUIÇ ÃO
+PAGA, NO MÊS, À PREVIDÊNCIA OFICIAL E A ENTIDADES DE PREVIDÊNCIA PRIVADA NO BRASIL .
+
+INSS ( M A I O)
+E M P R EG A D O S
+SALÁRIO DE CONTRIBUIÇÃO
+Até R$ 1.693,72
+De R$ 1.693,73 a R$ 2.822,90
+De R$ 2.822,91 a R$ 5.645,80
+
+ALÍQUOTA (INSS)
+8%
+9%
+11%
+
+O DESCONTO DOS EMPREGADOS RELATIVO À PREVIDÊNCIA RESPEITA O TETO MÁXIMO DE R$ 5.645,80
+— QUEM RECEBE SALÁRIOS SUPERIORES A ESSE VALOR SÓ CONTRIBUI ATÉ ESSE LIMITE MÁX I M O,
+CORRESPONDENDO A 11% (R$ 621,03).
+CONTRIBUINTE INDIVIDUAL E FACULTATIVO
+SALÁRIO-BASE DE CONTRIBUIÇÃO
+Valor mínimo
+Valor máximo
+
+R$
+95 4
+5.645,80
+
+R$
+104,94
+1 . 1 2 9, 1 6
+
+%
+11
+20
+
+COTAÇÕES DO CAFÉ (29/05)
+Arábica tipo 6, Bebida Dura, com até 12% de umidade
+Arábica tipo 7, Bebida Rio, com até 12% de umidade
+Conilon 7 com até 13% de umidade e até 10% de broca
+
+R$ 429
+R$ 402
+R$ 377
+
+BOLSA DE MERCADORIAS (29/05)
+P R O D U TO
+
+U N I DA D E
+
+Boi gordo castrado
+Boi gordo inteiro
+Vaca gorda
+Frango abat. int. resfriado
+Suíno abat. carca. com.
+Ovos brancos extra
+Ovos vermelhos extra
+Feijão - carioquinha
+Feijão -preto
+Feijão -vermelho
+Banana-prata clim. 1ª
+Banana-terra clim. extra
+Coco-verde grande
+Goiaba vermelha extra
+Laranja-pera tipo 113/140
+Limão Taiti
+Mamão Havaí tipo 15/18
+Maracujá extra
+Morango extra
+Milho verde
+A b ó b o ra - j a c a r é
+Alface lisa grande
+Alho imp. branco chinês
+Aipim extra
+Batata inglesa comum
+Batata-baroa amarela
+Batata- doce
+Beterraba extra
+Cebola amarela
+Cenoura extra
+Chuchu extra
+Couve-flor extra
+Jiló extra
+Pepino extra
+Pimentão extra
+Quiabo extra
+Repolho branco extra
+Tomate longa vida ext. AA
+
+FO N T E : I n c a p e r / Ce a s a - E S / Ave s / A s e s .
+
+Arroba
+Arroba
+Arroba
+kg
+kg
+Caixa 30 dz
+Caixa 30 dz
+kg
+kg
+kg
+kg
+kg
+Unidade
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+kg
+
+P R EÇ O
+MÍNIMO
+R$ 138
+R$ 135
+R$ 125
+
+–
+–
+R$ 70
+R$ 80
+R$ -
+R$ 3,33
+R$ 3,44
+R$ 1
+R$ -
+R$ 1,50
+R$ 2,18
+R$ 2
+R$ -
+R$ -
+R$ 3,80
+R$ 8,33
+R$ 1,43
+R$ 1,28
+R$ 3,20
+R$ 10
+R$ 1,08
+R$ -
+R$ -
+R$ 1,25
+R$ -
+R$ 3,83
+R$ -
+R$ 0,37
+R$ 1,25
+R$ 1,43
+R$ 0,90
+R$ 1,15
+R$ 1,36
+R$ 0,75
+R$ 1,27
+
+P R EÇ O
+M ÁX I M O
+R$ 138
+R$ 138
+R$ 133
+
+P R EÇ O
+MÉDIO
+R$ 138
+R$ 137,32
+R$ 131,36
+–
+R$ 4,09
+R$ 6,43
+–
+R$ 70
+R$ 70
+R$ 80
+R$ 80
+R$ -
+R$ -
+R$ 3,33
+R$ 3,33
+R$ 3,56
+R$ 3,50
+R$ 1
+R$ 1
+R$ -
+R$ -
+R$ 1,50
+R$ 1,50
+R$ 2,33
+R$ 2,25
+R$ 2,20
+R$ 2,10
+R$ -
+R$ -
+R$ -
+R$ -
+R$ 4
+R$ 3,90
+R$ 9,03
+R$ 8,75
+R$ 1,43
+R$ 1,43
+R$ 1,30
+R$ 1,29
+R$ 3,27
+R$ 3,33
+R$ 10,25 R$ 10,42
+R$ 1,13
+R$ -
+R$ -
+R$ 1,31
+R$ -
+R$ 3,88
+R$ -
+R$ 0,39
+R$ 1,38
+R$ 1,52
+R $ 1 ,0 2
+R$ 1,29
+R$ 1,36
+R$ 0,75
+R$ 1,41
+
+R$ 1,17
+R$ -
+R$ -
+R$ 1,35
+R$ -
+R$ 3,92
+R$ -
+R$ 0,41
+R$ 1,38
+R$ 1,58
+R$ 1,11
+R$ 1,43
+R$ 1,36
+R$ 0,75
+R$ 1,50
+
+VITÓRIA, ES, QUARTA-FEIRA, 30 DE MAIO DE 2018  ATRIBUNA  25
+
+KADIDJA FERNANDES – 2 6 / 05 / 2 0 1 6
+
+FACHADA DO INSS: uso de documentos falsos para forjar identidades de idosos
+
+FRAUDES NO ESTADO
+
+I n ve s t i ga d o
+golpe milionário
+contra o INSS
+
+Polícia Federal fez
+buscas e apreensão
+durante operação que
+apura ilegalidades em
+benefícios, com prejuízo
+estimado em R$ 1 milhão
+
+A Polícia Federal no Estado
+
+deflagrou ontem a Opera-
+ção 3x4 com objetivo de
+combater fraudes praticadas con-
+tra o Instituto Nacional do Seguro
+Social (INSS), em especial nos be-
+nefícios assistenciais de prestação
+continuada a pessoas idosas, a
+aposentadoria. Um mandado de
+busca e apreensão contra um dos
+suspeitos foi cumprido.
+
+Os investigados vão responder
+pelo crime de estelionato qualifi-
+cado e associação criminosa. A pe-
+na para os crimes podem chegar a
+até oito anos de reclusão.
+
+A ocorrência das fraudes no
+INSS foi identificada pela PF há
+oito anos. A investigação, porém,
+teve início no ano passado.
+
+E N T E N DA
+
+Durante esse período, o prejuízo
+causado pelos golpes é em torno de
+R$ 1 milhão. De acordo com a PF, a
+atividade criminosa é desenvolvida
+há pelo menos 10 anos e todos os
+casos ainda não foram analisados,
+podendo fazer com que esses pre-
+juízos sejam maiores.
+
+A Polícia Federal informou
+que a prática dos criminosos
+consiste no uso de documentos
+falsos para forjar identidades de
+pessoas idosas que eram alicia-
+das para esse fim.
+
+De acordo com a investigação, os
+criminosos agem da mesma forma
+há vários anos. Essa situação origi-
+nou vários inquéritos e indicia-
+mento de algumas pessoas, mas
+ainda não tinha sido possível iden-
+tificar o mentor das fraudes.
+
+Com o trabalho de inteligência
+da Força-Tarefa Previdenciária da
+Polícia Federal, do Instituto Na-
+cional de Seguro Social (INSS) e
+do Ministério Público Federal foi
+possível identificar o autor de
+fraudes investigadas anteriormen-
+te e identificar outras fraudes que
+ainda não tinham sido detectadas.
+
+Crimes praticados há 10 anos
+Estelionato qualificado
+> A POLÍCIA FEDERALdeflagrou ontem
+a Operação 3 x 4 que apura fraudes
+em benefícios de aposentadoria do
+Instituto Nacional de Seguro Social
+(INSS). As investigações começa-
+ram no ano passado.
+
+> AS INVESTIGAÇÕES apontam que os
+criminosos agiam da mesma forma
+há 10 anos, mas ainda não tinha sido
+possível chegar ao autor das frau-
+des.
+
+> AS FRAUDES podem ter causado
+prejuízo superior a R$ 1 milhão no
+instituto.
+
+> OS CRIMINOSOS faziam uso de do-
+cumentos falsos para forjar identi-
+dades de pessoas idosas que eram
+aliciadas para esse fim.
+
+> AS PENASpodem ser de até oito anos
+de prisão. Os investigados vão res-
+ponder por estelionato qualificado e
+associação criminosa.
+
+> UM MANDADO de busca e apreensão
+foi cumprido ontem pela Polícia Fe-
+d e ra l .
+
+Fo n t e : Polícia Federal
+
+Dólar sobe pela quarta
+vez e fecha a R$ 3,73
+
+Influenciado pelos impactos da crise nacional e pela
+aversão geral a risco no exterior, o dólar comercial fechou
+ontem em alta de 0,28%, cotado a R$ 3,739 na venda.
+
+É o quarto avanço seguido da moeda norte-america-
+na. Na véspera, o dólar havia subido 1,64%, na maior
+valorização diária desde 7 de dezembro de 2017.
+
+VARIAÇÃO DO DÓLAR NA SEMANA
+
+3,645
+
+3,625
+
+Dólar
+
+3,648
+
+3,668
+
+3,729
+
+3,739
+
+22/05       23/05        24/05        25/05     Segunda    Ontem
+
+SELIC
+PERÍODO
+Taxa selic acumulada no ano
+Taxa selic de um dia
+
+CÂMBIO (29/05)
+M O E DA S
+Dólar comercial
+Dólar turismo (espécie)
+Euro (espécie)
+Dólar canadense
+Franco suíço
+Ie n e
+Libra esterlina
+
+COMPRA
+R$ 3,7379
+R$ 3,68
+R$ 4,26
+R$ 2,8613
+R$ 3,7557
+R$ 0,03432
+R$ 4,9419
+
+FONTE: Banestes, Banco Central e CMA.
+
+PERCENTUAL
+6,5%
+1 ,0 0 0 24 6 2 0 %
+
+V E N DA
+R$ 3,7392
+R$ 3,88
+R$ 4,49
+R$ 2,8627
+R$ 3,7578
+R$ 0,03434
+R$ 4,9445
+
+BOLSA NO BRASIL (29/05)
+I B OV ES PA
+AÇ ÃO
+Banestes ON (BEES3)
+Petrobras ON (PETR3)
+Petrobras PN (PETR4)
+Vale ON (VALE3)
+Vale PNA (VALE5)*
+Fibria ON (FIBR3)
+Oi ON (OIBR3)
+Usiminas PNA (USIM5)
+B. do Brasil ON (BBAS3)
+Eletrobras PNB (ELET6)
+
+76 .0 7 1
+C OTAÇÃO
+R$ 3,42
+R$ 22,24
+R$ 19,30
+R$ 50,16
+-
+R$ 70,56
+R$ 3,40
+R$ 8,56
+R$ 28,51
+R$ 16,60
+
+M
+L
+L
+M
+
++ 0, 95 % L
+VA R I AÇÃO
+- 5,00%
++12,38%
++14,13%
+- 1 ,7 8 %
+-
+-2 , 1 8 %
+- 5,56%
++2,51%
++2,26%
++1,53%
+
+M
+M
+L
+L
+L
+
+OBS.: *Não houve registros para essa ação.
+
+BOLSAS NO MUNDO (29/05)
+M E R CA D O
+Na s d a q - 1 0 0
+Dow Jones (EUA)
+Londres (Inglaterra)
+Paris (França)
+Tóquio (Japão)
+Merval (Argentina)
+Frankfurt (Alemanha)
+Bolsa de Xangai (China)
+
+P O N TO S
+6.926,54
+24 . 3 6 1 , 4 5
+7. 6 3 2 , 6 4
+5 . 4 3 8 ,0 6
+22.358,43
+28.325,59
+12.666,51
+3 . 1 2 0, 4 6
+
+VA R I AÇÃO
+- 0,49%
+-
+-1,26%
+-
+- 0,55%
+-1,15%
+-1,53%
+-0,4 7%
+
+M
+
+M
+
+M
+M
+M
+M
+
+FONTE: CMA, UOL, Estadão e sites das Bolsas.
+
+INFLAÇÃO (%)
+
+0,24
+
+0,19 0,16 0,42
+
+0
+
+-0,23
+
+IPCA
+0,28
+
+0,44
+
+12 meses: 2,76%
+
+0,29
+
+0,32 0,09 0,22
+
+Jun   Jul   Ago   Set   Out   Nov  Dez  Jan   Fev   Mar   Abr
+
+ÍNDICE
+
+JA N .
+
+F E V.
+
+MAR .
+
+0, 6 9
+IPC-DI (FGV)
+0,7 6
+IGP-M (FGV)
+0, 4 6
+IPC-SP (Fipe)
+0, 5 8
+IGP-DI (FGV)
+INPC (IBGE)
+0, 2 3
+INCC IGP (FGV) 0,0 8
+ICV-SP (Dieese) 0, 95
+
+0, 1 7
+0,0 7
+- 0,42
+0, 1 5
+0, 1 8
+0, 3 2
+0, 0 5
+
+0, 2 5
+0, 6 4
+zero
+0, 5 6
+0,0 7
+0, 1 2
+0, 03
+
+AC U M .
+ANO
+0, 9 2
+1,4 7
+0, 0 5
+1,30
+0, 4 8
+0, 5 2
+1 ,0 4
+
+ACUM. 12
+M ES ES
+3,12
+0, 2 0
+1 , 93
+0,7 6
+1,56
+3,40
+2,57
+
+REAJUSTES DE ALUGUEL
+Í N D I C ES ACUMULADO % ATÉ JANEIRO (*)
+
+TRIM. QUADR . SEM.
+1,31
+1 ,7 5
+Fi p e
+3,11
+IGP -DI
+2,13
+2,96
+IGP -M 2,18
+INPC
+0, 6 7
+0, 9 9
+(*) ACUMULADO ATÉ JANEIRO REAJUSTA ALUGUÉIS E CONTRATOS A PARTIR
+DE FEVEREIRO, PARA PAGAMENTO EM MARÇO; ACUMULADO ATÉ FEVEREIRO
+REAJUSTA A PARTIR DE MARÇO, PARA PAGAMENTO EM ABRIL.
+
+ANUAL TRIM. QUADR . SEM.
+2,41
+1,23
+3 ,03
+- 0,28
+2,94
+- 0,41
+1,87
+1,21
+
+ACUMULADO % ATÉ FEVEREIRO (*)
+ANUAL
+2 ,0 7
+- 0,19
+- 0,42
+1,81
+
+0, 5 9 0, 8 8
+2,29
+1,48
+2,26
+1,7 2
+0, 6 7
+0, 85
+
+1,63
+2,23
+2,38
+1 ,0 4
+
+OUTROS ÍNDICES
+SALÁRIO MÍNIMO
+Valor de Referência do Tesouro Estadual (VRTE)
+Ouro (grama — 29/05 — + 1,76%)
+Unidade Fiscal de Referência (Ufir)
+Taxa de Juros de Longo Prazo (TJLP) (% a.a.)
+
+FO N T E : U n i l e t ra / Co m a r.
+
+R$ 954
+R$ 3,27 26
+R$ 156
+R$ 1,0641
+0, 5 6 2 5 %
+
+CUSTO DA CONSTRUÇÃO (C U B)
+VALOR (M2) VARIAÇÃO MENSAL VARIAÇÃO ANUAL
+M ÊS
+R$ 1.560,99
+Abril
+Ma r ç o
+R$ 1.559,03
+Feve r e i r o R$ 1.558,04
+
++ 0, 1 3 %
++ 0,0 6 %
++ 0,0 9 %
+
++ 0, 6 9 %
++ 0, 5 6 %
++ 0, 5 0 %
+
+

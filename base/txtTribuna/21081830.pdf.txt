@@ -1,0 +1,217 @@
+30  ATRIBUNA  VITÓRIA, ES, TERÇA-FEIRA, 21 DE AGOSTO DE 2018
+
+Ciência e Tecnologia
+
+BERKELEY AI RESEARCH LAB/BERKELEY ROBOT LEARNING
+
+Aplicativo de
+espionagem
+expõe senhas
+e até “nudes ”
+
+ROBÔ americano da Rethink
+Robotics chega a demorar
+15 minutos. Cientistas dizem
+que desenvolver assistente
+doméstico é mais complicado
+do que parece
+
+Robô leva 4 minutos para
+dobrar uma peça de roupa
+
+Victoria & Albert, em Londres, on-
+de os robôs estão expostos até 4 de
+novembro deste ano.
+
+“(O robô desenvolvido pela Re-
+think Robotics) vem de um apren-
+dizado profundo, com uma uni-
+versidade que está na vanguarda
+da inteligência artificial, mas leva
+15 minutos para realizar uma tare-
+fa que fazemos em segundos”.
+
+Uma casa-padrão tem elemen-
+tos que variam constantemente,
+
+como crianças que não necessaria-
+mente entendem o sistema do ro-
+bô e que podem dar-lhe objetos
+aos quais não estão habituados.
+
+“Um assistente autônomo, para
+funcionar bem nesse contexto, te-
+ria de ser versátil, adaptável a mu-
+danças no ambiente e fácil de se
+trabalhar ”, diz Siddharth Srivasta-
+va, que ajudou a desenvolver o ro-
+bô com equipe de cientistas em
+B e r ke l e y.
+
+DIVULGA ÃO
+
+Batizada de Laundroid,
+a criação japonesa já
+ajuda nas tarefas, mas
+cientistas dizem que
+vai demorar anos até
+realizar toda a faxina
+
+SÃO PAULOQuem reclama que falta tem-
+
+po e energia para se dedicar
+à manutenção da casa difi-
+cilmente recusaria uma ajudinha,
+por exemplo, para dobrar as rou-
+pas recém-lavadas, certo? Pois sai-
+ba que a tecnologia já permite que
+robôs dobrem calças e camisetas.
+A versão hoje mais famosa é ja-
+ponesa, uma máquina batizada de
+Laundroid. Ela recentemente ga-
+nhou uma concorrente americana,
+que funciona com um software
+desenhado pela Universidade da
+Califórnia em Berkeley (EUA) e
+
+hardware da empresa Rethink Ro-
+b o t i c s.
+
+Mas não se empolgue muito.
+Enquanto os robôs têm grande
+capacidade de se concentrar nas
+tarefas para as quais foram dese-
+nhados, seu ritmo é, às vezes, an-
+gustiantemente lento. O Laun-
+droid leva quatro minutos para
+dobrar uma peça. O ajudante da
+Rethink Robotics, quinze. Os ro-
+bôs talvez demorem até chegar
+ao ponto em que farão toda a fa-
+xina.
+
+Um robô capaz de dobrar rou-
+pas tem vocação para uma série de
+outras tarefas, mais críticas, como
+atuar em situações de emergência,
+em cenários de recuperação de de-
+sastres ou no cuidado de doentes.
+Isso porque desenvolver assis-
+tentes para ajudar com tarefas do-
+mésticas é mais complicado do
+que parece.
+
+Esse é o paradoxo, diz Mariana
+Pestana, cocuradora da mostra O
+Futuro Começa Aqui, no Museu
+
+FACHADA da Universidade de Berkeley, onde pesquisas estão avançadas
+
+Independência é desafio
+
+Um dos desafios encontrados
+por ele e sua equipe era fazer o ro-
+bô entender o nível de sofisticação
+das tarefa que lhe poderiam ser
+p e d i d a s.
+
+“Assim como todo mundo que
+trabalha em equipe sabe, um assis-
+tente não ajuda muito se precisa
+de instruções a todo minuto”, diz
+Siddharth Srivastava, que ajudou a
+desenvolver o robô com uma equi-
+
+pe de cientistas em Berkeley.
+
+Os robôs não têm um conheci-
+mento “ina to”. A questão é que
+não é possível pré-programar o ro-
+bô para que alterne automatica-
+mente seus afazeres. “Pre ci s a mo s
+desenvolver algoritmos para que
+ele faça um planejamento hierar-
+quizado, com percepção e lógica
+que detecte o que precisa fazer pa-
+ra realizar uma tarefa”, destacou
+
+Um aplicativo usado para es-
+pionar parceiros amorosos ex-
+pôs as senhas de 1,7 milhão de
+usuários, deixando completa-
+mente desprotegido o acesso a
+informações pessoais e até “nu -
+des”, revelou a revista Forbes.
+
+O vazamento de dados do
+“Couple Vow” foi revelado por
+pesquisadores alemães do Ins-
+tituto Fraunhofer, que divulga-
+ram sua descoberta em uma
+convenção de hackers em Las
+Vegas (EUA), no último sábado.
+Segundo a publicação, uma
+vulnerabilidade “rudimentar ”
+do próprio aplicativo permitiu
+que hackers bem intencionados
+recuperassem partes dos dados
+desses usuários.
+
+A falha fez com que fosse pos-
+sível não só ter acesso ao con-
+teúdo dos aparelhos dessas pes-
+soas, mas também apagar as
+imagens salvas nos dispositivos,
+até nove de uma vez.
+
+Os pesquisadores apontaram,
+durante o evento, pelo menos
+mais 18 casos de aplicativos de
+espionagem disponíveis no Go-
+ogle Play com falhas de segu-
+rança similares.
+
+Em um dos casos, por exem-
+plo, os pesquisadores buscaram
+os dados do servidor do aplica-
+tivo sem precisar digitar nome
+de usuário e senha, e todos os
+logins estavam disponíveis, sem
+criptografia, legíveis a qualquer
+pessoa com conexão à internet.
+Em julho, um vazamento de
+dados em uma companhia de
+robótica canadense expôs in-
+formações de mais de 100 em-
+presas, incluindo montadoras
+de automóveis e outros grandes
+nomes do setor industrial, como
+Tesla, Chrysler, Ford, Toyota,
+GM, ThyssenKrupp e Volkswa-
+gen.
+
+As informações foram encon-
+tradas pela companhia de segu-
+rança UpGuard, que trouxe o
+caso a público.
+
+O pacote de dados pertence à
+Level One Robotics e tinha 47
+mil arquivos que somavam 157
+GB (gigabytes). Entre os docu-
+mentos estão dados de clientes,
+funcionários e contratos firma-
+dos entre a empresa e as monta-
+doras, incluindo os contratos de
+c o n f i d e n c i a l i d a d e.
+
+Diagramas para a montagem
+das fábricas e configurações de
+robôs também estavam no pa-
+cote vazado.
+
+D I V U LG AÇ ÃO
+
+CELULAR: vazamento de dados
+
+

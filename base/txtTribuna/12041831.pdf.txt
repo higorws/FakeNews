@@ -1,0 +1,321 @@
+VITÓRIA, ES, QUINTA-FEIRA, 12 DE ABRIL DE 2018  ATRIBUNA  31
+
+Ciência e Tecnologia
+Facebook vai dar até R$ 134
+mil por denúncia de fraude
+
+Usuários da rede
+social que informarem
+mau uso de dados vão
+ser recompensados
+com valores a partir do
+equivalente a R$ 1.685
+
+SÃO PAULOO Facebook anunciou ontem
+
+um programa de recom-
+pensa que vai pagar a partir
+de US$ 500 (R$ 1.685) a pessoas
+que denunciarem usos abusivos de
+dados de usuários da rede social.
+
+“Quanto maior o impacto ou o
+número dos usuários afetados,
+maior a recompensa”, diz o Face-
+book. Os valores pagos por bugs
+identificados na rede social podem
+chegar a US$ 40 mil (R$ 134.800),
+segundo a empresa.
+
+A companhia está no meio de
+um turbilhão provocado após a
+descoberta de que um desenvolve-
+dor conseguiu recolher dados de
+usuários e repassá-los à Cambrid-
+ge Analytica, consultoria política
+que trabalhou nas campanhas de
+Donald Trump à presidência dos
+EUA e da saída do Reino Unido da
+União Europeia.
+
+“Este programa recompensará
+pessoas com conhecimento e
+comprovação de que um aplicati-
+vo dentro da plataforma do Face-
+book coleta e transfere dados das
+pessoas para um terceiro que os
+venderá, roubará ou os usará para
+golpes ou até influência política”,
+afirmou Collin Greene, líder de
+segurança de produtos da rede
+social.
+
+REUTERS/LEAH MILLIS
+
+MARK
+ZUCKERBERG
+deu depoimento
+à Câmara dos
+Estados Unidos
+sobre o
+escândalo
+envolvendo o
+Fa c e b o o k
+
+da recompensa a serem analisados
+pelo Facebook serão: impacto do
+abuso; alcance da exposição dos
+dados; número de afetados (10 mil
+usuários, pelo menos).
+
+Para averiguar a veracidade do
+caso de abuso de dados, o Facebo-
+ok pedirá que o denunciante envie
+algumas provas, como informa-
+ções capazes de identificar um
+usuário, como e-mails, ou os no-
+mes e contratos das empresas que
+tentam vender ou usar os dados em
+golpes. A investigação pode durar
+
+de três a seis meses, diz a empresa.
+“Se confirmarmos o abuso de
+dados, encerraremos o aplicativo
+ofensor e tomaremos medidas le-
+gais contra a empresa que está
+vendendo ou comprando os dados,
+se necessário”, afirma Greene.
+
+Após pagar o responsável pela
+denúncia, a empresa alertará todos
+os usuários que tiverem os dados
+explorados de forma indevida.
+
+Mark Zuckerberg, presidente-
+executivo do Facebook, depôs on-
+tem na Câmara dos Deputados.
+
+O Facebook permite que aplica-
+tivos rodem sobre sua plataforma
+ou usem as credenciais dos usuá-
+rios no site como forma de login.
+Com isso, esses serviços acessam
+dados pessoais dos usuários arma-
+zenados pela rede social.
+
+Chamado de Data Abuse Boun-
+ty, o programa é similar à iniciativa
+da rede social para recompensar a
+identificação de falhas de seguran-
+ça na rede social.
+
+No caso das denúncias de abusos,
+alguns dos critérios para concessão
+
+Criador também teve dado roubado
+
+Mark Zuckerberg, presidente-
+executivo e criador do Facebook,
+admitiu ontem que as informa-
+ções pessoais dele fizeram parte
+dos dados de mais de 87 milhões
+de usuários da rede social que fo-
+ram explorados pela Cambridge
+Analytica para construir algorit-
+mos usados em campanhas polí-
+t i c a s.
+
+Na véspera, o executivo afirmou
+que os dados foram comprados
+pela consultoria política que tra-
+balhou na campanha de Donald
+Trump à presidência dos Estados
+Unidos e na votação para decidir a
+saída do Reino Unido da União
+E u ro p e i a .
+
+O CEO da empresa passou por
+uma sessão de questionamentos
+
+Países mais afetados
+
+ESTADOS UNIDOS
+FILIPINAS
+INDONÉSIA
+REINO UNIDO
+MÉXICO
+CANADÁ
+ÍNDIA
+BRASIL
+
+Fonte: Facebook
+
+1.175.870
+1.096.666
+1.079.031
+789.880
+622.161
+562.455
+443.117
+0
+
+70.632.350
+
+30M
+
+60M
+
+90M
+
+no Comitê de Energia e Comércio
+da Câmara dos Deputados, após
+participar de uma audiência na
+véspera no Senado.
+
+Ele foi ao Congresso dos EUA pa-
+ra esclarecer como o Facebook rea-
+giu ao “va z a m e n t o ” de dados de 87
+milhões de pessoas pela consultoria
+política Cambridge Analytica e co-
+mo a empresa trabalha para prote-
+ger os dados de seus usuários.
+
+Zuckerberg fez a revelação após
+ser questionado pela deputada An-
+na Eshoo.
+
+“Seus dados pessoais estavam en-
+tre as informações vendidas por ou-
+tros agentes à Cambridge Analyti-
+ca?”, questionou a parlamentar.
+
+“Sim”, respondeu Zuckerberg. As
+informações foram publicadas pelo
+portal G1.
+
+A empresa britânica de análise
+política acessou o grande volume
+de dados pessoais por meio do
+teste psicológico “This is Your Di-
+gital Life”.
+
+Os dados não eram só os das pes-
+
+soas que toparam fazer o teste. Ha-
+via também informações de mi-
+lhões de amigos delas.
+
+Zuckerberg não informou, no en-
+tanto, se ele usou o teste ou se é ami-
+go de alguém que o tenha usado.
+
+O que se sabe é que esse teste
+não precisou usar hackers ou ex-
+plorar brechas de segurança da re-
+de social. Ele apenas aproveitou
+uma regra do próprio Facebook.
+
+Na época, a rede social dava po-
+der para seus usuários autoriza-
+rem que serviços acessassem os
+dados de amigos.
+
+O passo seguinte na estratégia,
+no entanto, estava fora do raio de
+atuação do Facebook: após a coleta
+dos dados, o desenvolvedor do tes-
+te os compartilhou com a Cam-
+bridge Analytica.
+
+Na audiência no Senado, Mark
+Zuckerberg afirmou que os dados
+foram vendidos por Alexander
+Koga, desenvolvedor do teste
+“This is Your Digital Like”, à Cam-
+bridge Analytica.
+
+Co s m é t i c o s
+vencidos são
+uma ameaça
+para a saúde
+
+Esmalte, sombra, rímel... Os
+aliados da beleza também po-
+dem se transformar em inimi-
+gos da saúde. O dermatologista
+Marco Rocha explicou ontem,
+no programa Bem Estar, da TV
+Globo, quais os cuidados com os
+c o s m é t i c o s.
+
+A data de validade não é um
+mero detalhe. Ela indica até
+quando a empresa vai se res-
+ponsabilizar por qualquer coisa
+que aconteça da interação do
+produto com a pessoa, até
+quando esse produto terá eficá-
+cia e até quando os conservan-
+tes estarão atuantes.
+
+Sem conservantes, os produ-
+tos têm mais chances de serem
+contaminados por vírus, bacté-
+rias e fungos. As informações
+são do site Bem Estar, no G1.
+
+Hidratantes corporais e cre-
+mes antienvelhecimento estão
+entre os que mais irritam a pele
+quando vencidos. Produtos pa-
+ra cabelo costumam levar a der-
+matites no couro cabeludo. Os
+sintomas são coceira, vermelhi-
+dão, feridas e até bolhas.
+
+Produtos para o rosto mere-
+cem atenção redobrada. Além
+de prejudicarem a pele, que é
+mais sensível, podem compro-
+meter os olhos. Já os esmaltes
+vencidos provocam reações
+surpreendentes. Para evitar
+qualquer problema, além da da-
+ta de validade, é importante
+prestar atenção às formas de
+usar e armazenar os produtos.
+Os cosméticos também preci-
+sam ficar longe da umidade e da
+luz direta do sol para serem pre-
+servados. Se com todos esses
+cuidados a pessoa tiver sinal de
+alergia, tem de suspender o uso
+i m e d i a t a m e n t e.
+
+Cabelo com atitude: rosa, ver-
+de, roxo, azul! As cores domina-
+ram as cabeças de muita gente.
+Elas falam da nossa energia,
+personalidade, de uma vida
+com atitude. Mas será que todo
+mundo pode pintar o cabelo?
+
+A alergista Alexandra Sayuri
+Watanabe e o químico e espe-
+cialista em cosmético capilar
+Celso Martins Júnior explica-
+ram que não é indicado fazer
+grandes mudanças nos cabelos
+de crianças até 11 anos.
+
+Isso porque para aplicar a tin-
+ta é preciso clarear o cabelo
+com água oxigenada e pó des-
+colorante. É aí que mora o peri-
+g o.
+
+D I V U LG AÇ ÃO
+
+USO DE BATOM: alerta médico
+
+
